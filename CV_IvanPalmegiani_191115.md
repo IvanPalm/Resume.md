@@ -10,18 +10,18 @@
 
 <!-- TOC -->
 
-- [Profile ![](/images/2019/11/icons8-profile-64.png)](#profile-images201911icons8-profile-64png)
-  - [Technical skills](#technical-skills)[^footnote]
+- [Profile](#profile)
+  - [Technical skills](#technical-skills)
   - [Hobbies and interests](#hobbies-and-interests)
   - [Spoken and written languages](#spoken-and-written-languages)
-- [Professional Experience](#professional-experience-prof_expimages201911prof_expjpeg)
-- [Education](#education-eduimages201911icons8-graduation-cap-64png)
-- [Further training](#further-training-trainingimages201911icons8-intelligence-48png)
+- [Professional Experience](#professional-experience)
+- [Education](#education)
+- [Further training](#further-training)
 
 <!-- /TOC -->
 
 
-## Profile ![](/images/2019/11/icons8-profile-64.png)
+## Profile
 Sociable and friendly, highly motivated at work, self-organised, and moved by inherent curiosity. Suitable to work in a team but also able to take charge of tasks individually. Strong analytical mindset. Coding enthusiast. Positive attitude towards challenges. Big fan of data-driven decision making. Eager to learn further analytical methods and techniques in order to address and answer a wider range of questions. Versatile and ductile skillset.
 
 #### Technical skills
@@ -38,7 +38,7 @@ Outdoor sports and activities (i.e. climbing, hiking, biking, canoeing, camping)
 #### Spoken and written languages
 English (IELTS certification level C1) • German (TELC certification level B1) • Italian (mother tongue) • Spanish (fluent) • Portuguese (fluent)
 
-## Professional Experience ![prof_exp](/images/2019/11/prof_exp.jpeg)
+## Professional Experience
 since June 2018 **Freelancing data scientist**
 - Data search and gathering via web scraping
 - Exploratory data analysis (EDA)
@@ -120,7 +120,7 @@ Monitoring the demography and reproductive success of freeranging wolves in cent
   [c059f692]: http://habitatlinceabutre.lpn.pt/en "LIFE-Lynx-Vulture"
   [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
 
-## Education ![edu](/images/2019/11/icons8-graduation-cap-64.png)
+## Education
 Jul. 2010 **Master of Science (MSc)**  
 Environmental science and natural resources management, University of Sassari. Grade: 110/110 *cum Laude*  
 Environmental modelling, statistical inference, advanced statistical theory, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics, systems ecology, landscape ecology, regional geology, sedimentology.
@@ -130,7 +130,7 @@ Environmental Science, University of Perugia.
 Grade: 107/110  
 Principles of biology, geology and ecology. The course of study covered a wide range of subjects to provide the students with the solid background required to undertake ecological and environmental studies.
 
-## Further training ![training](/images/2019/11/icons8-intelligence-48.png)
+## Further training 
 Aug. 2019 - Nov. 2019 **Data Science Bootcamp**  
 Business Trends Academy, Berlin.
 - Data protection and ethical matters
