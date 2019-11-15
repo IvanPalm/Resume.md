@@ -39,7 +39,7 @@ Outdoor sports and activities (i.e. climbing, hiking, biking, canoeing, camping)
 English (IELTS certification level C1) • German (TELC certification level B1) • Italian (mother tongue) • Spanish (fluent) • Portuguese (fluent)
 
 ## Professional Experience
-since June 2018 **Freelancing data scientist**
+since June 2018 **Freelance Data Scientist**
 - Data search and gathering via web scraping
 - Exploratory data analysis (EDA)
 - Data visualization
