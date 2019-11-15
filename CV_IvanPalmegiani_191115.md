@@ -67,7 +67,7 @@ Investigate the behavioural ecology of freeranging female cheetahs in central Na
 - SQL querying and database management
 - Geodata visualization and map rendering
 
-April 2013 - September 2013 **Research Assistant**  
+Apr. 2013 - Sept. 2013 **Research Assistant**  
 [Leibniz-Institut für Zoo und Wildtierefroschung - IZW][bb58fb82]  
 GPS data collection and analysis to investigate the spatial ecology of freeranging cheetahs in central Namibia  
 - Live capture of cheetahs
@@ -130,7 +130,7 @@ Environmental Science, University of Perugia.
 Grade: 107/110  
 Principles of biology, geology and ecology. The course of study covered a wide range of subjects to provide the students with the solid background required to undertake ecological and environmental studies.
 
-## Further training 
+## Further training
 Aug. 2019 - Nov. 2019 **Data Science Bootcamp**  
 Business Trends Academy, Berlin.
 - Data protection and ethical matters
@@ -160,7 +160,7 @@ IRSAE, International Research School in Applied Ecology - FEM, Edmund Mach Found
 - Spatial database management in PostgreSQL/PostGIS
 - Movement data analysis in R
 
-Nov. 2012 **Multivariate Data Analysis for Ecology and Evolution in R**
+Nov. 2012 **Multivariate Data Analysis for Ecology and Evolution in R**  
 CIBIO - Research Center in Biodiversity and Genetic Resources
 - Explanatory methods (PCA, PcoA, MDS, clustering)
 - Inferential methods (Randomization, bootstrap, jackknife, Monte Carlo statistics, multivariate, GLM, PLS, CanCor, Mantel Test)
@@ -168,7 +168,7 @@ CIBIO - Research Center in Biodiversity and Genetic Resources
 - Model selection (i.e. Hypothesis testing vs information criteria)
 - Analysis of dispersion (i.e. Convex hulls area/volume, nearest neighbour, centroid size, eccentricity)  
 
-Jun. 2011 **BiostAT 2011 – Statistic inference in Biology and Human Sciences**
+Jun. 2011 **BiostAT 2011 – Statistic inference in Biology and Human Sciences**  
 UniASTISS, Department of Statistics - Purdue University, Department of Economy - UniMORE, Italian Institute for Philosophical Studies, Department of Statistics - Bologna University, Department of Human and Animal Biology - University of Turin, Department of Social Research - University of Eastern Piedmont, Asti Association for Scientific and Technological Development.
 - Linear and non-linear regression models
 - Non-parametric regression model
