@@ -1,43 +1,40 @@
-## **Resume**
+# **Resume**
 ## Ivan Palmegiani  
 ##### MSc in “Environmental science and natural resources management”  
 ###### Berlin - Germany
-(+49) 176 25102471  -  [ivan.palmegiani@gmail.com][ada1528d]  -  [LinkedIn Account][2d6409ca]  -  [GitHub Account][e3281462]
+[ivan.palmegiani@gmail.com][ada1528d]  -  [LinkedIn Account][2d6409ca]  -  [GitHub Account][e3281462]
 
   [2d6409ca]: https://www.linkedin.com/in/ivan-palmegiani-13a4a15b/ "My_LinkedIn"
   [ada1528d]: ivan.palmegiani@gmail.com "My_Email"
   [e3281462]: https://github.com/IvanPalm "My_GitHub"
-
+---
 <!-- TOC -->
 
 - [Profile](#profile)
-  - [Technical skills](#technical-skills)
-  - [Hobbies and interests](#hobbies-and-interests)
-  - [Spoken and written languages](#spoken-and-written-languages)
 - [Professional Experience](#professional-experience)
 - [Education](#education)
 - [Further training](#further-training)
 
 <!-- /TOC -->
-
-
+---
 ## Profile
-Sociable and friendly, highly motivated at work, self-organised, and moved by inherent curiosity. Suitable to work in a team but also able to take charge of tasks individually. Strong analytical mindset. Coding enthusiast. Positive attitude towards challenges. Big fan of data-driven decision making. Eager to learn further analytical methods and techniques in order to address and answer a wider range of questions. Versatile and ductile skillset.
+Sociable and friendly, highly motivated, self-organized, and moved by inherent curiosity. Suitable to work in a team but also able to take charge of tasks individually. Strong analytical mindset. Coding enthusiast. Positive attitude towards challenges. Big fan of data-driven decision making. Eager to learn new analytical methods and techniques in order to expand my horizons. Versatile and ductile skill set.
 
 #### Technical skills
 - R
 - Python
 - SQL
 - Version control in Git and GitHub
-- Geographic Information System, such as QGIS
-- Markdown, Rmarkdown and Pymarkdown
+- Geographic Information Systems, such as QGIS
+- Markdown, Rmarkdown and GitHub Flavored Markdown (GFM)
 
 #### Hobbies and interests
 Outdoor sports and activities (i.e. climbing, hiking, biking, canoeing, camping) • Indoor gardening • Urban farming • Handicraft • Music and arts.
 
 #### Spoken and written languages
-English (IELTS certification level C1) • German (TELC certification level B1) • Italian (mother tongue) • Spanish (fluent) • Portuguese (fluent)
+English (IELTS certification level C1) • German (TELC certification level B1) • Italian (mother tongue) • Spanish (fluent) • Portuguese (fluent).
 
+---
 ## Professional Experience
 since June 2018 **Freelance Data Scientist**
 - Data search and gathering via web scraping
@@ -119,7 +116,7 @@ Monitoring the demography and reproductive success of freeranging wolves in cent
   [0bbdea24]: https://www.racius.com/pygargus-servicos-veterinarios-lda/ "Pygargus"
   [c059f692]: http://habitatlinceabutre.lpn.pt/en "LIFE-Lynx-Vulture"
   [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
-
+---
 ## Education
 Jul. 2010 **Master of Science (MSc)**  
 Environmental science and natural resources management, University of Sassari. Grade: 110/110 *cum Laude*  
@@ -129,7 +126,7 @@ Feb. 2008 **Bachelor of Science (BSc)**
 Environmental Science, University of Perugia.
 Grade: 107/110  
 Principles of biology, geology and ecology. The course of study covered a wide range of subjects to provide the students with the solid background required to undertake ecological and environmental studies.
-
+---
 ## Further training
 Aug. 2019 - Nov. 2019 **Data Science Bootcamp**  
 Business Trends Academy, Berlin.
