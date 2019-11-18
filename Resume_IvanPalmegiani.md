@@ -24,6 +24,14 @@ Scientist with strong analytical mindset. Advanced technical skills developed ov
 <center><h3> Expertise </h3></center>
 R coding | Python programming | Relational databases (SQL) | Geographic Information Systems (GIS) | Exploratory data analyses (EDA) | Hypothesis testing | Inferential and predictive modelling | Time series analyses and forecast | Data visualization | Data reporting | Research
 
+<center><h3> References </h3></center>
+
+[**Alexandre Courtiol, PhD**][5e81c0d6] Senior Researcher at [IZW - Leibniz Institute for Zoo and Wildlife Research][bb58fb82]  
+[**Laura Iacolina, PhD**][01142937] Assistant Professor at [University of Primorska][58569d71]
+
+  [5e81c0d6]: https://www.linkedin.com/in/alexandre-courtiol-538b5a185/?originalSubdomain=de "AlexCourtiol"
+  [01142937]: https://www.linkedin.com/in/laura-iacolina-7710a525/ "LaurinaIacolina"
+  [58569d71]: https://www.famnit.upr.si/en/ "UniPrimorska"
 ---
 <h2> Professional Experience </h2>  
 **Freelance Data Scientist | Quantitative Analyst**, June 2018 - Present  
@@ -43,8 +51,6 @@ Collect geo-referenced environmental data. Collect bio-acoustic data, sonograms 
   [bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
   [87111420]: https://cibio.up.pt/ "CIBIO"
   [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
-
-<div style="page-break-after: always;"></div>
 
 <h2> Education </h2>
 **Master of Science (MSc)**, Jul. 2010
