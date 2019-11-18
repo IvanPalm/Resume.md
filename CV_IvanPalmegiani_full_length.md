@@ -1,23 +1,19 @@
-## **Resume**
-## Ivan Palmegiani  
-##### MSc in “Environmental science and natural resources management”  
-###### Berlin - Germany
-[ivan.palmegiani@gmail.com][ada1528d]  -  [LinkedIn Account][2d6409ca]  -  [GitHub Account][e3281462]
+# Ivan Palmegiani  
+#### MSc in “Environmental science and natural resources management”  
+##### Berlin - Germany
+<ivan.palmegiani@gmail.com>  -  [LinkedIn Account][2d6409ca]  -  [GitHub Account][e3281462]
 
   [2d6409ca]: https://www.linkedin.com/in/ivan-palmegiani-13a4a15b/ "My_LinkedIn"
-  [ada1528d]: ivan.palmegiani@gmail.com "My_Email"
   [e3281462]: https://github.com/IvanPalm "My_GitHub"
 
 <!-- TOC -->
-
 - [Profile](#profile)
 - [Professional Experience](#professional-experience)
 - [Education](#education)
 - [Further training](#further-training)
-
 <!-- /TOC -->
 
-## Profile
+## Profile ![profile_icon](images/2019/11/profile_icon_simple.png)
 Sociable and friendly, highly motivated, self-organized, and moved by inherent curiosity. Suitable to work in a team but also able to take charge of tasks individually. Strong analytical mindset. Coding enthusiast. Positive attitude towards challenges. Big fan of data-driven decision making. Eager to learn new analytical methods and techniques in order to expand my horizons. Versatile and ductile skill set.
 
 #### Technical skills
@@ -34,7 +30,7 @@ Outdoor sports and activities (i.e. climbing, hiking, biking, canoeing, camping)
 #### Spoken and written languages
 English (IELTS certification level C1) • German (TELC certification level B1) • Italian (mother tongue) • Spanish (fluent) • Portuguese (fluent).
 
-## Professional Experience
+## Professional Experience ![prof_exp](images/2019/11/data_analyses_icon.png)
 since June 2018 **Freelance Data Scientist**
 - Data search and gathering via web scraping
 - Exploratory data analysis (EDA)
@@ -116,7 +112,7 @@ Monitoring the demography and reproductive success of freeranging wolves in cent
   [c059f692]: http://habitatlinceabutre.lpn.pt/en "LIFE-Lynx-Vulture"
   [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
 
-## Education
+## Education ![edu_icon](images/2019/11/education_icon.png)
 Jul. 2010 **Master of Science (MSc)**  
 Environmental science and natural resources management, University of Sassari. Grade: 110/110 *cum Laude*  
 Environmental modelling, statistical inference, advanced statistical theory, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics, systems ecology, landscape ecology, regional geology, sedimentology.
@@ -126,7 +122,7 @@ Environmental Science, University of Perugia.
 Grade: 107/110  
 Principles of biology, geology and ecology. The course of study covered a wide range of subjects to provide the students with the solid background required to undertake ecological and environmental studies.
 
-## Further training
+## Further training ![training_icon](images/2019/11/mental_training_icon.png)
 Aug. 2019 - Nov. 2019 **Data Science Bootcamp**  
 Business Trends Academy, Berlin.
 - Data protection and ethical matters
