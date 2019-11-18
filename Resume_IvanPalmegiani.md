@@ -28,19 +28,19 @@ R coding | Python programming | Relational databases (SQL) | Geographic Informat
 <h2> Professional Experience </h2>  
 **Freelance Data Scientist | Quantitative Analyst**, June 2018 - Present  
 
-[IZW - Leibniz-Institut für Zoo und Wildtierforschung][bb58fb82]  
-**PhD Candidate**, May 2014 - June 2018 | **Research Assistant**, Apr. 2013 - Sept. 2013  
-Collect and analyze large time series of geo-referenced data with Kernel Density Estimation (KDE), Movement-based KDE (MKDE), Brownian Bridges Movement Models (BBMM), Local Convex Hulls (LoCoH), Nearest Neighbor Convex Hulls (NNCH), Random-walks. Model environmental dynamics with linear and non-linear regression models. Query relational data sets with SQL. Data visualization and report to stake-holders and team members. Write scientific papers. Organize scientific symposia.  
+[IZW - Leibniz Institute for Zoo and Wildlife Research][bb58fb82]  
+**PhD Candidate**, May 2014 - Jun. 2018 | **Research Assistant**, Apr. 2013 - Sept. 2013  
+Collect and analyze large time series of geo-referenced data with Kernel Density Estimation (KDE), Movement-based KDE (MKDE), Brownian Bridges Movement Models (BBMM), Local Convex Hulls (LoCoH), K-nearest neighbors algorithms (k-NN), Random-walks. Model environmental dynamics with linear and non-linear regression models. Query relational geo-data sets with SQL. Data visualization and report to stake-holders and team members. Write scientific papers. Organize scientific symposia.  
 
 [CIBIO - Research Center in Biodiversity and Genetic Resources ][87111420]  
-**Research Assistant**, Dec. 2012 - Feb.2013 | **Research Technician**, Feb. 2012 - Nov. 2012    
-Exploratory data analyses (EDA). Collect and analyze telemetry and environmental data. Model presence/absence data with generalized linear models (GLM). Design and maintain relational geo-databases (SQL). Write scientific papers. Report data to stake-holders and scientific audiences.  
+**Research Assistant**, Dec. 2012 - Feb. 2013 | **Research Technician**, Feb. 2012 - Nov. 2012    
+Exploratory data analyses (EDA). Collect and analyze GPS telemetry and environmental data. Model presence/absence data with generalized linear models (GLM). Design and maintain relational geo-databases (SQL). Write scientific papers. Report data to stake-holders and scientific audiences.  
 
 [Department of Zoology and Evolutionary Genetics, University of Sassari][09879b80]    
-**Research Technician**, Nov. 2010 - Nov.2011  
-Collect geo-referenced environmental data. Collect bioacustic data, analyses of sonograms. Collection and analyses of presence/absence data with camera-trapping surveys. __Teaching experience__: lecturer on wildlife monitoring methods and surveys.  
+**Research Technician**, Nov. 2010 - Nov. 2011  
+Collect geo-referenced environmental data. Collect bio-acoustic data, sonograms analyses. Collection and analyses of presence/absence data through camera-trapping surveys. __Teaching experience__: lecturer on wildlife monitoring and surveys methods.  
 
-  [bb58fb82]: http://www.izw-berlin.de/willkommen.html "IZW"
+  [bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
   [87111420]: https://cibio.up.pt/ "CIBIO"
   [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
 
