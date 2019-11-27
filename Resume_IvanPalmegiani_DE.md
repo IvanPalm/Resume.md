@@ -49,6 +49,7 @@ Sammlung von georeferenzierten Umweltdaten. Sammlung und Analyse bioakustischer 
 
 
 <h2> Ausbildung </h2>
+
 **Master of Science (MSc)**, Jul. 2010
 *Umweltwissenschaften und Management natürlicher Ressourcen*, Universität Sassari. Note: 110/110 *cum Laude*  
 Umweltmodellierung, statistische Schlussfolgerung, fortgeschrittene statistische Theorie, Zoozänose und Wildtierschutz, Wildtiermanagement, Genetik, Pflanzenschutz, Umweltökonomie, Systemökologie, Landschaftsökologie, Regionalgeologie, Sedimentologie.
