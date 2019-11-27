@@ -27,17 +27,19 @@ R-Codierung | Python-Programmierung | Relationale Datenbanken (SQL) | Geographis
 
 ---
 <h2> Berufserfahrung </h2>  
-**Freiberuflicher Datenwissenschaftler | Quantitativer Analyst**, Juni 2018 - aktuell  
+**Freiberuflicher Datenwissenschaftler | Quantitativer Analyst**, Jun. 2018 - aktuell  
 
 [IZW - Leibniz-Institut für Zoo-und Wildtierforschung][bb58fb82]  
 **Doktorand**, Mai 2014 - Jun. 2018 | **Wissenschaftlicher Assistent**, Apr. 2013 - Sept. 2013  
-Sammlung und Analyse langer Zeitreihen von georeferenzierten und Telemetrie-Daten mit Kernel Density Estimation (KDE), Movement-based KDE (MKDE), Brownian Bridges Movement Models (BBMM), Local Convex Hulls (LoCoH), K-nearest neighbors algorithms (k-NN), Random-Walkes. EDA und Modellierung der Umgebungsdynamik mit linearen und nichtlinearen Regressionsmodellen. Sammlung und Analyse von Präsenz-Abwesenheitsdaten. Relationale Geodatenbanken in PostGreSQL. Datenvisualisierung und Reporting an Stakeholder, Mitarbeiter und wissenschaftliches Publikum. Erstellung von wissenschaftlichen Arbeiten. Organisation von wissenschaftlichen Symposien.  
+Sammlung und Analyse langer Zeitreihen von georeferenzierten Daten mit Kernel Density Estimation (KDE), Movement-based KDE (MKDE), Brownian Bridges Movement Models (BBMM), Local Convex Hulls (LoCoH), K-nearest neighbors algorithms (k-NN), Random-Walkes. EDA und Modellierung der Umgebungsdynamik mit linearen und nichtlinearen Regressionsmodellen. Sammlung und Analyse von Präsenz-Abwesenheitsdaten. Relationale Geodatenbanken in PostGreSQL. Datenvisualisierung und Reporting an Stakeholder, Mitarbeiter und wissenschaftliches Publikum. Erstellung von wissenschaftlichen Arbeiten. Organisation von wissenschaftlichen Symposien.  
 
-[CIBIO - Research Center in Biodiversity and Genetic Resources][87111420]  
+[CIBIO - Forschungszentrum für Biodiversität und genetische Ressourcen][87111420]  
 **Wissenschaftlicher Assistent**, Dez. 2012 - Feb. 2013 | **Wissenschaftlicher Techniker**, Feb. 2012 - Nov. 2012    
 Sammlung und Analyse von GPS-Telemetrie und georeferenzierten Umweltdaten. EDA- und Modelle von Präsenz-Abwesenheitsdaten mit generalisierten linearen Modellen (GLM). Entwurf und Verwaltung relationaler Datenbanken. Reporting von Daten an Stakeholder, Mitarbeiter und wissenschaftliches Publikum. Erstellung von wissenschaftlichen Arbeiten.   
 
-[Department of Zoology and Evolutionary Genetics, University of Sassari][09879b80]    
+<div style="page-break-after: always;"></div>
+
+[Abteilung für Zoologie und Evolutionsgenetik, Universität Sassari][09879b80]    
 **Forschungstechniker**, Nov. 2010 - Nov. 2011  
 Sammlung von georeferenzierten Umweltdaten. Sammlung und Analyse bioakustischer Daten. Sammlung und Analyse von Präsenz-Abwesenheitsdaten. Kamerafallenvermessungen. __Lehrende Erfahrung__: Lektor der Methoden zur Erhebung und Überwachung von Wildtieren.  
 
@@ -45,29 +47,28 @@ Sammlung von georeferenzierten Umweltdaten. Sammlung und Analyse bioakustischer 
   [87111420]: https://cibio.up.pt/ "CIBIO"
   [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
 
-<div style="page-break-after: always;"></div>
 
-<h2> Education </h2>
+<h2> Ausbildung </h2>
 **Master of Science (MSc)**, Jul. 2010
-*Environmental science and natural resources management*, University of Sassari. Grade: 110/110 *cum Laude*  
-Environmental modelling, statistical inference, advanced statistical theory, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics, systems ecology, landscape ecology, regional geology, sedimentology.
+*Umweltwissenschaften und Management natürlicher Ressourcen*, Universität Sassari. Note: 110/110 *cum Laude*  
+Umweltmodellierung, statistische Schlussfolgerung, fortgeschrittene statistische Theorie, Zoozänose und Wildtierschutz, Wildtiermanagement, Genetik, Pflanzenschutz, Umweltökonomie, Systemökologie, Landschaftsökologie, Regionalgeologie, Sedimentologie.
 
-<h3> Languages </h3>
-English (IELTS certification level C1) • German (TELC certification level B1) • Italian (mother tongue) • Spanish (fluent) • Portuguese (fluent).
+<h3> Sprache </h3>
+Englisch (IELTS Zertifizierungsstufe C1) - Deutsch (TELC Zertifizierungsstufe B1) - Italienisch (Muttersprache) - Spanisch (fließend) - Portugiesisch (fließend).
 
-<h3> Hobbies and interests </h3>
-Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • Indoor gardening • Urban farming • DIY and Handicraft • Music and Arts.
+<h3> Hobbys und Interessen </h3>
+Sport und Aktivitäten im Freien wie Klettern, Bouldern, Wandern, Radfahren, Kanufahren, Camping - Indoor Gardening - Urbane Landwirtschaft - DIY und Handwerk - Musik und Kunst.
 
-<h3> References </h3>
+<h3> Referenzen </h3>
 
-[**Alexandre Courtiol, PhD**][5e81c0d6] Senior Researcher at [IZW - Leibniz Institute for Zoo and Wildlife Research][bb58fb82]  
+[**Alexandre Courtiol, PhD**][5e81c0d6] Leitender Forscher bei dem [IZW - Leibniz-Institut für Zoo-und Wildtierforschung][bb58fb82]  
 <alexandre.courtiol@gmail.com>   
-[**Ilja Heckmann, PhD**][d56ee8a1] Data Protection Coordinator at [IZW - Leibniz Institute for Zoo and Wildlife Research][bb58fb82]  
+[**Ilja Heckmann, PhD**][d56ee8a1] Datenschutzkoordinator bei dem [IZW - Leibniz-Institut für Zoo-und Wildtierforschung][bb58fb82]  
 <ilja.heckmann@gmail.com>  
-[**Laura Iacolina, PhD**][01142937] Assistant Professor at [University of Primorska][58569d71]  
+[**Laura Iacolina, PhD**][01142937] Assistenz-Professorin an der [University of Primorska][58569d71]  
 <lauraiacolina@gmail.com>
 
 [5e81c0d6]: https://www.linkedin.com/in/alexandre-courtiol-538b5a185/?originalSubdomain=de "AlexCourtiol"
 [01142937]: https://www.linkedin.com/in/laura-iacolina-7710a525/ "LaurinaIacolina"
 [58569d71]: https://www.famnit.upr.si/en/ "UniPrimorska"
-  [d56ee8a1]: http://www.izw-berlin.de/heckmann-ilja.html "IljaHeckmann"
+[d56ee8a1]: http://www.izw-berlin.de/heckmann-ilja.html "IljaHeckmann"
