@@ -13,7 +13,8 @@
 <h1> Ivan Palmegiani, MSc </h1>
 
 #### Berlin - Germany
-<ivan.palmegiani@gmail.com> | [LinkedIn Account][2d6409ca]  |  [GitHub Account][e3281462]
+<ivan.palmegiani@gmail.com> | [LinkedIn Account][2d6409ca]  |  [GitHub Account][e3281462]  
+Phone number and address available on request
 
   [2d6409ca]: https://www.linkedin.com/in/ivan-palmegiani-13a4a15b/ "My_LinkedIn"
   [e3281462]: https://github.com/IvanPalm "My_GitHub"
@@ -38,7 +39,7 @@ Collect and analyze GPS telemetry and geo-referenced environmental data. EDA and
 
 [Department of Zoology and Evolutionary Genetics, University of Sassari][09879b80]    
 **Research Technician**, Nov. 2010 - Nov. 2011  
-Collect geo-referenced environmental data. Collect and analyze bio-acoustic data. Collect and analyze presence-absence data. Camera-trapping surveys. __Teaching experience__: lecturer on wildlife monitoring and surveys methods.  
+Collect geo-referenced environmental data. Collect and analyze bio-acoustic data. Collect and analyze presence-absence data. Camera-trapping surveys. __Teaching experience__: lecturer on wildlife survey/monitoring methods.  
 
   [bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
   [87111420]: https://cibio.up.pt/ "CIBIO"
