@@ -20,10 +20,10 @@ Auf Anfrage sind Telefonnummer und Anschrift verfügbar
   [e3281462]: https://github.com/IvanPalm "My_GitHub"
 <br/><br/>
 <center><h3> Profil </h3></center>
-Wissenschaftler mit starker analytischer Denkweise. Fortgeschrittene technische Fähigkeiten, die in mehr als 5 Jahren Berufserfahrung und intensiver Trainingsarbeit entwickelt wurden. Ausgezeichnete Kommunikationsfähigkeiten. Teamworker, der die Aufgaben individuell übernehmen kann. Sehr motiviert und positiv gegenüber Aufgaben. Neugierig und lernwillig. Konstruktiver kritischer Denker.
+Wissenschaftler mit starker analytischer Denkweise und sehr guten Organisationsfähigkeiten. Fortschrittliche technische Kompetenzen, die sich in mehr als 5 Jahren Berufserfahrung und intensives Training entwickelt haben. Ausgezeichnete Kommunikationsfähigkeiten. Teamplayer, der auch in der Möglichkeit ist, Aufgaben individuell zu übernehmen. Sehr motiviert und positiv zu den Anforderungen. Lösungsorientiert und mit Bedacht auf Details. Konstruktiver kritischer Denker. Neugierig und lernwillig.
 
 <center><h3> Fachkompetenz </h3></center>
-R-Codierung | Python-Programmierung | Relationale Datenbanken (SQL) | Geographische Informationssysteme (GIS) | Explorative Datenanalysen (EDA) | Hypothesentests | Inferenzielle und prädiktive Modellierung | Zeitreihenanalysen und Prognosen | Datenvisualisierung | Datenreporting | Forschung
+R-Codierung | Python-Programmierung | Relationale (Geo)Datenbanken (SQL und PostGreSQL) | Geographische Informationssysteme (GIS) | Explorative Datenanalysen (EDA) | Hypothesentests | Inferenzielle und prädiktive Modellierung | Zeitreihenanalysen und Prognosen | Datenvisualisierung | Datenreporting | Forschung
 
 ---
 <h2> Berufserfahrung </h2>  
@@ -55,10 +55,11 @@ Sammlung von georeferenzierten Umweltdaten. Sammlung und Analyse bioakustischer 
 Umweltmodellierung, statistische Schlussfolgerung, fortgeschrittene statistische Theorie, Zoozänose und Wildtierschutz, Wildtiermanagement, Genetik, Pflanzenschutz, Umweltökonomie, Systemökologie, Landschaftsökologie, Regionalgeologie, Sedimentologie.
 
 <h3> Sprache </h3>
-Englisch (IELTS Zertifizierungsstufe C1) - Deutsch (TELC Zertifizierungsstufe B1) - Italienisch (Muttersprache) - Spanisch (fließend) - Portugiesisch (fließend).
+
+Englisch (IELTS Zertifizierungsstufe C1) • Deutsch (TELC Zertifizierungsstufe B1) • Italienisch (Muttersprache) • Spanisch (fließend) • Portugiesisch (fließend).
 
 <h3> Hobbys und Interessen </h3>
-Sport und Aktivitäten im Freien wie Klettern, Bouldern, Wandern, Radfahren, Kanufahren, Camping - Indoor Gardening - Urbane Landwirtschaft - DIY und Handwerk - Musik und Kunst.
+Sport und Aktivitäten im Freien wie Klettern, Bouldern, Wandern, Radfahren, Kanufahren, Camping • Indoor Gardening • Urbane Landwirtschaft • DIY und Handwerk • Musik und Kunst.
 
 <h3> Referenzen </h3>
 

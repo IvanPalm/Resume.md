@@ -19,11 +19,12 @@ Phone number and address available on request
   [2d6409ca]: https://www.linkedin.com/in/ivan-palmegiani-13a4a15b/ "My_LinkedIn"
   [e3281462]: https://github.com/IvanPalm "My_GitHub"
 <br/><br/>
-<center><h3> Profile </h3></center>
-Scientist with strong analytical mindset. Advanced technical skills developed over 5+ years working experience, and intensive training. Excellent communication skills. Team worker, also able to take charge of tasks individually. Highly motivated and positive towards challenges. Curious and eager to learn. Constructive critical thinker.
+
+<center><h2> Profile </h2></center>
+Scientist with strong analytical mindset and very good organization skills. Advanced technical capabilities developed over 5+ years working experience, and intensive training. Excellent communication skills. Team worker, also able to take charge of tasks individually. Highly motivated and positive towards challenges. Solution oriented, and careful about details. Constructive critical thinker. Curious and eager to learn.
 
 <center><h3> Expertise </h3></center>
-R coding | Python programming | Relational databases (SQL) | Geographic Information Systems (GIS) | Exploratory data analyses (EDA) | Hypothesis testing | Inferential and predictive modelling | Time series analyses and forecast | Data visualization | Data reporting | Research
+R coding | Python programming | Relational (geo)databases (SQL and PostGreSQL) | Geographic Information Systems (GIS) | Exploratory data analyses (EDA) | Hypothesis testing | Inferential and predictive modelling | Time series analyses and forecast | Data visualization | Data reporting | Research
 
 ---
 <h2> Professional Experience </h2>  
@@ -67,7 +68,7 @@ Outdoor sports and activities such as climbing, bouldering, hiking, biking, cano
 [**Laura Iacolina, PhD**][01142937] Assistant Professor at [University of Primorska][58569d71]  
 <lauraiacolina@gmail.com>
 
-[5e81c0d6]: https://www.linkedin.com/in/alexandre-courtiol-538b5a185/?originalSubdomain=de "AlexCourtiol"
-[01142937]: https://www.linkedin.com/in/laura-iacolina-7710a525/ "LaurinaIacolina"
-[58569d71]: https://www.famnit.upr.si/en/ "UniPrimorska"
+  [5e81c0d6]: https://www.linkedin.com/in/alexandre-courtiol-538b5a185/?originalSubdomain=de "AlexCourtiol"
+  [01142937]: https://www.linkedin.com/in/laura-iacolina-7710a525/ "LaurinaIacolina"
+  [58569d71]: https://www.famnit.upr.si/en/ "UniPrimorska"
   [d56ee8a1]: http://www.izw-berlin.de/heckmann-ilja.html "IljaHeckmann"
