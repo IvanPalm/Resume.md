@@ -21,13 +21,14 @@ Phone number and address available on request
 <br/><br/>
 
 <center><h2> Profile </h2></center>
-Scientist with strong analytical mindset and very good organization skills. Advanced technical capabilities developed over 5+ years working experience, and intensive training. Excellent communication skills. Team worker, also able to take charge of tasks individually. Highly motivated and positive towards challenges. Solution oriented, and careful about details. Constructive critical thinker. Curious and eager to learn.
+Scientist with strong analytical mindset and very good organization skills. Advanced technical capabilities developed over 5+ years working experience, and intensive training. Excellent communication skills. Team worker, also able to take charge of tasks individually. Highly motivated and positive towards challenges. Solution oriented and careful about details. Constructive critical thinker. Curious and eager to learn.
 
 <center><h3> Expertise </h3></center>
-R coding | Python programming | Relational (geo)databases (SQL and PostGreSQL) | Geographic Information Systems (GIS) | Exploratory data analyses (EDA) | Hypothesis testing | Inferential and predictive modelling | Time series analyses and forecast | Data visualization | Data reporting | Research
+R coding | Python programming | Relational (geo)databases (SQL-PostGreSQL) | Geographic Information Systems (GIS) | Exploratory data analyses (EDA) | Hypothesis testing | Inferential and predictive modelling | Time series analyses and forecast | Data visualization | Data reporting | Research
 
 ---
-<h2> Professional Experience </h2>  
+<h2> Professional Experience </h2>
+
 **Freelance Data Scientist | Quantitative Analyst**, June 2018 - Present  
 
 [IZW - Leibniz Institute for Zoo and Wildlife Research][bb58fb82]  
@@ -45,7 +46,6 @@ Collect geo-referenced environmental data. Collect and analyze bio-acoustic data
   [bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
   [87111420]: https://cibio.up.pt/ "CIBIO"
   [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
-
 <div style="page-break-after: always;"></div>
 
 <h2> Education </h2>
