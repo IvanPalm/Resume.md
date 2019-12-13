@@ -22,7 +22,7 @@ Phone number and address available on request
 <br/><br/>
 
 ## Profile
-Scientist with strong analytical mindset and very good organization skills. Advanced technical capabilities developed over 5+ years working experience, and intensive training. Excellent communication skills. Team worker, also able to take charge of tasks individually. Highly motivated and positive towards challenges. Solution oriented, and careful about details. Constructive critical thinker. Curious and eager to learn.
+Scientist with strong analytical mindset, and very good organization skills. Advanced technical capabilities developed over 5+ years working experience, and intensive training. Excellent communication skills. Team worker, also able to take charge of tasks individually. Highly motivated and positive towards challenges. Solution oriented, and careful about details. Constructive critical thinker. Curious and eager to learn.
 
 ### Expertise
 R coding | Python programming | Relational (geo)databases (SQL and PostGreSQL) | Geographic Information Systems (GIS) | Exploratory data analyses (EDA) | Hypothesis testing | Inferential and predictive modelling | Time series analyses and forecast | Data visualization | Data reporting | Research
@@ -72,7 +72,7 @@ GIS and remote sensing in R | Characterization of movement trajectories | Home r
 Spatial database management in PostgreSQL/PostGIS | Movement data analysis in R
 
 **Multivariate Data Analysis for Ecology and Evolution in R**, Nov. 2012   
-*CIBIO - Research Center in Biodiversity and Genetic Resources*
+*CIBIO - Research Center in Biodiversity and Genetic Resources*  
 Explanatory methods (PCA, PcoA, MDS, clustering) | Inferential methods (Randomization, bootstrap, jackknife, Monte Carlo statistics, multivariate, GLM, PLS, CanCor, Mantel Test) | Evolutionary and ecological Non-Independence (PGLS, PIC, rates of change, spatial autocorrelation, spatial GLS) | Model selection (i.e. Hypothesis testing vs information criteria) | Analysis of dispersion (i.e. Convex hulls area/volume, nearest neighbour, centroid size, eccentricity).  
 
 **BiostAT 2011 – Statistic inference in Biology and Human Sciences**, Jun. 2011   
@@ -82,10 +82,10 @@ Linear and non-linear regression models | Non-parametric regression model
 
 ### Languages
 
-English (IELTS certification level C1) • German (TELC certification level B1) • Italian (mother tongue) • Spanish (fluent) • Portuguese (fluent).
+English (IELTS certification level C1) • German (TELC certification level B1) • Italian (mother tongue) • Spanish (fluent) • Portuguese (fluent)
 
 ### Hobbies and interests  
-Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • Indoor gardening • Urban farming • DIY and Handicraft • Music and Arts.
+Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • Indoor gardening • Urban farming • DIY and Handicraft • Music and Arts • Cooking
 
 ## References
 

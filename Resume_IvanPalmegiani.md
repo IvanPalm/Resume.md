@@ -54,10 +54,10 @@ Collect geo-referenced environmental data. Collect and analyze bio-acoustic data
 Environmental modelling, statistical inference, advanced statistical theory, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics, systems ecology, landscape ecology, regional geology, sedimentology.
 
 <h3> Languages </h3>
-English (IELTS certification level C1) • German (TELC certification level B1) • Italian (mother tongue) • Spanish (fluent) • Portuguese (fluent).
+English (IELTS certification level C1) • German (TELC certification level B1) • Italian (mother tongue) • Spanish (fluent) • Portuguese (fluent)
 
 <h3> Hobbies and interests </h3>
-Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • Indoor gardening • Urban farming • DIY and Handicraft • Music and Arts.
+Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • Indoor gardening • Urban farming • DIY and Handicraft • Music and Arts • Cooking
 
 <h3> References </h3>
 
