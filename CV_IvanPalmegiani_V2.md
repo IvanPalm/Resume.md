@@ -4,7 +4,7 @@
 
 **<ivan.palmegiani@gmail.com> | [LinkedIn Account][2d6409ca]  |  [GitHub Account][e3281462]  
 Berlin - Germany**   
-Phone number available on request
+Further contacts available on request
 
   [2d6409ca]: https://www.linkedin.com/in/ivan-palmegiani-13a4a15b/ "My_LinkedIn"
   [e3281462]: https://github.com/IvanPalm "My_GitHub"
@@ -26,8 +26,8 @@ R coding | Python programming | Relational (geo)databases (SQL and PostGreSQL) |
 Main goal: Investigating the mating system of freeranging cheetahs in central Namibia.  
 - Collected and analyzed long time series of geo-referenced and telemetry data with Kernel Density Estimation (KDE), Movement-based KDE (MKDE), Brownian Bridges Movement Models (BBMM), Local Convex Hulls (LoCoH), K-nearest neighbors algorithms (k-NN), Random-walks.
 - Explored data and modelled environmental dynamics with linear and nonlinear regression models.
-- Collected and analyzed presence-absence data via camera-trap surveys. Designed and maintained relational (geo)databases in PostGreSQL.
-- Provided insights to to stake-holders, team members, and scientific audiences, data reporting and visualization. Two scientific papers are on their way.  
+- Collected and analyzed presence-absence data via camera-trap surveys. Designed and maintained relational (geo)databases.
+- Provided insights to stake-holders, team members, and scientific audiences through data reporting and visualization. Two to three scientific papers will be published.  
 - Coordinated data collection in the field, supervised volunteers.
 - Organized scientific symposia.  
 
@@ -35,9 +35,9 @@ Main goal: Investigating the mating system of freeranging cheetahs in central Na
 **Research Assistant**, Dec. 2012 - Feb. 2013 | **Research Technician**, Feb. 2012 - Nov. 2012    
 Main goal: Investigate the spatial ecology of freeranging wolves, and predator-prey relationship in Peneda-Gerês National Park (PT).  
 - Collected and analyzed GPS telemetry and geo-referenced environmental data.
-- Explored and modelled presence-absence data with generalized linear models (GLM).
-- Designed and maintained relational geo-databases.
-- Provided insights to to stake-holders, team members, and scientific audiences, data reporting and visualization.  
+- Explored and modelled presence-absence in relation to environmental variables using linear and nonlinear regression models.
+- Designed and maintained relational (geo)databases.
+- Provided insights to stake-holders, team members, and scientific audiences, data reporting and visualization.  
 
 [Department of Zoology and Evolutionary Genetics, University of Sassari][09879b80]    
 **Research Technician**, Nov. 2010 - Nov. 2011  
