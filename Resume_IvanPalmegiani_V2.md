@@ -10,10 +10,11 @@ Phone number available on request
   [e3281462]: https://github.com/IvanPalm "My_GitHub"
 
 <br/><br/>
-<h2> Profile </h2>
+<br/><br/>
+<center><h2> Profile </h2></center>
 Scientist with strong analytical mindset and very good organization skills. Advanced technical capabilities developed over 5+ years working experience, and intensive training. Excellent communication skills. Team worker, also able to take charge of tasks individually. Highly motivated and positive towards challenges. Solution oriented and careful about details. Constructive critical thinker. Curious and eager to learn.
 
-<h3> Expertise </h3>
+<center><h3> Expertise </h3></center>
 R coding | Python programming | Relational (geo)databases (SQL-PostGreSQL) | Geographic Information Systems (GIS) | Exploratory data analyses (EDA) | Hypothesis testing | Inferential and predictive modelling | Machine Learning (ML) | Time series analyses and forecast | Data visualization | Data reporting | Research
 
 ---
