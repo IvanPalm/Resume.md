@@ -1,10 +1,10 @@
 <img id="topright" src="Pic_CV_450x600.jpg" alt="My_Pic" style="float: right;" width=120 height=160/>
 
-<h1> Ivan Palmegiani, MSc </h1>
+<h1> Ivan Palmegiani </h1>
 
-**<ivan.palmegiani@gmail.com> | [LinkedIn Account][2d6409ca]  |  [GitHub Account][e3281462]  
-Berlin - Germany**   
-Further contacts available on request
+**<ivan.palmegiani@gmail.com> | [LinkedIn Account][2d6409ca]  |  [GitHub Account][e3281462]**   
+Address and phone number available on request
+
 
   [2d6409ca]: https://www.linkedin.com/in/ivan-palmegiani-13a4a15b/ "My_LinkedIn"
   [e3281462]: https://github.com/IvanPalm "My_GitHub"
@@ -13,55 +13,64 @@ Further contacts available on request
 <br/><br/>
 
 <center><h2> Profile </h2></center>
-Scientist with strong analytical mindset and very good organization skills. Advanced technical capabilities developed over 5+ years working experience, and intensive training. Excellent communication skills. Team worker, also able to take charge of tasks individually. Highly motivated and positive towards challenges. Solution oriented, and careful about details. Constructive critical thinker. Curious and eager to learn.
+Researcher with strong analytical mindset and very good organization skills. Advanced technical capabilities developed over 5+ years working experience, and intensive training. Excellent communication skills. Team worker, also able to take charge of tasks individually. Highly motivated and positive towards challenges. Solution oriented and careful about details. Constructive critical thinker. Curious and eager to learn.
 
 <center><h3> Expertise </h3></center>
-R coding | Python programming | Relational (geo)databases (SQL and PostGreSQL) | Geographic Information Systems (GIS) | Exploratory data analyses (EDA) | Hypothesis testing | Inferential and predictive modelling | Machine Learning (ML) | Time series analyses and forecast | Data visualization | Data reporting | Research
+R coding | Python programming | Relational (geo)databases - MySQL and PostGreSQL | Geographic Information Systems - QGIS | Geodata analyses and modelling | Remote sensing | Time series analyses and forecast | Machine Learning (ML) | Data visualization | Data reporting | Research | Content writing
 
-<h2> Professional Experience </h2>  
-**Freelance Data Scientist | Quantitative Analyst**, June 2018 - Present  
+<center><h3> Languages </h3></center>
+English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
 
-[IZW - Leibniz Institute for Zoo and Wildlife Research][bb58fb82]  
+<h2> Professional Experience </h2>
+
+**Independent Researcher | Environmental Data Scientist**, Nov 2019 - Present  
+Main clients: SmartCloudFarming GmgH (DE) | | EarthRatings UG (DE) | University of Primorska (SI)  
+Services: Spatial analyses and modelling - Geodatabase management - Geodata query - Remote sensing - Exploratory data analyses (EDA) - Feature Engineering - ML - Bibliographic research and reporting - Content crafting for funding applications and marketing - Consulting for nature conservation projects.
+
 **PhD Candidate**, May 2014 - Jun. 2018 | **Research Assistant**, Apr. 2013 - Sept. 2013  
-Main goal: Investigating the mating system of freeranging cheetahs in central Namibia.  
-- Collected and analyzed long time series of geo-referenced and telemetry data with Kernel Density Estimation (KDE), Movement-based KDE (MKDE), Brownian Bridges Movement Models (BBMM), Local Convex Hulls (LoCoH), K-nearest neighbors algorithms (k-NN), Random-walks.
+[IZW - Leibniz Institute for Zoo and Wildlife Research (DE)][bb58fb82]  
+Main goal: Investigating the social system of the cheetah in central Namibia by the analysis of individual movement patterns and utilization of space.
+  
+- Collected and processed time series of geo-referenced data from satellite telemetry.
+- Performed spatial and movement analyses on tracking data.
 - Explored data and modelled environmental dynamics with linear and nonlinear regression models.
-- Collected and analyzed presence-absence data via camera-trap surveys. Designed and maintained relational (geo)databases.
-- Provided insights to stake-holders, team members, and scientific audiences through data reporting and visualization. Two to three scientific papers will be published.  
+- Collected and analyzed presence-absence data via camera-trap surveys.
+- Designed and maintained online and offline (geo)databases.
+- Provided insights to stakeholders, team members, and scientific audiences through public talks, data reporting and visualization.
 - Coordinated data collection in the field, supervised volunteers.
 - Organized scientific symposia.  
 
-[CIBIO - Research Center in Biodiversity and Genetic Resources ][87111420]  
 **Research Assistant**, Dec. 2012 - Feb. 2013 | **Research Technician**, Feb. 2012 - Nov. 2012    
-Main goal: Investigate the spatial ecology of freeranging wolves, and predator-prey relationship in Peneda-Gerês National Park (PT).  
-- Collected and analyzed GPS telemetry and geo-referenced environmental data.
-- Explored and modelled presence-absence in relation to environmental variables using linear and nonlinear regression models.
+[CIBIO - Research Center in Biodiversity and Genetic Resources (PT)][87111420]  
+Main goal: Investigating the spatial ecology of endangered wildlife species in the Iberian peninsula (Portugal and Spain).  
+- Collected and analyzed satellite telemetry and geo-referenced environmental data.
+- Explored and modelled species distribution in relation to environmental variables using linear and nonlinear regression models.
 - Designed and maintained relational (geo)databases.
-- Provided insights to stake-holders, team members, and scientific audiences, data reporting and visualization.  
+- Provided insights to stake-holders, team members, and scientific audiences through public talks, data reporting and visualization.  
 
-[Department of Zoology and Evolutionary Genetics, University of Sassari][09879b80]    
 **Research Technician**, Nov. 2010 - Nov. 2011  
-Main goal: Investigate spatial distribution, reproductive success, and predator-prey relationship of freeranging wolves in Arezzo Province - Tuscany (IT).  
+[Department of Zoology and Evolutionary Genetics, University of Sassari (IT)][09879b80]    
+Main goal: Investigate spatial distribution, abundance and reproductive success of wolves in central Italy.  
 - Collected geo-referenced environmental data.
 - Collected and analyzed bio-acoustic data.
 - Collected and analyzed presence-absence data via camera-trap surveys.
-
-__Teaching experience__: lecturer on wildlife survey and monitoring methods.  
 
   [bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
   [87111420]: https://cibio.up.pt/ "CIBIO"
   [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
 
 <h2> Education </h2>
+
 **Master of Science (MSc)**, Jul. 2010  
-*Environmental science and natural resources management*, University of Sassari. Grade: 110/110 *cum Laude*  
+*Environmental Sciences and Natural Resources Management*, University of Sassari. Grade: 110/110 *cum Laude*  
 Environmental modelling, statistical inference, advanced statistical theory, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics, systems ecology, landscape ecology, regional geology, sedimentology.
 
 **Bachelor of Science (BSc)**, Feb. 2008    
-*Environmental Science*, University of Perugia. Grade: 107/110  
+*Environmental Sciences*, University of Perugia. Grade: 107/110  
 Principles of biology, geology and ecology. The course of study covered a wide range of subjects to provide the students with the solid background required to undertake ecological and environmental studies.
 
 <h2> Further training </h2>
+
 **Data Science Bootcamp**, Aug. 2019 - Nov. 2019   
 *Business Trends Academy*  
 Data protection and ethical matters | Linear and nonlinear regression | A/B testing | Hypothesis testing | Data visualization in Tableau | Object oriented programming (OOP) | Python modules and functions | Pandas and NumPy | Multiprocessing and multithreading | RESTful API | Webscraping | Neural Networks and Machine Learning techniques | Keras, Anaconda and TensorFlow.
@@ -83,23 +92,8 @@ Explanatory methods (PCA, PcoA, MDS, clustering) | Inferential methods (Randomiz
 Linear and nonlinear regression models | Non-parametric regression model
 | Principal components analysis | Factor analysis | Correspondence analysis | Cluster analysis | R coding.
 
-<h3> Languages </h3>
-
-English (IELTS certification level C1) • German (TELC certification level B1) • Italian (mother tongue) • Spanish (fluent) • Portuguese (fluent)
 
 <h3> Hobbies and interests </h3>  
-Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • Indoor gardening • Urban farming • DIY and Handicraft • Music and Arts • Cooking
+Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • Indoor gardening • Urban agriculture • DIY and Handicraft • Music and Arts • Cooking
 
-<h2> References </h2>
-
-[**Alexandre Courtiol, PhD**][5e81c0d6] Senior Researcher at [IZW - Leibniz Institute for Zoo and Wildlife Research][bb58fb82]  
-<alexandre.courtiol@gmail.com>   
-[**Ilja Heckmann, PhD**][d56ee8a1] Data Protection Coordinator at [IZW - Leibniz Institute for Zoo and Wildlife Research][bb58fb82]  
-<ilja.heckmann@gmail.com>  
-[**Laura Iacolina, PhD**][01142937] Assistant Professor at [University of Primorska][58569d71]  
-<lauraiacolina@gmail.com>
-
-  [5e81c0d6]: https://www.linkedin.com/in/alexandre-courtiol-538b5a185/?originalSubdomain=de "AlexCourtiol"
-  [01142937]: https://www.linkedin.com/in/laura-iacolina-7710a525/ "LaurinaIacolina"
-  [58569d71]: https://www.famnit.upr.si/en/ "UniPrimorska"
-  [d56ee8a1]: http://www.izw-berlin.de/heckmann-ilja.html "IljaHeckmann"
+<h5> References available on request </h5>
