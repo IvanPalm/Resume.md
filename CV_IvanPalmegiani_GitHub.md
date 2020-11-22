@@ -13,10 +13,10 @@ Address and phone number available on request
 <br/><br/>
 
 <center><h2> Profile </h2></center>
-Researcher with cross-disciplinary expertise extending from ecology and natural sciences to machine learning. Proponent of nature-based solutions for climate change adaptation and mitigation, well informed on environmental technology. Capable of knowledge-transfer and data translation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Highly motivated and positive towards challenges. Strong analytical mindset and excellent organization skills. Solution oriented and careful about details. Curious and eager to learn.
+Researcher with cross-disciplinary expertise extending from natural sciences to machine learning. Earth Observation enthusiast. Proponent of nature-based solutions for climate change adaptation and mitigation. Capable of getting actionable insights from numerical results. Team player, also able to take charge of tasks individually. Constructive critical thinker. Highly motivated and positive towards challenges. Strong analytical mindset and excellent organization skills. Solution oriented and careful about details. Curious and eager to learn.
 
 <center><h3> Technical expertise </h3></center>
-Python programming | R coding | Geographic Information System - QGIS | Relational (geo)databases - PostgreSQL-PostGIS | Remote Sensing | Machine Learning | Geodata analytics | Time series analyses | Data visualization | Data reporting
+Python programming | R coding | Geographic Information System - QGIS and geospatial Python libraries | Relational (geo)databases - PostgreSQL-PostGIS | Remote Sensing - GEE Python API | Machine Learning | Geodata analyses | Time Series analyses | Data visualization | Data reporting - Jupyter and RMarkdown frameworks
 
 <center><h3> Languages </h3></center>
 English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
@@ -24,44 +24,47 @@ English - IELTS certification level C1 • German - TELC certification level B1 
 <h2> Professional Experience </h2>
 
 **Environmental Researcher | (Geo)Data Scientist**, Nov. 2019 - Present  
-[SmartCloudFarming GmbH (DE)][2dg5i84s]  
-Development of ML models for the estimation of soil water content till 90 cm depth by integrating satellite data and ground measurements - Contribution to the development of DL models for the estimation of soil organic carbon from satellite data - Content crafting for funding applications
+[SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - present  
+Research and development in production context, i.e. developed data science pipelines any python programs to source ground data and satellite imaging, and to prepare data for machine learning algorithms. Co-developed and fine-tuned ML models to predict percent soil moisture at field level down to 45 cm depth from satellite data. The accuracy of predictions is satisfactory (R squared > 0.95, RMSE < 5%). Generated interactive data visualizations, and prepared data reports.  
 
-[University of Primorska (SL)][bv7kewda]  
-Development of functional solutions for data storage in relational databases - Data query - Consulting on wildlife data management
+Bibliographical research to identify state-of-the-art methods for the estimation of soil organic carbon from multispectral and hyperspectral satellite imaging. Screening of texts was performed with NLP algorithms. Selected manuscripts were read by human-eyes. ML approaches have been employed to generate reports of key contents
 
-[EarthRatings UG (DE)][sf46gh40]  
-Search and Web Crawling of Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) data - Data cleaning and preparation - Exploratory data analyses - Feature Engineering
+[EarthRatings UG (DE)][sf46gh40] Nov. 2019 - Jun. 2020   
+Web research on public data sets on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) | Development of a web scraper (Scrapy, Selenium and headless browser) to source publicly available data | Conversion of raw material to 'Tidy Data' | Exploratory data analyses
+
+[University of Primorska (SL)][bv7kewda]  Nov. 2019  
+Data cleansing | Development of functional solutions for data storage in relational databases, using Microsoft products | Data querying in SQL | Consulting on wildlife data management
 
 **Professional re-qualification**, Oct. 2018 - Nov. 2019  
-Intensive technical training | German language course | Conflict management and non-violent-communication (NVC) self-training | Personal development
+Data Science and Python programming courses | German language course | Conflict management and non-violent-communication (NVC) self-training | Personal development
 
 **PhD Candidate**, May 2014 - Jun. 2018 | **Research Assistant**, Apr. 2013 - Sept. 2013  
 [IZW - Leibniz Institute for Zoo and Wildlife Research (DE)][bb58fb82]  
-Main goal: Investigating the social system of the cheetah in central Namibia.  
-- Collected, processed and analyzed time series of geo-referenced data from satellite telemetry
-- Performed spatial and movement analyses on GPS tracking data
+Investigating the social system of the cheetah in central Namibia  
+- Collected, processed and analyzed time series of geospatial data from satellite telemetry
+- Performed spatial and movement analyses on tracking data using adehabitat packages
 - Modelled the use of space by individuals with linear and nonlinear regression models
 - Collected and analyzed presence-absence data via camera-trap surveys
 - Designed and maintained online and offline (geo)databases
-- Engaged with stakeholders, and made scientific results accessible to them through public talks, data reports and visualizations
+- Engaged with stakeholders, and presented scientific results to the general public  through talks, visualizations and reports
 - Coordinated data collection in the field, supervised volunteers
 - Organized scientific symposia  
 
 **Research Assistant**, Dec. 2012 - Feb. 2013 | **Research Technician**, Feb. 2012 - Nov. 2012    
 [CIBIO - Research Center in Biodiversity and Genetic Resources (PT)][87111420]  
-Main goal: Investigating the spatial ecology of endangered wildlife species in the Iberian peninsula (Portugal and Spain).  
-- Collected and analyzed satellite telemetry and geo-referenced environmental data
+Investigating the spatial ecology of endangered wildlife species in the Iberian peninsula (Portugal and Spain)  
+- Collected and analyzed satellite telemetry and environmental data
 - Modelled species distribution in relation to environmental variables using linear and nonlinear regression models
 - Designed and maintained relational (geo)databases
-- Engaged with stakeholders, and made scientific results accessible to them through public talks, data reports and visualizations  
+
 
 **Research Technician**, Nov. 2010 - Nov. 2011  
 [Department of Zoology and Evolutionary Genetics, University of Sassari (IT)][09879b80]    
-Main goal: Investigate spatial distribution, abundance and reproductive success of wolves in central Italy.  
-- Collected geo-referenced environmental data
+Investigating spatial distribution, abundance and reproductive success of wolves in central Italy  
+- Collected data on the presence-absence of wolves, and environmental variables   
+- Collected presence-absence data via camera-trap surveys
+- Modelled presence-absence of wolves with multilinear regression models
 - Collected and analyzed bio-acoustic data
-- Collected and analyzed presence-absence data via camera-trap surveys
 
 
   [2dg5i84s]: https://smartcloudfarming.com/ "SCF"
@@ -75,11 +78,11 @@ Main goal: Investigate spatial distribution, abundance and reproductive success 
 
 **Master of Science (MSc)**, Jul. 2010  
 *Environmental Sciences and Natural Resources Management*, University of Sassari. Grade: 110/110 *cum Laude*  
-Environmental modelling, statistical inference, advanced statistical theory, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics, systems ecology, landscape ecology, regional geology, sedimentology.
+Environmental modelling, statistical inference, advanced statistical theory, systems ecology, landscape ecology, regional geology, pedology, sedimentology, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics
 
 **Bachelor of Science (BSc)**, Feb. 2008    
 *Environmental Sciences*, University of Perugia. Grade: 107/110  
-Principles of biology, geology and ecology. The course of study covered a wide range of subjects to provide the students with the solid background required to undertake ecological and environmental studies.
+Principles of biology, ecology, and geology. The course of study covered a wide range of subjects to provide the students with the solid background required to undertake ecological and environmental studies
 
 <h2> Further training </h2>
 
