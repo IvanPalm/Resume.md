@@ -13,10 +13,10 @@ Address and phone number available on request
 <br/><br/>
 
 <center><h2> Profile </h2></center>
-Researcher with cross-disciplinary expertise extending from natural sciences to machine learning. Earth Observation enthusiast. Proponent of nature-based solutions for climate change adaptation and mitigation. Capable of getting actionable insights from numerical results. Team player, also able to take charge of tasks individually. Constructive critical thinker. Highly motivated and positive towards challenges. Strong analytical mindset and excellent organization skills. Solution oriented and careful about details. Curious and eager to learn.
+Researcher with cross-disciplinary expertise including natural sciences, landscape ecology, data analytic, and machine learning techniques. Earth Observation enthusiast. Capable of getting actionable insights from numerical results. Proponent of nature-based solutions for climate change adaptation and mitigation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Solution oriented and careful about details. Strong analytical mindset and excellent organization skills. Highly motivated and positive towards challenges. Curious and eager to learn.
 
 <center><h3> Technical expertise </h3></center>
-Python programming | R coding | Geographic Information System - QGIS and geospatial Python libraries | Relational (geo)databases - PostgreSQL-PostGIS | Remote Sensing - GEE Python API | Machine Learning | Geodata analyses | Time Series analyses | Data visualization | Data reporting - Jupyter and RMarkdown frameworks
+Python programming | R coding | Open Source GIS | Relational geodatabases - PostgreSQL + PostGIS | Remote Sensing - Google Earth Engine | Machine Learning | Spatial analyses | Time Series analyses | Data visualization | Data reporting | Basics of Web Development
 
 <center><h3> Languages </h3></center>
 English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
@@ -25,12 +25,16 @@ English - IELTS certification level C1 • German - TELC certification level B1 
 
 **Environmental Researcher | (Geo)Data Scientist**, Nov. 2019 - Present  
 [SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - present  
-Research and development in production context, i.e. developed data science pipelines any python programs to source ground data and satellite imaging, and to prepare data for machine learning algorithms. Co-developed and fine-tuned ML models to predict percent soil moisture at field level down to 45 cm depth from satellite data. The accuracy of predictions is satisfactory (R squared > 0.95, RMSE < 5%). Generated interactive data visualizations, and prepared data reports.  
-
-Bibliographical research to identify state-of-the-art methods for the estimation of soil organic carbon from multispectral and hyperspectral satellite imaging. Screening of texts was performed with NLP algorithms. Selected manuscripts were read by human-eyes. ML approaches have been employed to generate reports of key contents
+Research and development in a production context
+- Performed literature research to identify state-of-the-art methods for the estimation of soil moisture content and soil organic carbon from satellite imaging
+- Presented key findings in bibliographical reports
+- Developed data science pipelines to source, clean and prepare ground data and satellite imaging for machine learning algorithms
+- Co-developed and fine-tuned ML models to predict soil moisture content from satellite data. The accuracy of predictions is satisfactory (R squared > 0.95, RMSE < 0.05)
+- Generated interactive data reports and visualizations
+- Created dashboards to display data and predictions to founders and to their potential clients  
 
 [EarthRatings UG (DE)][sf46gh40] Nov. 2019 - Jun. 2020   
-Web research on public data sets on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) | Development of a web scraper (Scrapy, Selenium and headless browser) to source publicly available data | Conversion of raw material to 'Tidy Data' | Exploratory data analyses
+Web research on public data sets on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) | Development of a web scraper to source publicly available data | Conversion of raw contents to 'Tidy Data' formats | Exploratory data analyses
 
 [University of Primorska (SL)][bv7kewda]  Nov. 2019  
 Data cleansing | Development of functional solutions for data storage in relational databases, using Microsoft products | Data querying in SQL | Consulting on wildlife data management
@@ -86,7 +90,7 @@ Principles of biology, ecology, and geology. The course of study covered a wide 
 
 <h2> Further training </h2>
 
-**Copernicus MOOC**, Sept. 2020 - *ongoing*  
+**Copernicus MOOC**, Sept. 2020 - Dec. 2020  
 *Copernicus programme, from European Union and European Space Agency*  
 Overview on the programme | Copernicus data and services | Renewable Energy | Security and Emergency Management | Resource Management | Land Use and Management | Air quality, water pollution and ecosystem health monitoring | Integrating Copernicus data with other sources: Machine Learning, AI | Ideation | Prototyping | Developing | Collaboration  
 
