@@ -1,4 +1,4 @@
-<img id="topright" src="Pic_CV_450x600.jpg" alt="My_Pic" style="float: right;" width=120 height=160/>
+<img id="topright" src="Pic_CV_450x600.jpg" alt="My_Pic" style="float: right;" width=110 height=150/>
 
 <h1> Ivan Palmegiani, MSc </h1>
 
@@ -21,7 +21,7 @@ Python programming | R coding | Open Source GIS | Relational geodatabases - Post
 <center><h3> Languages </h3></center>
 English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
 
-<h2> Professional Experience </h2>
+<center><h2> Professional Experience </h2></center>
 
 **Environmental Researcher | (Geo)Data Scientist**, Nov. 2019 - Present  
 [SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - present  
@@ -78,7 +78,7 @@ Investigating spatial distribution, abundance and reproductive success of wolves
   [87111420]: https://cibio.up.pt/ "CIBIO"
   [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
 
-<h2> Education </h2>
+<center><h2> Education </h2></center>
 
 **Master of Science (MSc)**, Jul. 2010  
 *Environmental Sciences and Natural Resources Management*, University of Sassari. Grade: 110/110 *cum Laude*  
@@ -88,7 +88,7 @@ Environmental modelling, statistical inference, advanced statistical theory, sys
 *Environmental Sciences*, University of Perugia. Grade: 107/110  
 Principles of biology, ecology, and geology. The course of study covered a wide range of subjects to provide the students with the solid background required to undertake ecological and environmental studies
 
-<h2> Further training </h2>
+<center><h2> Further training </h2></center>
 
 **Copernicus MOOC**, Sept. 2020 - Dec. 2020  
 *Copernicus programme, from European Union and European Space Agency*  
@@ -124,5 +124,5 @@ Linear and nonlinear regression models | Non-parametric regression model
 | Principal components analysis | Factor analysis | Correspondence analysis | Cluster analysis | R coding
 
 
-<h3> Hobbies and interests </h3>  
+<center><h3> Hobbies and interests </h3></center>
 Cooking • Indoor gardening • Tai Chi • Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • DIY and Handicraft • Music and Arts • Urban agriculture

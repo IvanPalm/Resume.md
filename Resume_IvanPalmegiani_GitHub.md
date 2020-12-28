@@ -1,4 +1,4 @@
-<img id="topright" src="Pic_CV_450x600.jpg" alt="My_Pic" style="float: right;" width=120 height=160/>
+<img id="topright" src="Pic_CV_450x600.jpg" alt="My_Pic" style="float: right;" width=110 height=150/>
 
 <h1> Ivan Palmegiani, MSc </h1>
 
@@ -21,10 +21,9 @@ Python programming | R coding | Open Source GIS | Relational geodatabases - Post
 <center><h3> Languages </h3></center>
 English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
 
-<h2> Professional Experience </h2>
+<center><h2> Professional Experience </h2></center>
 
 **Environmental Researcher | (Geo)Data Scientist**, Nov. 2019 - Present  
-[SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - present  
 [SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - present  
 Research and development in a production context
 - Performed literature research to identify state-of-the-art methods for the estimation of soil moisture content and soil organic carbon from satellite imaging
@@ -61,13 +60,13 @@ Investigating the social system of the cheetah in central Namibia
   [bv7kewda]: https://www.famnit.upr.si/en/ "UniPRIS"
   [bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
 
-<h2> Education </h2>
+<center><h2> Education </h2></center>
 
 **Master of Science (MSc)**, Jul. 2010  
 *Environmental Sciences and Natural Resources Management*, University of Sassari. Grade: 110/110 *cum Laude*  
 Environmental modelling, statistical inference, advanced statistical theory, systems ecology, landscape ecology, regional geology, pedology, sedimentology, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics
 
-<h2> Further training </h2>
+<center><h2> Further training </h2></center>
 
 **Copernicus MOOC**, Sept. 2020 - Dec. 2020  
 *Copernicus programme, from European Union and European Space Agency*  
@@ -85,5 +84,5 @@ History of Radar technology and the discovery of electromagnetic waves | Image a
 *Business Trends Academy*  
 Data protection and ethical matters | Linear and nonlinear regression | A/B testing | Hypothesis testing | Data visualization in Tableau | Object oriented programming (OOP) | Python modules and functions | Pandas and NumPy | Multiprocessing and multithreading | RESTful API | Webscraping | Neural Networks and Machine Learning techniques | Keras, Anaconda and TensorFlow
 
-<h3> Hobbies and interests </h3>  
+<center><h3> Hobbies and interests </h3></center>  
 Cooking • Indoor gardening • Tai Chi • Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • DIY and Handicraft • Music and Arts • Urban agriculture
