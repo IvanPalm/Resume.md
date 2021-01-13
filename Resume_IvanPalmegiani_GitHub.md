@@ -26,15 +26,15 @@ English - IELTS certification level C1 • German - TELC certification level B1 
 **Environmental Researcher | (Geo)Data Scientist**, Nov. 2019 - Present  
 [SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - present  
 While working at the development of data products for precision agriculture my main responsibilities have been:
-- Researching available literature to identify state-of-the-art methods for the estimation of soil moisture content and soil organic carbon from satellite imaging
-- Planning the operations and coordinating a small team of data professionals to make sure that objectives and key results would be hit on time
+- Researching available literature to identify state-of-the-art methods for the estimation of soil moisture and soil organic carbon using remote sensing data
+- Planning the different stages of the project and coordinating a small team of data professionals to make sure that objectives and key results would be hit on time
 - Developing data science pipelines to source, clean and prepare ground data and satellite imaging for machine learning algorithms
 - Co-developing and fine-tuning ML models to predict soil moisture content from satellite data. The accuracy of predictions is satisfactory (R squared > 0.95, RMSE < 0.05)
 - Generating interactive data visualizations and reports for executives and their cooperators
-- Developing ML dashboards to display model predictions to potential clients  
+- Developing ML dashboards to display data and results to potential clients  
 
 [EarthRatings UG (DE)][sf46gh40] Nov. 2019 - Jun. 2020   
-Working intermittently, I assisted the founder of this young start-up to research and to source public data set on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR). I have developed a web crawler to scrape the data in accordance with the term and conditions regulating their use. At a later stage I have converted the raw data to 'tidy' format, and performed exploratory analyses.
+Working intermittently, I assisted the founder of this young start-up to research and to source public data set on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR). I have developed a web crawler to scrape data, in accordance with the term and conditions regulating data use. At a later stage I have converted the raw data to 'tidy' format, and performed exploratory analyses.
 
 [University of Primorska (SL)][bv7kewda]  Nov. 2019  
 The  research lab led by Prof. Dr. Bužan at the Department of Biodiversity requested assistance in the management of wildlife genetic data. My main tasks have been:
@@ -54,7 +54,7 @@ In the context of wildlife research, conservation and management, I investigated
 - Coordinating and executing field operations involving live-capture of cheetahs, deployment GPS collars and the safe release of study animals into the wild, plus extensive camera-trap surveys of the capturing areas
 - Engaging with local stakeholders and landowners, involving them in mitigation of human-wildlife conflict
 - Processing and analyzing time series of geospatial data from satellite telemetry in near-real-time to plan field operations, and take actions in a timely manner
-patial and movement modelling of telemetry data
+- Performing spatial and movement analyses of wildlife telemetry data
 - Designing and maintaining online and offline geodatabases
 - Writing scientific manuscripts
 - Organizing scientific congresses and symposia
@@ -62,7 +62,7 @@ patial and movement modelling of telemetry data
 
   [2dg5i84s]: https://smartcloudfarming.com/ "SCF"
   [sf46gh40]: https://www.earthratings.com/ "ERs"
-  [bv7kewda]: https://www.famnit.upr.si/en/ "UniPRIS"
+  [bv7kewda]: https://www.famnit.upr.si/en/about-faculty/staff/elena.buzan/ "UniPRIS"
   [bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
 
 <center><h2> Education </h2></center>
