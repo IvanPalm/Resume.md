@@ -25,55 +25,60 @@ English - IELTS certification level C1 • German - TELC certification level B1 
 
 **Environmental Researcher | (Geo)Data Scientist**, Nov. 2019 - Present  
 [SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - present  
-Research and development in a production context
-- Performed literature research to identify state-of-the-art methods for the estimation of soil moisture content and soil organic carbon from satellite imaging
-- Presented key findings in bibliographical reports
-- Developed data science pipelines to source, clean and prepare ground data and satellite imaging for machine learning algorithms
-- Co-developed and fine-tuned ML models to predict soil moisture content from satellite data. The accuracy of predictions is satisfactory (R squared > 0.95, RMSE < 0.05)
-- Generated interactive data reports and visualizations
-- Created dashboards to display data and predictions to founders and to their potential clients  
+While working at the development of data products for precision agriculture my main responsibilities have been:
+- Researching available literature to identify state-of-the-art methods for the estimation of soil moisture content and soil organic carbon from satellite imaging
+- Planning the operations and coordinating a small team of data professionals to make sure that objectives and key results would be hit on time
+- Developing data science pipelines to source, clean and prepare ground data and satellite imaging for machine learning algorithms
+- Co-developing and fine-tuning ML models to predict soil moisture content from satellite data. The accuracy of predictions is satisfactory (R squared > 0.95, RMSE < 0.05)
+- Generating interactive data visualizations and reports for executives and their cooperators
+- Developing ML dashboards to display model predictions to potential clients  
 
 [EarthRatings UG (DE)][sf46gh40] Nov. 2019 - Jun. 2020   
-Web research on public data sets on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) | Development of a web scraper to source publicly available data | Conversion of raw contents to 'Tidy Data' formats | Exploratory data analyses
+Working intermittently, I assisted the founder of this young start-up to research and to source public data set on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR). I have developed a web crawler to scrape the data in accordance with the term and conditions regulating their use. At a later stage I have converted the raw data to 'tidy' format, and performed exploratory analyses.
 
 [University of Primorska (SL)][bv7kewda]  Nov. 2019  
-Data cleansing | Development of functional solutions for data storage in relational databases, using Microsoft products | Data querying in SQL | Consulting on wildlife data management
+The  research lab led by Prof. Dr. Bužan at the Department of Biodiversity requested assistance in the management of wildlife genetic data. My main tasks have been:
+- Data cleansing
+- Development of relational databases
+- Preparation of data queries to automatize and optimize data management
+- Consulting on data management
 
 **Professional re-qualification**, Oct. 2018 - Nov. 2019  
 Data Science and Python programming courses | German language course | Conflict management and non-violent-communication (NVC) self-training | Personal development
 
 **PhD Candidate**, May 2014 - Jun. 2018 | **Research Assistant**, Apr. 2013 - Sept. 2013  
 [IZW - Leibniz Institute for Zoo and Wildlife Research (DE)][bb58fb82]  
-Investigating the social system of the cheetah in central Namibia  
-- Collected, processed and analyzed time series of geospatial data from satellite telemetry
-- Performed spatial and movement analyses on tracking data using adehabitat packages
-- Modelled the use of space by individuals with linear and nonlinear regression models
-- Collected and analyzed presence-absence data via camera-trap surveys
-- Designed and maintained online and offline (geo)databases
-- Engaged with stakeholders, and presented scientific results to the general public  through talks, visualizations and reports
-- Coordinated data collection in the field, supervised volunteers
-- Organized scientific symposia  
+In the context of wildlife research, conservation and management, I investigated the social system of the cheetah in Namibian farmland. My main responsibilities were:
+- Formulating evolutionary hypothesis on the social system of the cheetah
+- Designing the study
+- Coordinating and executing field operations involving live-capture of cheetahs, deployment GPS collars and the safe release of study animals into the wild, plus extensive camera-trap surveys of the capturing areas
+- Engaging with local stakeholders and landowners, involving them in mitigation of human-wildlife conflict
+- Processing and analyzing time series of geospatial data from satellite telemetry in near-real-time to plan field operations, and take actions in a timely manner
+patial and movement modelling of telemetry data
+- Designing and maintaining online and offline geodatabases
+- Writing scientific manuscripts
+- Organizing scientific congresses and symposia
 
 **Research Assistant**, Dec. 2012 - Feb. 2013 | **Research Technician**, Feb. 2012 - Nov. 2012    
 [CIBIO - Research Center in Biodiversity and Genetic Resources (PT)][87111420]  
-Investigating the spatial ecology of endangered wildlife species in the Iberian peninsula (Portugal and Spain)  
-- Collected and analyzed satellite telemetry and environmental data
-- Modelled species distribution in relation to environmental variables using linear and nonlinear regression models
-- Designed and maintained relational (geo)databases
+While involved in several research and conservation projects, I had the opportunity to investigate the spatial ecology of endangered wildlife species in several areas of the Iberian peninsula (Portugal and Spain). My main responsibilities were:  
+- Collecting and analyzing satellite telemetry and environmental data to get actionable insights to plan field operations
+- Modelling the distribution of endangered wildlife species to develop conservation plans at local and national scale
+- Designing and maintained relational geodatabases
 
 
 **Research Technician**, Nov. 2010 - Nov. 2011  
 [Department of Zoology and Evolutionary Genetics, University of Sassari (IT)][09879b80]    
-Investigating spatial distribution, abundance and reproductive success of wolves in central Italy  
-- Collected data on the presence-absence of wolves, and environmental variables   
-- Collected presence-absence data via camera-trap surveys
-- Modelled presence-absence of wolves with multilinear regression models
-- Collected and analyzed bio-acoustic data
+Following up the studies conducted during my Master thesis, I investigated the spatial distribution, abundance and reproductive success of wolves in several areas in Italy. My main tasks were:   
+- Collecting data on the presence-absence of wolves, and environmental variables   
+- Collecting presence-absence data via camera-trap surveys
+- Modelling presence-absence of wolves with multilinear regression models
+- Collecting and analyzed bio-acoustic data on wolves
 
 
   [2dg5i84s]: https://smartcloudfarming.com/ "SCF"
   [sf46gh40]: https://www.earthratings.com/ "ERs"
-  [bv7kewda]: https://www.famnit.upr.si/en/ "UniPRIS"
+  [bv7kewda]: https://www.famnit.upr.si/en/about-faculty/staff/elena.buzan/ "UniPRIS"
   [bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
   [87111420]: https://cibio.up.pt/ "CIBIO"
   [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
