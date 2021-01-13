@@ -1,9 +1,10 @@
-<img id="topright" src="Pic_CV_450x600.jpg" alt="My_Pic" style="float: right;" width=120 height=160/>
+<img id="topright" src="Pic_CV_450x600.jpg" alt="My_Pic" style="float: right;" width=110 height=150/>
 
-<h1> Ivan Palmegiani </h1>
+<h1> Ivan Palmegiani, MSc </h1>
 
-**<ivan.palmegiani@gmail.com> | [LinkedIn Account][2d6409ca]  |  [GitHub Account][e3281462]**  
+**<ivan.palmegiani@gmail.com> | [LinkedIn Account][2d6409ca]  |  [GitHub Account][e3281462]**   
 Address and phone number available on request
+
 
   [2d6409ca]: https://www.linkedin.com/in/ivan-palmegiani-13a4a15b/ "My_LinkedIn"
   [e3281462]: https://github.com/IvanPalm "My_GitHub"
@@ -12,58 +13,76 @@ Address and phone number available on request
 <br/><br/>
 
 <center><h2> Profile </h2></center>
-Researcher with strong analytical mindset and very good organization skills. Advanced technical capabilities developed over 5+ years working experience, and intensive training. Excellent communication skills. Team worker, also able to take charge of tasks individually. Highly motivated and positive towards challenges. Solution oriented and careful about details. Constructive critical thinker. Curious and eager to learn.
+Researcher with cross-disciplinary expertise including natural sciences, landscape ecology, data analytic, and machine learning techniques. Earth Observation enthusiast. Capable of getting actionable insights from numerical results. Proponent of nature-based solutions for climate change adaptation and mitigation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Solution oriented and careful about details. Strong analytical mindset and excellent organization skills. Highly motivated and positive towards challenges. Curious and eager to learn.
 
-<center><h3> Expertise </h3></center>
-R coding | Python programming | Relational (geo)databases - MySQL and PostGreSQL | Geographic Information Systems - QGIS | Geodata analyses and modelling | Remote sensing | Time series analyses and forecast | Machine Learning (ML) | Data visualization | Data reporting | Research | Content writing
+<center><h3> Technical expertise </h3></center>
+Python programming | R coding | Open Source GIS | Relational geodatabases - PostgreSQL + PostGIS | Remote Sensing - Google Earth Engine | Machine Learning | Spatial analyses | Time Series analyses | Data visualization | Data reporting | Basics of Web Development
 
 <center><h3> Languages </h3></center>
 English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
 
----
-<h2> Professional Experience </h2>
+<center><h2> Professional Experience </h2></center>
 
-**Independent Researcher | Environmental Data Scientist**, Nov 2019 - Present  
-Main clients: SmartCloudFarming GmgH (DE) | | EarthRatings UG (DE) | University of Primorska (SI)   
-Services: Spatial analyses and modelling - Geodatabase management - Geodata query - Remote sensing - Exploratory data analyses (EDA) - Feature Engineering - ML - Bibliographic research and reporting - Content crafting for funding applications and marketing - Consulting for nature conservation projects.
+**Environmental Researcher | (Geo)Data Scientist**, Nov. 2019 - Present  
+[SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - present  
+Research and development in a production context
+- Performed literature research to identify state-of-the-art methods for the estimation of soil moisture content and soil organic carbon from satellite imaging
+- Presented key findings in bibliographical reports
+- Developed data science pipelines to source, clean and prepare ground data and satellite imaging for machine learning algorithms
+- Co-developed and fine-tuned ML models to predict soil moisture content from satellite data. The accuracy of predictions is satisfactory (R squared > 0.95, RMSE < 0.05)
+- Generated interactive data reports and visualizations
+- Created dashboards to display data and predictions to founders and to their potential clients  
+
+[EarthRatings UG (DE)][sf46gh40] Nov. 2019 - Jun. 2020   
+Web research on public data sets on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) | Development of a web scraper to source publicly available data | Conversion of raw contents to 'Tidy Data' formats | Exploratory data analyses
+
+[University of Primorska (SL)][bv7kewda]  Nov. 2019  
+Data cleansing | Development of functional solutions for data storage in relational databases, using Microsoft products | Data querying in SQL | Consulting on wildlife data management
+
+**Professional re-qualification**, Oct. 2018 - Nov. 2019  
+Data Science and Python programming courses | German language course | Conflict management and non-violent-communication (NVC) self-training | Personal development
 
 **PhD Candidate**, May 2014 - Jun. 2018 | **Research Assistant**, Apr. 2013 - Sept. 2013  
 [IZW - Leibniz Institute for Zoo and Wildlife Research (DE)][bb58fb82]  
-Main goal: Investigating the social system of the cheetah in central Namibia by the analysis of individual movement patterns and utilization of space.
-  
-- Collected and processed time series of geo-referenced data from satellite telemetry.
-- Performed spatial and movement analyses on tracking data.
-- Explored data and modelled environmental dynamics with linear and nonlinear regression models.
-- Collected and analyzed presence-absence data via camera-trap surveys.
-- Designed and maintained online and offline (geo)databases.
-- Provided insights to stakeholders, team members, and scientific audiences through public talks, data reporting and visualization.
-- Coordinated data collection in the field, supervised volunteers.
-- Organized scientific symposia.  
+Investigating the social system of the cheetah in central Namibia  
+- Collected, processed and analyzed time series of geospatial data from satellite telemetry
+- Performed spatial and movement analyses on tracking data using adehabitat packages
+- Modelled the use of space by individuals with linear and nonlinear regression models
+- Collected and analyzed presence-absence data via camera-trap surveys
+- Designed and maintained online and offline (geo)databases
+- Engaged with stakeholders, and presented scientific results to the general public  through talks, visualizations and reports
+- Coordinated data collection in the field, supervised volunteers
+- Organized scientific symposia  
 
-**Research Assistant**, Dec. 2012 - Feb. 2013 | **Research Technician**, Feb. 2012 - Nov. 2012    
-[CIBIO - Research Center in Biodiversity and Genetic Resources (PT)][87111420]  
-Main goal: Investigating the spatial ecology of endangered wildlife species in the Iberian peninsula (Portugal and Spain).  
-- Collected and analyzed satellite telemetry and geo-referenced environmental data.
-- Explored and modelled species distribution in relation to environmental variables using linear and nonlinear regression models.
-- Designed and maintained relational (geo)databases.
-- Provided insights to stake-holders, team members, and scientific audiences through public talks, data reporting and visualization.  
 
-**Research Technician**, Nov. 2010 - Nov. 2011  
-[Department of Zoology and Evolutionary Genetics, University of Sassari (IT)][09879b80]    
-Main goal: Investigate spatial distribution, abundance and reproductive success of wolves in central Italy.  
-- Collected geo-referenced environmental data.
-- Collected and analyzed bio-acoustic data.
-- Collected and analyzed presence-absence data via camera-trap surveys.
-
+  [2dg5i84s]: https://smartcloudfarming.com/ "SCF"
+  [sf46gh40]: https://www.earthratings.com/ "ERs"
+  [bv7kewda]: https://www.famnit.upr.si/en/ "UniPRIS"
   [bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
-  [87111420]: https://cibio.up.pt/ "CIBIO"
-  [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
 
-<h2> Education </h2>
+<center><h2> Education </h2></center>
 
 **Master of Science (MSc)**, Jul. 2010  
 *Environmental Sciences and Natural Resources Management*, University of Sassari. Grade: 110/110 *cum Laude*  
-Environmental modelling, statistical inference, advanced statistical theory, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics, systems ecology, landscape ecology, regional geology, sedimentology.
+Environmental modelling, statistical inference, advanced statistical theory, systems ecology, landscape ecology, regional geology, pedology, sedimentology, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics
 
-<h3> Hobbies and interests </h3>
-Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • Indoor gardening • Urban agriculture • DIY and Handicraft • Music and Arts • Cooking
+<center><h2> Further training </h2></center>
+
+**Copernicus MOOC**, Sept. 2020 - Dec. 2020  
+*Copernicus programme, from European Union and European Space Agency*  
+Overview on the programme | Copernicus data and services | Renewable Energy | Security and Emergency Management | Resource Management | Land Use and Management | Air quality, water pollution and ecosystem health monitoring | Integrating Copernicus data with other sources: Machine Learning, AI | Ideation | Prototyping | Developing | Collaboration  
+
+**e-Learning on Digital Agriculture**, Aug. 2020  
+*Open Learning Campus, World Bank Group*  
+Overview of Digital Agriculture | ICT and Digital Tools for Enhancing Productivity on the Farm | Empowering Smallholder Farmers through ICT/Digital Tools in Financial Services | Strengthening Agricultural Market Access with ICT and Digital Tools | Using ICT for Remote Sensing, Crowdsourcing, and Big Data
+
+**Echoes in Space**, July 2020  
+*EO College, European Space Agency - Friedrich-Schiller-Universität Jena*  
+History of Radar technology and the discovery of electromagnetic waves | Image acquisition | Geometry of airborne and space borne Radar systems | Land applications of Radar remote sensing | Applications of radar remote sensing over Water | Application of Radar remote sensing for Hazard management
+
+**Data Science Bootcamp**, Aug. 2019 - Nov. 2019   
+*Business Trends Academy*  
+Data protection and ethical matters | Linear and nonlinear regression | A/B testing | Hypothesis testing | Data visualization in Tableau | Object oriented programming (OOP) | Python modules and functions | Pandas and NumPy | Multiprocessing and multithreading | RESTful API | Webscraping | Neural Networks and Machine Learning techniques | Keras, Anaconda and TensorFlow
+
+<center><h3> Hobbies and interests </h3></center>  
+Cooking • Indoor gardening • Tai Chi • Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • DIY and Handicraft • Music and Arts • Urban agriculture
