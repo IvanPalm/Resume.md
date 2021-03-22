@@ -16,14 +16,17 @@ Address and phone number available on request
 Researcher with cross-disciplinary expertise including natural sciences, landscape ecology, data analytic, and machine learning techniques. Earth Observation enthusiast. Capable of getting actionable insights from numerical results. Proponent of nature-based solutions for climate change adaptation and mitigation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Solution oriented and careful about details. Strong analytical mindset and excellent organization skills. Highly motivated and positive towards challenges. Curious and eager to learn.
 
 <center><h3> Technical expertise </h3></center>
-Python programming | R coding | Open Source GIS | Relational geodatabases - PostgreSQL + PostGIS | Remote Sensing - Google Earth Engine | Machine Learning | Spatial analyses | Time Series analyses | Data visualization | Data reporting | Basics of Web Development
+Python programming |  R statistical computing | Open Source GIS | Relational geodatabases - PostgreSQL + PostGIS | Remote Sensing - Google Earth Engine | Machine Learning | Spatial analyses | Time Series analyses | Data visualization | Data reporting |  Fundamentals of Web Development
 
 <center><h3> Languages </h3></center>
 English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
 
 <center><h2> Professional Experience </h2></center>
 
-**Environmental Researcher | (Geo)Data Scientist**, Nov. 2019 - Present  
+**Environmental Researcher | (Geo)Data Scientist**, since Nov. 2019    
+[WWF Water Risk Filter (DE)][8hbi6ucv] Feb. 2021 - present  
+As geospatial data consultant at the Water Risk Filter I reviewed protocols and automatized data reporting workflows. Working closely with the technical lead we have refined and developed data visualizations to support WRF corporate partners in their path towards Water Stewardship.  
+
 [SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - present  
 While working at the development of data products for precision agriculture my main responsibilities have been:
 - Researching available literature to identify state-of-the-art methods for the estimation of soil moisture and soil organic carbon using remote sensing data
@@ -71,7 +74,7 @@ In the context of wildlife research, conservation and management, I investigated
 *Environmental Sciences and Natural Resources Management*, University of Sassari. Grade: 110/110 *cum Laude*  
 Environmental modelling, statistical inference, advanced statistical theory, systems ecology, landscape ecology, regional geology, pedology, sedimentology, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics
 
-<center><h2> Further training </h2></center>
+<center><h2> Latest courses </h2></center>
 
 **Copernicus MOOC**, Sept. 2020 - Dec. 2020  
 *Copernicus programme, from European Union and European Space Agency*  

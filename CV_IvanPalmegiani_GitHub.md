@@ -16,15 +16,18 @@ Address and phone number available on request
 Researcher with cross-disciplinary expertise including natural sciences, landscape ecology, data analytic, and machine learning techniques. Earth Observation enthusiast. Capable of getting actionable insights from numerical results. Proponent of nature-based solutions for climate change adaptation and mitigation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Solution oriented and careful about details. Strong analytical mindset and excellent organization skills. Highly motivated and positive towards challenges. Curious and eager to learn.
 
 <center><h3> Technical expertise </h3></center>
-Python programming | R coding | Open Source GIS | Relational geodatabases - PostgreSQL + PostGIS | Remote Sensing - Google Earth Engine | Machine Learning | Spatial analyses | Time Series analyses | Data visualization | Data reporting | Basics of Web Development
+Python programming | R statistical computing | Open Source GIS | Relational geodatabases - PostgreSQL + PostGIS | Remote Sensing - Google Earth Engine | Machine Learning | Spatial analyses | Time Series analyses | Data visualization | Data reporting | Fundamentals of Web Development
 
 <center><h3> Languages </h3></center>
 English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
 
 <center><h2> Professional Experience </h2></center>
 
-**Environmental Researcher | (Geo)Data Scientist**, Nov. 2019 - Present  
-[SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - present  
+**Environmental Researcher | (Geo)Data Scientist**, since Nov. 2019    
+[WWF Water Risk Filter (DE)][8hbi6ucv] Feb. 2021 - present  
+As geospatial data consultant at the Water Risk Filter I reviewed protocols and automatized data reporting workflows. Working closely with the technical lead we have refined and developed data visualizations to support WRF corporate partners in their path towards Water Stewardship.  
+
+[SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - Present  
 While working at the development of data products for precision agriculture my main responsibilities have been:
 - Researching available literature to identify state-of-the-art methods for the estimation of soil moisture and soil organic carbon using remote sensing data
 - Planning the different stages of the project and coordinating a small team of data professionals to make sure that objectives and key results would be hit on time
@@ -63,19 +66,14 @@ In the context of wildlife research, conservation and management, I investigated
 [CIBIO - Research Center in Biodiversity and Genetic Resources (PT)][87111420]  
 While involved in several research and conservation projects, I had the opportunity to investigate the spatial ecology of endangered wildlife species in several areas of the Iberian peninsula (Portugal and Spain). My main responsibilities were:  
 - Collecting and analyzing satellite telemetry and environmental data to get actionable insights to plan field operations
-- Modelling the distribution of endangered wildlife species to develop conservation plans at local and national scale
-- Designing and maintained relational geodatabases
-
+- Modelling the distribution of endangered wildlife species to support the development of data-driven conservation plans at local and national scale
+- Designing and maintaining relational geodatabases
 
 **Research Technician**, Nov. 2010 - Nov. 2011  
 [Department of Zoology and Evolutionary Genetics, University of Sassari (IT)][09879b80]    
-Following up the studies conducted during my Master thesis, I investigated the spatial distribution, abundance and reproductive success of wolves in several areas in Italy. My main tasks were:   
-- Collecting data on the presence-absence of wolves, and environmental variables   
-- Collecting presence-absence data via camera-trap surveys
-- Modelling presence-absence of wolves with multilinear regression models
-- Collecting and analyzed bio-acoustic data on wolves
+Following up the studies conducted during my Master thesis, I investigated the spatial distribution, abundance and reproductive success of wolves in several areas of Italy.
 
-
+  [8hbi6ucv]: https://waterriskfilter.panda.org/ "WRF-WWF"
   [2dg5i84s]: https://smartcloudfarming.com/ "SCF"
   [sf46gh40]: https://www.earthratings.com/ "ERs"
   [bv7kewda]: https://www.famnit.upr.si/en/about-faculty/staff/elena.buzan/ "UniPRIS"
@@ -93,7 +91,7 @@ Environmental modelling, statistical inference, advanced statistical theory, sys
 *Environmental Sciences*, University of Perugia. Grade: 107/110  
 Principles of biology, ecology, and geology. The course of study covered a wide range of subjects to provide the students with the solid background required to undertake ecological and environmental studies
 
-<center><h2> Further training </h2></center>
+<center><h2> Courses </h2></center>
 
 **Copernicus MOOC**, Sept. 2020 - Dec. 2020  
 *Copernicus programme, from European Union and European Space Agency*  
@@ -122,12 +120,6 @@ Spatial database management in PostgreSQL/PostGIS | Movement data analysis in R
 **Multivariate Data Analysis for Ecology and Evolution in R**, Nov. 2012   
 *CIBIO - Research Center in Biodiversity and Genetic Resources*  
 Explanatory methods (PCA, PcoA, MDS, clustering) | Inferential methods (Randomization, bootstrap, jackknife, Monte Carlo, GLM, PLS, CanCor, Mantel Test) | Evolutionary and ecological Non-Independence (PGLS, PIC, rates of change, spatial autocorrelation, spatial GLS) | Model selection (i.e. Hypothesis testing vs information criteria) | Analysis of dispersion (i.e. Convex hulls area/volume, nearest neighbor, centroid size, eccentricity)  
-
-**BiostAT 2011 – Statistic inference in Biology and Human Sciences**, Jun. 2011   
-*UniASTISS, Department of Statistics - Purdue University, Department of Economy - UniMORE, Italian Institute for Philosophical Studies, Department of Statistics - Bologna University, Department of Human and Animal Biology - University of Turin, Department of Social Research - University of Eastern Piedmont, Asti Association for Scientific and Technological Development*  
-Linear and nonlinear regression models | Non-parametric regression model
-| Principal components analysis | Factor analysis | Correspondence analysis | Cluster analysis | R coding
-
 
 <center><h3> Hobbies and interests </h3></center>
 Cooking • Indoor gardening • Tai Chi • Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • DIY and Handicraft • Music and Arts • Urban agriculture
