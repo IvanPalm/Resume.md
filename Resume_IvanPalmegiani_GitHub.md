@@ -1,4 +1,4 @@
-<img id="topright" src="Pic_CV_450x600.jpg" alt="My_Pic" style="float: right;" width=110 height=150/>
+<img id="topright" src="../Pics/Pic_CV.jpg" alt="My_Pic" style="float: right;" width=120 height=160/>
 
 <h1> Ivan Palmegiani, MSc </h1>
 
