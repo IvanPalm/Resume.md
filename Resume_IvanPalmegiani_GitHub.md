@@ -3,7 +3,7 @@
 <h1> Ivan Palmegiani, MSc </h1>
 
 **<ivan.palmegiani@gmail.com> | [LinkedIn Account][2d6409ca]  |  [GitHub Account][e3281462]**   
-Address and phone number available on request
+Personal address and phone number available on request
 
 
   [2d6409ca]: https://www.linkedin.com/in/ivan-palmegiani-13a4a15b/ "My_LinkedIn"
@@ -13,68 +13,72 @@ Address and phone number available on request
 <br/><br/>
 
 <center><h2> Profile </h2></center>
-Researcher with cross-disciplinary expertise including natural sciences, landscape ecology, data analytic, and machine learning techniques. Earth Observation enthusiast. Capable of getting actionable insights from numerical results. Proponent of nature-based solutions for climate change adaptation and mitigation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Solution oriented and careful about details. Strong analytical mindset and excellent organization skills. Highly motivated and positive towards challenges. Curious and eager to learn.
+Researcher with cross-disciplinary expertise including natural sciences, landscape ecology as well as data analytic and machine learning techniques. Earth Observation enthusiast. Capable of getting actionable insights from numerical results. Proponent of nature-based solutions for climate change adaptation and mitigation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Solution oriented and careful about details. Strong analytical mindset and excellent organization skills. Highly motivated and positive towards challenges. Moved by inherent curiosity and engaged in continuous learning.
+
 
 <center><h3> Technical expertise </h3></center>
-Python programming |  R statistical computing | Open Source GIS | Relational geodatabases - PostgreSQL + PostGIS | Remote Sensing - Google Earth Engine | Machine Learning | Spatial analyses | Time Series analyses | Data visualization | Data reporting |  Fundamentals of Web Development
+Open Source GIS | Python programming | R statistical computing | Spatial analyses and Remote sensing | Time series analyses | Data visualization | Data reporting | Relational geodatabases - PostgreSQL + PostGIS | Fundamentals of Web-GIS Development
 
 <center><h3> Languages </h3></center>
 English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
 
-<center><h2> Professional Experience </h2></center>
+<h2> Professional Experience </h2>
 
-**Environmental Researcher | (Geo)Data Scientist**, since Nov. 2019    
+**Climate Co-Adaptation Lab Fellow**
+[PlanAdapt (DE)][sbgr7oig]
+Proposal development for climate change adaptation with a focus on GIS and EO technologies in sustainable agricultural development.
+
+**Environmental Researcher | Geospatial Data Specialist** since Jan. 2020  
 [WWF Water Risk Filter (DE)][8hbi6ucv] Feb. 2021 - present  
-As geospatial data consultant at the Water Risk Filter I reviewed protocols and automatized data reporting workflows. Working closely with the technical lead we have refined and developed data visualizations to support WRF corporate partners in their path towards Water Stewardship.  
+Working closely with the technical project manager, I have reviewed protocols to analyze corporate water risk data, refined data visualizations and mapped water risk types globally to support corporate partners in their path towards Water Stewardship. I've also automated data reporting workflows, leading to substantial reduction of the preparation time.
 
-[SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - present  
-While working at the development of data products for precision agriculture my main responsibilities have been:
-- Researching available literature to identify state-of-the-art methods for the estimation of soil moisture and soil organic carbon using remote sensing data
-- Planning the different stages of the project and coordinating a small team of data professionals to make sure that objectives and key results would be hit on time
-- Developing data science pipelines to source, clean and prepare ground data and satellite imaging for machine learning algorithms
-- Co-developing and fine-tuning ML models to predict soil moisture content from satellite data. The accuracy of predictions is satisfactory (R squared > 0.95, RMSE < 0.05)
-- Generating interactive data visualizations and reports for executives and their cooperators
-- Developing ML dashboards to display data and results to potential clients  
+[SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - Feb. 2021  
+Research and development in a production context: following the principles of agile development, I have coordinated a small team of data professionals and personally worked at the development of a minimum viable product (MVP) for the estimation of water content in agricultural soil.
 
-[EarthRatings UG (DE)][sf46gh40] Nov. 2019 - Jun. 2020   
-Working intermittently, I assisted the founder of this young start-up to research and to source public data set on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR). I have developed a web crawler to scrape data, in accordance with the term and conditions regulating data use. At a later stage I have converted the raw data to 'tidy' format, and performed exploratory analyses.
+- Performed literature research to identify state-of-the-art methods for the estimation of soil water content and soil organic carbon from satellite imagery
+- Presented key findings in bibliographical reports
+- Identified suitable data sources to facilitate programmatic access to satellite imagery, and to ground data  
+- Developed data science pipelines to source and composite satellite imagery to train machine learning (ML) models, and prepared ground data to test and validate predictions
+- Co-developed and fine-tuned ML models to predict soil moisture content from satellite data. The accuracy of predictions is satisfactory (R squared > 0.95, RMSE < 0.05)
+- Generated interactive data visualizations and 3D maps to report model predictions to executives
+- Developed dashboards to display ground data and model predictions to investors, and to potential clients  
 
-[University of Primorska (SL)][bv7kewda]  Nov. 2019  
-The  research lab led by Prof. Dr. Bužan at the Department of Biodiversity requested assistance in the management of wildlife genetic data. My main tasks have been:
-- Data cleansing
-- Development of relational databases
-- Preparation of data queries to automatize and optimize data management
-- Consulting on data management
+[EarthRatings UG (DE)][sf46gh40] Jan. 2020 - Jun. 2020   
+Identified and evaluated access options to data sets on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) with advanced web search techniques (e.g. truncation, boolean logic, connectivity search and media tagging) | Development of a web scraper program to source publicly available data | Conversion of raw contents to tabular formats and integration of open data sets from several sources | Exploratory analyses and visualization of the resulting data sets
+
+[University of Primorska (SL)][bv7kewda]  Jan. 2020  
+The role implied the revision of data storage procedures at the Conservation and Population Genetic research group led by Prof. Dr. Elena Bužan. The tasks included cleansing of genetic data sets and migration from data sheets to database tables, development of functional solutions for data storage in relational databases, automating data querying, and advising the research team on wildlife data management.
+The work has been conduced using open-source software for data cleansing and manipulation, while proprietary database solutions (Microsoft Access) have been used for data storage.
 
 **Professional re-qualification**, Oct. 2018 - Nov. 2019  
 Data Science and Python programming courses | German language course | Conflict management and non-violent-communication (NVC) self-training | Personal development
 
-**PhD Candidate**, May 2014 - Jun. 2018 | **Research Assistant**, Apr. 2013 - Sept. 2013  
+**Research Assistant**, Apr. 2013 - Jun. 2018  
 [IZW - Leibniz Institute for Zoo and Wildlife Research (DE)][bb58fb82]  
-In the context of wildlife research, conservation and management, I investigated the social system of the cheetah in Namibian farmland. My main responsibilities were:
-- Formulating evolutionary hypothesis on the social system of the cheetah
-- Designing the study
-- Coordinating and executing field operations involving live-capture of cheetahs, deployment GPS collars and the safe release of study animals into the wild, plus extensive camera-trap surveys of the capturing areas
-- Engaging with local stakeholders and landowners, involving them in mitigation of human-wildlife conflict
-- Processing and analyzing time series of geospatial data from satellite telemetry in near-real-time to plan field operations, and take actions in a timely manner
-- Performing spatial and movement analyses of wildlife telemetry data
-- Designing and maintaining online and offline geodatabases
-- Writing scientific manuscripts
-- Organizing scientific congresses and symposia
+Investigating the social system of the cheetah in central Namibia  
+- Collected, processed and analyzed time series of GPS telemetry data
+- Performed spatial and movement analyses on tracking data and airborne imagery
+- Modelled the use of space by individuals with linear and nonlinear regression models
+- Collected and analyzed presence-absence data via camera-trap surveys
+- Designed and maintained online and offline geodatabases
+- Engaged with stakeholders, and presented scientific results to the general public  through talks, data visualizations and reports
+- Coordinated data collection in the field, supervised technicians and volunteers
+- Organized scientific symposia  
 
+[sbgr7oig]: https://www.plan-adapt.org/ "PlanAdapt"
+[8hbi6ucv]: https://waterriskfilter.panda.org/ "WRF-WWF"
+[2dg5i84s]: https://smartcloudfarming.com/ "SCF"
+[sf46gh40]: https://www.earthratings.com/ "ERs"
+[bv7kewda]: https://www.famnit.upr.si/en/ "UniPRIS"
+[bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
 
-  [2dg5i84s]: https://smartcloudfarming.com/ "SCF"
-  [sf46gh40]: https://www.earthratings.com/ "ERs"
-  [bv7kewda]: https://www.famnit.upr.si/en/about-faculty/staff/elena.buzan/ "UniPRIS"
-  [bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
-
-<center><h2> Education </h2></center>
+<h2> Education </h2>
 
 **Master of Science (MSc)**, Jul. 2010  
-*Environmental Sciences and Natural Resources Management*, University of Sassari. Grade: 110/110 *cum Laude*  
+*Environmental Sciences and Natural Resources Management*, University of Sassari. Grade: 110/110 *Summa cum Laude*  
 Environmental modelling, statistical inference, advanced statistical theory, systems ecology, landscape ecology, regional geology, pedology, sedimentology, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics
 
-<center><h2> Latest courses </h2></center>
+<center><h2> Latest training courses </h2></center>
 
 **Copernicus MOOC**, Sept. 2020 - Dec. 2020  
 *Copernicus programme, from European Union and European Space Agency*  
