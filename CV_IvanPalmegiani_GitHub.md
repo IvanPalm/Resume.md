@@ -13,25 +13,26 @@ Personal address and phone number available on request
 <br/><br/>
 
 <center><h2> Profile </h2></center>
-Researcher with cross-disciplinary expertise including natural sciences, landscape ecology as well as data analytic and machine learning techniques. Earth Observation enthusiast. Capable of getting actionable insights from numerical results. Proponent of nature-based solutions for climate change adaptation and mitigation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Solution oriented and careful about details. Strong analytical mindset and excellent organization skills. Highly motivated and positive towards challenges. Moved by inherent curiosity and engaged in continuous learning.
+Environmental researcher with cross-disciplinary expertise including natural sciences, landscape ecology as well as geographic information systems (GIS) and data analytic. Capable of communicating data and results via effective data visualizations and reports. Earth Observation enthusiast. Proponent of nature-based solutions for climate change adaptation and mitigation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Solution oriented and careful about details. Strong analytical mindset and excellent organization skills. Highly motivated and positive towards challenges. Moved by inherent curiosity and engaged in continuous learning.
 
 <center><h3> Technical expertise </h3></center>
-Open Source GIS | Python programming | R statistical computing | Spatial analyses and Remote sensing | Time series analyses | Data visualization | Data reporting | Relational geodatabases - PostgreSQL + PostGIS | Fundamentals of Web-GIS Development
+Open Source GIS | Python programming | R statistical computing | Spatial analyses and remote sensing | Time series analyses | Multi-Dimensional Data Visualization - Grammar of Graphics | Data Reporting - R-Markdown and Jupyter notebooks | Fundamentals of Web-GIS Development and Relational geodatabases - PostgreSQL + PostGIS
 
 <center><h3> Languages </h3></center>
 English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
 
 <h2> Professional Experience </h2>
 
-**Climate Co-Adaptation Lab Fellow**
-[PlanAdapt (DE)][sbgr7oig]
+**Climate Co-Adaptation Lab Fellow** at [PlanAdapt][sbgr7oig]  
+Fellowship, *since Apr. 2021*   
 Proposal development for climate change adaptation with a focus on GIS and EO technologies in sustainable agricultural development.
 
-**Environmental Researcher | Geospatial Data Specialist** since Jan. 2020  
-[WWF Water Risk Filter (DE)][8hbi6ucv] Feb. 2021 - present  
+**External Geospatial Data Consultant** at [WWF Water Risk Filter][8hbi6ucv]  
+Contract, *Feb. 2021 - ongoing*  
 Working closely with the technical project manager, I have reviewed protocols to analyze corporate water risk data, refined data visualizations and mapped water risk types globally to support corporate partners in their path towards Water Stewardship. I've also automated data reporting workflows, leading to substantial reduction of the preparation time.
 
-[SmartCloudFarming GmbH (DE)][2dg5i84s] Mar. 2020 - Feb. 2021  
+**External Geospatial Data Scientist** at [SmartCloudFarming GmbH][2dg5i84s]  
+Contract, *Mar. 2020 - Feb. 2021*  
 Research and development in a production context: following the principles of agile development, I have coordinated a small team of data professionals and personally worked at the development of a minimum viable product (MVP) for the estimation of water content in agricultural soil.
 
 - Performed literature research to identify state-of-the-art methods for the estimation of soil water content and soil organic carbon from satellite imagery
@@ -42,18 +43,21 @@ Research and development in a production context: following the principles of ag
 - Generated interactive data visualizations and 3D maps to report model predictions to executives
 - Developed dashboards to display ground data and model predictions to investors, and to potential clients  
 
-[EarthRatings UG (DE)][sf46gh40] Jan. 2020 - Jun. 2020   
+**External Data Consultant** at [Earth Ratings UG][sf46gh40]  
+Contract, *Jan. 2020 - Jun. 2020*  
 Identified and evaluated access options to data sets on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) with advanced web search techniques (e.g. truncation, boolean logic, connectivity search and media tagging) | Development of a web scraper program to source publicly available data | Conversion of raw contents to tabular formats and integration of open data sets from several sources | Exploratory analyses and visualization of the resulting data sets
 
-[University of Primorska (SL)][bv7kewda]  Jan. 2020  
+**External Data Entry Specialist** at [University of Primorska][bv7kewda]  
+Contract, *Jan. 2020*    
 The role implied the revision of data storage procedures at the Conservation and Population Genetic research group led by Prof. Dr. Elena Bužan. The tasks included cleansing of genetic data sets and migration from data sheets to database tables, development of functional solutions for data storage in relational databases, automating data querying, and advising the research team on wildlife data management.
 The work has been conduced using open-source software for data cleansing and manipulation, while proprietary database solutions (Microsoft Access) have been used for data storage.
 
-**Professional re-qualification**, Oct. 2018 - Nov. 2019  
+**Professional re-qualification**  
+*Oct. 2018 - Nov. 2019*  
 Data Science and Python programming courses | German language course | Conflict management and non-violent-communication (NVC) self-training | Personal development
 
-**Research Assistant**, Apr. 2013 - Jun. 2018  
-[IZW - Leibniz Institute for Zoo and Wildlife Research (DE)][bb58fb82]  
+**Graduate Research Assistant** at [Leibniz Institute for Zoo and Wildlife Research][bb58fb82]  
+Full-time, *Apr. 2013 - Jun. 2018*  
 Investigating the social system of the cheetah in central Namibia  
 - Collected, processed and analyzed time series of GPS telemetry data
 - Performed spatial and movement analyses on tracking data and airborne imagery
@@ -64,17 +68,15 @@ Investigating the social system of the cheetah in central Namibia
 - Coordinated data collection in the field, supervised technicians and volunteers
 - Organized scientific symposia  
 
-
-**Research Assistant**, Feb. 2012 - Feb. 2013    
-[CIBIO - Research Center in Biodiversity and Genetic Resources (PT)][87111420]  
+**Graduate Research Assistant** at [CIBIO - Research Center in Biodiversity and Genetic Resources][87111420]  
+Full-time, *Feb. 2012 - Feb. 2013*  
 Investigating the spatial ecology of endangered wildlife species in the Iberian peninsula (Portugal and Spain)  
 - Collected and analyzed satellite telemetry and environmental data
 - Modeled species distribution in relation to environmental variables using linear and nonlinear regression models
 - Designed and maintained relational (geo)databases
 
-
-**Research Technician**, Nov. 2010 - Nov. 2011  
-[Department of Zoology and Evolutionary Genetics, University of Sassari (IT)][09879b80]    
+**Graduate Research Assistant** at [Department of Zoology and Evolutionary Genetics, University of Sassari][09879b80]  
+Full-time, *Nov. 2010 - Nov. 2011*    
 Investigating spatial distribution, abundance and reproductive success of wolves in central Italy  
 - Collected data on the presence-absence of wolves, and environmental variables
 - Collected presence-absence data via camera-trap surveys
@@ -93,8 +95,9 @@ Investigating spatial distribution, abundance and reproductive success of wolves
 <h2> Education </h2>
 
 **Master of Science (MSc)**, Jul. 2010  
-*Environmental Sciences and Natural Resources Management*, University of Sassari. Grade: 110/110 *Summa cum Laude*  
-Environmental modelling, statistical inference, advanced statistical theory, systems ecology, landscape ecology, regional geology, pedology, sedimentology, zoocenosis and wildlife conservation, wildlife management, genetics, plant conservation, environmental economics
+*Environmental Sciences and Natural Resources Management*, University of Sassari.  
+Grade: 110/110 *Summa cum Laude*  
+Systems ecology, landscape ecology, regional geology, pedology, sedimentology, wildlife conservation and management, conservation genetics, environmental modelling, statistical inference, advanced statistical theory, environmental economics  
 
 <h2> Training courses </h2>
 
