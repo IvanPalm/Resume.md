@@ -49,7 +49,7 @@ Identified and evaluated access options to data sets on Corporate Environmental 
 
 **External Data Entry Specialist** at [University of Primorska][bv7kewda]  
 Contract, *Jan. 2020*    
-The role implied the revision of data storage procedures at the Conservation and Population Genetic research group led by Prof. Dr. Elena Bužan. The tasks included cleansing of genetic data sets and migration from data sheets to database tables, development of functional solutions for data storage in relational databases, automating data querying, and advising the research team on wildlife data management.
+The role implied the revision of data storage procedures at the Conservation and Population Genetic research group. The tasks included cleansing of genetic data sets and migration from data sheets to database tables, development of functional solutions for data storage in relational databases, automating data querying, and advising the research team on wildlife data management.
 The work has been conduced using open-source software for data cleansing and manipulation, while proprietary database solutions (Microsoft Access) have been used for data storage.
 
 **Professional re-qualification**  
