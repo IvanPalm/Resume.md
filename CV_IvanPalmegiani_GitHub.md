@@ -13,10 +13,10 @@ Personal address and phone number available on request
 <br/><br/>
 
 <center><h2> Profile </h2></center>
-Environmental researcher with cross-disciplinary expertise including natural sciences, landscape ecology as well as geographic information systems (GIS) and data analytic. Capable of communicating data and results via effective data visualizations and reports. Earth Observation enthusiast. Proponent of nature-based solutions for climate change adaptation and mitigation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Solution oriented and careful about details. Strong analytical mindset and excellent organization skills. Highly motivated and positive towards challenges. Moved by inherent curiosity and engaged in continuous learning.
+Environmental researcher with cross-disciplinary expertise including natural sciences, landscape ecology as well as geographic information systems (GIS), data analytic, and machine learning (ML). Capable of communicating data and analysis results in spoken, written and visual form. Earth Observation enthusiast. OpenStreetMap contributor. Proponent of nature-based solutions for climate change adaptation and mitigation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Solution oriented and careful about details. Strong analytical mindset and excellent organization skills. Highly motivated and positive towards challenges. Moved by inherent curiosity and engaged in continuous learning.
 
 <center><h3> Technical expertise </h3></center>
-Open Source GIS | Python programming | R statistical computing | Spatial analyses and remote sensing | Time series analyses | Multi-Dimensional Data Visualization - Grammar of Graphics | Data Reporting - R-Markdown and Jupyter notebooks | Fundamentals of Web-GIS Development and Relational geodatabases - PostgreSQL + PostGIS
+Advanced QGIS | Geospatial Analysis and Remote Sensing in Python | R Statistical Computing | Multi-Dimensional Data Visualization - Grammar of Graphics | Data Reporting in R-Markdown and Jupyter notebooks | Geodatabase Management in PostgreSQL-PostGIS | Command Line Interface Tools in Linux | Version Control in Git & GitHub | Conda Environments | Containerization in Docker | Fundamentals of Web-GIS Development
 
 <center><h3> Languages </h3></center>
 English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
@@ -29,7 +29,9 @@ Proposal development for climate change adaptation with a focus on GIS and EO te
 
 **External Geospatial Data Consultant** at [WWF Water Risk Filter][8hbi6ucv]  
 Contract, *Feb. 2021 - ongoing*  
-Working closely with the technical project manager, I have reviewed protocols to analyze corporate water risk data, refined data visualizations and mapped water risk types globally to support corporate partners in their path towards Water Stewardship. I've also automated data reporting workflows, leading to substantial reduction of the preparation time.
+Working closely with the technical project manager, I review protocols and methodologies to analyze corporate water risk data, design data visualizations and global water risk maps to support corporate partners in their path towards Water Stewardship. I'm in charge for the automation of data analysis and reporting workflows.
+
+Tech stack: R GIS packages, Rstudio, R-Plotly, Conda, Git & GitHub.
 
 **External Geospatial Data Scientist** at [SmartCloudFarming GmbH][2dg5i84s]  
 Contract, *Mar. 2020 - Feb. 2021*  
@@ -43,14 +45,20 @@ Research and development in a production context: following the principles of ag
 - Generated interactive data visualizations and 3D maps to report model predictions to executives
 - Developed dashboards to display ground data and model predictions to investors, and to potential clients  
 
+Tech stack: Python GIS libraries, QGIS, sklearn, Python-Plotly, Streamlit, Conda, Docker, PostgreSQL-PostGIS, Google Earth Engine, Google Cloud Platform, Google App Engine
+
 **External Data Consultant** at [Earth Ratings UG][sf46gh40]  
 Contract, *Jan. 2020 - Jun. 2020*  
-Identified and evaluated access options to data sets on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) with advanced web search techniques (e.g. truncation, boolean logic, connectivity search and media tagging) | Development of a web scraper program to source publicly available data | Conversion of raw contents to tabular formats and integration of open data sets from several sources | Exploratory analyses and visualization of the resulting data sets
+Explored CDP data and methodologies | Identified and sourced additional data sets on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) | Developed a web scraper program to source publicly available data in accordance with the respective terms of use | Converted raw contents to tabular formats and integration of open data sets from several sources | Exploratory analyses and visualization of the resulting data sets
+
+Tech stack: web scarping and data munging was performed in Python
 
 **External Data Entry Specialist** at [University of Primorska][bv7kewda]  
 Contract, *Jan. 2020*    
 The role implied the revision of data storage procedures at the Conservation and Population Genetic research group. The tasks included cleansing of genetic data sets and migration from data sheets to database tables, development of functional solutions for data storage in relational databases, automating data querying, and advising the research team on wildlife data management.
 The work has been conduced using open-source software for data cleansing and manipulation, while proprietary database solutions (Microsoft Access) have been used for data storage.
+
+Tech stack: data munging in Python, user interfaces for data entry were generated with Microsoft Access
 
 **Professional re-qualification**  
 *Oct. 2018 - Nov. 2019*  
@@ -58,15 +66,26 @@ Data Science and Python programming courses | German language course | Conflict 
 
 **Graduate Research Assistant** at [Leibniz Institute for Zoo and Wildlife Research][bb58fb82]  
 Full-time, *Apr. 2013 - Jun. 2018*  
-Investigating the social system of the cheetah in central Namibia  
-- Collected, processed and analyzed time series of GPS telemetry data
-- Performed spatial and movement analyses on tracking data and airborne imagery
-- Modelled the use of space by individuals with linear and nonlinear regression models
+Evolutionary ecology studies of the cheetah in central Namibia with particular focus on the mating system
+
+Desk research activities:
+- Development of data collection protocols and field project management
+- Planning and supervising field campaigns for the live-capture of cheetahs
+- Spatial and movement analyses of GPS-telemetry data
+- Modeling distribution of the species and its use of space
+- Modeling individual movement patterns and interactions
+- Data management in [Movebank][owhfeo7h]
+- Design and maintenance of PostgreSQL-PostGIS database
+- Hypothesis testing
+- Presenting scientific results to the general public through talks, data visualizations and reports
+- Organization of scientific symposia
+
+Field activities:
+- Executing live-capture campaigns of cheetahs using custom-build box traps
+- Assisting in the live-capture of leopards using custom-build box traps
 - Collected and analyzed presence-absence data via camera-trap surveys
-- Designed and maintained online and offline geodatabases
-- Engaged with stakeholders, and presented scientific results to the general public  through talks, data visualizations and reports
+- Engaged with local communities and stakeholders for the mitigating human-wildlife conflict
 - Coordinated data collection in the field, supervised technicians and volunteers
-- Organized scientific symposia  
 
 **Graduate Research Assistant** at [CIBIO - Research Center in Biodiversity and Genetic Resources][87111420]  
 Full-time, *Feb. 2012 - Feb. 2013*  
@@ -80,7 +99,7 @@ Full-time, *Nov. 2010 - Nov. 2011*
 Investigating spatial distribution, abundance and reproductive success of wolves in central Italy  
 - Collected data on the presence-absence of wolves, and environmental variables
 - Collected presence-absence data via camera-trap surveys
-- Modelled presence-absence of wolves with multilinear regression models
+- Modeled presence-absence of wolves with multi-linear regression models
 - Collected and analyzed bio-acoustic data
 
   [sbgr7oig]: https://www.plan-adapt.org/ "PlanAdapt"
@@ -91,23 +110,38 @@ Investigating spatial distribution, abundance and reproductive success of wolves
   [bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
   [87111420]: https://cibio.up.pt/ "CIBIO"
   [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
+  [owhfeo7h]: https://www.movebank.org/cms/movebank-main "Movebank"
 
 <h2> Education </h2>
 
 **Master of Science (MSc)**, Jul. 2010  
 *Environmental Sciences and Natural Resources Management*, University of Sassari.  
 Grade: 110/110 *Summa cum Laude*  
-Systems ecology, landscape ecology, regional geology, pedology, sedimentology, wildlife conservation and management, conservation genetics, environmental modelling, statistical inference, advanced statistical theory, environmental economics  
+Systems ecology, landscape ecology, regional geology, pedology, sedimentology, wildlife conservation and management, conservation genetics, environmental modeling, statistical inference, advanced statistical theory, environmental economics  
 
 <h2> Training courses </h2>
+
+**Advanced QGIS** with [Official Certification][abj5ok2], Sept 2021  
+*Spatial Thoughts*  
+Modeling and Automating GIS Workflows | Visualizing Time Series and 3D Data | Advanced Expressions
+
+[abj5ok2]: https://changelog.qgis.org/en/qgis/certificate/QGIS-2360/
+
+**ARSET - Species Distribution Modeling with Remote Sensing**, Aug. 2021  
+*Applied Remote Sensing Training Program, NASA*  
+Overview of Species Distribution Models (SDMs) | Data Sources for Species Distribution and Remote Sensing Data for Landscape Characterization | Tools for conducting SDM for a variety of ecosystems such Wallace R-based platform for modeling of species niches and distributions
+
+**ARSET - Using Google Earth Engine for Land Monitoring Applications**, Jun. 2021   
+*Applied Remote Sensing Training Program, NASA*  
+Navigate the GEE interface to explore remote sensing datasets relevant to land monitoring | Execute JavaScript commands to retrieve satellite data and process imagery for analysis | Complete a supervised land classification along with an accuracy assessment in GEE | Apply algorithms to derive a time series of environmental parameters and calculate differences between years to detect landscape changes | Illustrate the capabilities of cloud-based raster computing for land management applications
+
+**ARSET - Satellite Observations and Tools for Fire Risk, Detection, and Analysis**, May 2021  
+*Applied Remote Sensing Training Program, NASA*  
+Terminology regarding type and components of fire (pre, during, post) | Climatic and biophysical conditions pre-, during-, and post-fire | The satellites and instruments used in conducting fire science | The applications of passive and active remote sensing for fires | How to visualize fire emissions and particulate matter | The use of tools for active fires, emissions, and burned areas | How to acquire data for conducting analysis in a given study area
 
 **Copernicus MOOC**, Sept. 2020 - Dec. 2020  
 *Copernicus programme of European Union and European Space Agency*  
 Overview on the programme | Copernicus data and services | Renewable Energy | Security and Emergency Management | Resource Management | Land Use and Management | Air quality, water pollution and ecosystem health monitoring | Integrating Copernicus data with other sources: Machine Learning, AI | Ideation | Prototyping | Developing | Collaboration  
-
-**e-Learning on Digital Agriculture**, Aug. 2020  
-*Open Learning Campus, World Bank Group*  
-Overview of Digital Agriculture | ICT and Digital Tools for Enhancing Productivity on the Farm | Empowering Smallholder Farmers through ICT/Digital Tools in Financial Services | Strengthening Agricultural Market Access with ICT and Digital Tools | Using ICT for Remote Sensing, Crowdsourcing, and Big Data
 
 **Echoes in Space**, July 2020  
 *EO College, European Space Agency - Friedrich-Schiller-Universität Jena*  
@@ -115,7 +149,7 @@ History of Radar technology and the discovery of electromagnetic waves | Image a
 
 **Data Science Bootcamp**, Aug. 2019 - Nov. 2019   
 *Business Trends Academy*  
-Data protection and ethical matters | Linear and nonlinear regression | A/B testing | Hypothesis testing | Data visualization in Tableau | Object oriented programming (OOP) | Python modules and functions | Pandas and NumPy | Multiprocessing and multithreading | RESTful API | Webscraping | Neural Networks and Machine Learning techniques | Keras, Anaconda and TensorFlow
+Data protection and ethical matters | Linear and nonlinear regression | A/B testing | Hypothesis testing | Data visualization in Tableau | Object oriented programming (OOP) | Python modules and functions | Pandas and NumPy | Multiprocessing and multithreading | RESTful API | Webscraping | Neural Networks and Machine Learning techniques | Keras and TensorFlow
 
 **Movement Ecology Summer School**, Aug. 2015   
 *Population Ecology Research Group, University of Zurich*  
@@ -136,4 +170,4 @@ Linear and nonlinear regression models | Non-parametric regression model
 
 
 <h3> Hobbies and interests </h3>  
-Cooking • Indoor gardening • Tai Chi • Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • DIY and Handicraft • Music and Arts • Urban agriculture
+Cooking • Indoor gardening • Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • Tai Chi • DIY and Handicraft • Music and Arts • Urban agriculture
