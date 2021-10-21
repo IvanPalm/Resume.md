@@ -1,4 +1,4 @@
-<img id="topright" src="../Pics/Pic_CV.jpg" alt="My_Pic" style="float: right;" width=110 height=150/>
+<img id="topright" src="./Pic_CV.jpg" alt="My_Pic" style="float: right;" width=110 height=150/>
 
 <h1> Ivan Palmegiani, MSc </h1>
 
@@ -16,7 +16,7 @@ Personal address and phone number available on request
 Environmental researcher with cross-disciplinary expertise including natural sciences, landscape ecology as well as geographic information systems (GIS), data analytic, and machine learning (ML). Capable of communicating data and analysis results in spoken, written and visual form. Earth Observation enthusiast. OpenStreetMap contributor. Proponent of nature-based solutions for climate change adaptation and mitigation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Solution oriented and careful about details. Strong analytical mindset and excellent organization skills. Highly motivated and positive towards challenges. Moved by inherent curiosity and engaged in continuous learning.
 
 <center><h3> Technical expertise </h3></center>
-Advanced QGIS | Geospatial Analysis and Remote Sensing in Python | R Statistical Computing | Multi-Dimensional Data Visualization - Grammar of Graphics | Data Reporting in R-Markdown and Jupyter notebooks | Geodatabase Management in PostgreSQL-PostGIS | Command Line Interface Tools in Linux | Version Control in Git & GitHub | Conda Environments | Containerization in Docker | Fundamentals of Web-GIS Development
+Advanced QGIS | Python for Geospatial Analysis and Remote Sensing | R Statistical Computing | Multi-Dimensional Data Visualization - Grammar of Graphics | Data reporting in R-Markdown and Jupyter notebooks | Geodatabase Management in PostgreSQL-PostGIS | Linux Bash and Command Line Interface Tools | Version Control in Git & GitHub | Management of Virtual Environments in Conda | Containerization in Docker | Fundamentals of Web-GIS Development
 
 <center><h3> Languages </h3></center>
 English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
@@ -29,9 +29,9 @@ Proposal development for climate change adaptation with a focus on GIS and EO te
 
 **External Geospatial Data Consultant** at [WWF Water Risk Filter][8hbi6ucv]  
 Contract, *Feb. 2021 - ongoing*  
-Working closely with the technical project manager, I review protocols and methodologies to analyze corporate water risk data, design data visualizations and global water risk maps to support corporate partners in their path towards Water Stewardship. I'm in charge for the automation of data analysis and reporting workflows.
+Working closely with the technical project manager, I review methodologies to analyze corporate water risk data, design data visualizations and global water risk maps for efficient data communication in stakeholder engagement. I'm in charge for the automation of data analysis and reporting workflows.
 
-Tech stack: R GIS packages, Rstudio, R-Plotly, Conda, Git & GitHub.
+Tech stack: R GIS packages, Rstudio, R-Plotly, MS Office, Conda, Git & GitHub.
 
 **External Geospatial Data Scientist** at [SmartCloudFarming GmbH][2dg5i84s]  
 Contract, *Mar. 2020 - Feb. 2021*  
@@ -48,10 +48,10 @@ Research and development in a production context: following the principles of ag
 Tech stack: Python GIS libraries, QGIS, sklearn, Python-Plotly, Streamlit, Conda, Docker, PostgreSQL-PostGIS, Google Earth Engine, Google Cloud Platform, Google App Engine
 
 **External Data Consultant** at [Earth Ratings UG][sf46gh40]  
-Contract, *Jan. 2020 - Jun. 2020*  
+Contract, *May 2020 - Jun. 2020*  
 Explored CDP data and methodologies | Identified and sourced additional data sets on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) | Developed a web scraper program to source publicly available data in accordance with the respective terms of use | Converted raw contents to tabular formats and integration of open data sets from several sources | Exploratory analyses and visualization of the resulting data sets
 
-Tech stack: web scarping and data munging was performed in Python
+Tech stack: all technical work was performed in Python
 
 **External Data Entry Specialist** at [University of Primorska][bv7kewda]  
 Contract, *Jan. 2020*    
