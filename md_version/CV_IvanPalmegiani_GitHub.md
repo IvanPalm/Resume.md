@@ -23,9 +23,9 @@ English - IELTS certification level C1 • German - TELC certification level B1 
 
 <h2> Professional Experience </h2>
 
-**Climate Co-Adaptation Lab Fellow** at [PlanAdapt][sbgr7oig]  
+**Research Fellow** at [PlanAdapt Climate Co-Adaptation Lab][sbgr7oig]  
 Fellowship, *since Apr. 2021*   
-Proposal development for climate change adaptation with a focus on GIS and EO technologies in sustainable agricultural development.
+Proposal development with focus on GIS and Earth Observation technologies for Nature-Based Solutions and sustainable agriculture.
 
 **External Geospatial Data Consultant** at [WWF Water Risk Filter][8hbi6ucv]  
 Contract, *Feb. 2021 - ongoing*  
@@ -102,12 +102,12 @@ Investigating spatial distribution, abundance and reproductive success of wolves
 - Modeled presence-absence of wolves with multi-linear regression models
 - Collected and analyzed bio-acoustic data
 
-  [sbgr7oig]: https://www.plan-adapt.org/ "PlanAdapt"
+  [sbgr7oig]: https://www.plan-adapt.org/climate-co-adaptation-lab/ "PlanAdapt"
   [8hbi6ucv]: https://waterriskfilter.panda.org/ "WRF-WWF"
   [2dg5i84s]: https://smartcloudfarming.com/ "SCF"
   [sf46gh40]: https://www.earthratings.com/ "ERs"
   [bv7kewda]: https://www.famnit.upr.si/en/ "UniPRIS"
-  [bb58fb82]: http://www.izw-berlin.de/welcome.html "IZW"
+  [bb58fb82]: https://www.izw-berlin.de/en/home.html "IZW"
   [87111420]: https://cibio.up.pt/ "CIBIO"
   [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
   [owhfeo7h]: https://www.movebank.org/cms/movebank-main "Movebank"
