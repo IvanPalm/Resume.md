@@ -12,11 +12,93 @@ Personal address and phone number available on request
 <br/><br/>
 <br/><br/>
 
-<center><h2> Profile </h2></center>
-Environmental researcher with cross-disciplinary expertise including natural sciences, landscape ecology as well as geographic information systems (GIS), data analytic, and machine learning (ML). Capable of communicating data and analysis results in spoken, written and visual form. Earth Observation enthusiast. OpenStreetMap contributor. Proponent of nature-based solutions for climate change adaptation and mitigation. Team player, also able to take charge of tasks individually. Constructive critical thinker. Solution oriented and careful about details. Strong analytical mindset and excellent organization skills. Highly motivated and positive towards challenges. Moved by inherent curiosity and engaged in continuous learning.
+<center><h2> About Me </h2></center>
+My expertise results from the fusion of ecosystem thinking and technical skills.
 
-<center><h3> Technical expertise </h3></center>
-Advanced QGIS | Python for Geospatial Analysis and Remote Sensing | R Statistical Computing | Multi-Dimensional Data Visualization - Grammar of Graphics | Data reporting in R-Markdown and Jupyter notebooks | Geodatabase Management in PostgreSQL-PostGIS | Linux Bash and Command Line Interface Tools | Version Control in Git & GitHub | Management of Virtual Environments in Conda | Containerization in Docker | Fundamentals of Web-GIS Development
+I hold expert knowledge and professional experience in several disciplines such as biodiversity and wildlife monitoring, landscape ecology, as well as water and soil management. I'm familiar with European Union directives, and well informed about international initiatives and partnerships aiming at the conservation, restoration, and sustainable management of natural resources.
+
+I can identify, collect and analyse quantitative data as well as satellite imagery to address a variety of complex environmental issues, and make sense of the numerical results to identify risks and opportunities inherent each case study.
+
+<!-- <center><h3> Technical Skills </h3></center> -->
+<table align=center><tr><td>
+ <table align=left>
+  <tr>
+    <th>Technical Skills</th>
+    <th> </th>
+  </tr>
+  <tr>
+    <td>QGIS</td>
+    <td>Advanced</td>
+  </tr>
+  <tr>
+    <td>Python for Geospatial Analysis</td>
+    <td>Advanced</td>
+  </tr>
+  <tr>
+    <td>R for Statistical Computing</td>
+    <td>Advanced</td>
+  </tr>
+  <tr>
+    <td>Conda Management</td>
+    <td>Advanced</td>
+  </tr>
+  <tr>
+    <td>PostgreSQL-PostGIS</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Google Earth Engine</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Linux Bash & CLI Tools</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Containerization in Docker</td>
+    <td>Beginner</td>
+  </tr>
+  </table> 
+</td><td>
+ <table align=right>
+  <tr>
+    <th>Organizational Skills</th>
+    <th> </th>
+  </tr>
+  <tr>
+    <td>Self-Motivation</td>
+    <td>Exceptional</td>
+  </tr>
+  <tr>
+    <td>Physical & Mental Organization</td>
+    <td>Excellent</td>
+  </tr>
+  <tr>
+    <td>Problem Solving</td>
+    <td>Excellent</td>
+  </tr>
+  <tr>
+    <td>Critical Thinking</td>
+    <td>Excellent</td>
+  </tr>
+  <tr>
+    <td>Communication</td>
+    <td>Very good</td>
+  </tr>
+  <tr>
+    <td>Prioritization</td>
+    <td>Very good</td>
+  </tr>
+  <tr>
+    <td>Planning</td>
+    <td>Very good</td>
+  </tr>
+  <tr>
+    <td>Teamwork</td>
+    <td>Very good</td>
+  </tr>
+</table> 
+</td></tr></table>
 
 <center><h3> Languages </h3></center>
 English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
