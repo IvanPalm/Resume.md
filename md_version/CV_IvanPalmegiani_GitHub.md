@@ -127,7 +127,8 @@ Research and development in a production context: following the principles of ag
 - Generated interactive data visualizations and 3D maps to report model predictions to executives
 - Developed dashboards to display ground data and model predictions to investors, and to potential clients  
 
-Tech stack: Python GIS libraries, QGIS, sklearn, Python-Plotly, Streamlit, Conda, Docker, PostgreSQL-PostGIS, Google Earth Engine, Google Cloud Platform, Google App Engine
+Tech stack: Python Spatial Modules, Jupyter, QGIS, Google Earth Engine, Scikit Learn, 
+  Python-Plotly, Streamlit, Conda, Git & GitHub, Docker, PostgreSQL-PostGIS, Google Cloud Platform, Google App Engine.
 
 **External Data Consultant** at [Earth Ratings UG][sf46gh40]  
 Contract, *May 2020 - Jun. 2020*  
@@ -148,17 +149,18 @@ Data Science and Python programming courses | German language course | Conflict 
 
 **Graduate Research Assistant** at [Leibniz Institute for Zoo and Wildlife Research][bb58fb82]  
 Full-time, *Apr. 2013 - Jun. 2018*  
-Evolutionary ecology studies of the cheetah in central Namibia with particular focus on the mating system
+Investigating the behavioural ecology of the cheetah in central Namibia
 
 Desk research activities:
-- Development of data collection protocols and field project management
+- Development of data collection protocols
+- Field project management
 - Planning and supervising field campaigns for the live-capture of cheetahs
-- Spatial and movement analyses of GPS-telemetry data
+- Spatial and movement analyses of high-resolution GPS-telemetry data
 - Modeling distribution of the species and its use of space
 - Modeling individual movement patterns and interactions
 - Data management in [Movebank][owhfeo7h]
 - Design and maintenance of PostgreSQL-PostGIS database
-- Hypothesis testing
+- Formulation and statistical testing of evolutionary hypothesis
 - Presenting scientific results to the general public through talks, data visualizations and reports
 - Organization of scientific symposia
 
@@ -172,17 +174,28 @@ Field activities:
 **Graduate Research Assistant** at [CIBIO - Research Center in Biodiversity and Genetic Resources][87111420]  
 Full-time, *Feb. 2012 - Feb. 2013*  
 Investigating the spatial ecology of endangered wildlife species in the Iberian peninsula (Portugal and Spain)  
-- Collected and analyzed satellite telemetry and environmental data
-- Modeled species distribution in relation to environmental variables using linear and nonlinear regression models
-- Designed and maintained relational (geo)databases
+
+Field activities:
+- Undertaking live-capture campaigns of wolves
+- Collecting presence-absence data along transects and via camera-trap surveys
+- Engaging with rural communities in the attempt to mitigate human-wildlife conflict
+
+Desk research activities:
+- Modeling species habitat, distribution and use of space with statistical learning models
 
 **Graduate Research Assistant** at [Department of Zoology and Evolutionary Genetics, University of Sassari][09879b80]  
 Full-time, *Nov. 2010 - Nov. 2011*    
-Investigating spatial distribution, abundance and reproductive success of wolves in central Italy  
-- Collected data on the presence-absence of wolves, and environmental variables
-- Collected presence-absence data via camera-trap surveys
-- Modeled presence-absence of wolves with multi-linear regression models
-- Collected and analyzed bio-acoustic data
+Investigating spatial distribution, abundance and reproductive success of wolves in central Italy
+
+Field activities:
+- Undertaking live-capture campaigns of wolves
+- Estimating pack size and reproductive success via wolf-howling surveys
+- Collecting presence-absence data along transects and via camera-trap surveys
+- Engaging with rural communities in the attempt to mitigate human-wildlife conflict
+
+Desk research activities:
+- Biocustical analysis of wolves vocalizations
+- Ensuring proper storage and management of GIS data
 
   [sbgr7oig]: https://www.plan-adapt.org/climate-co-adaptation-lab/ "PlanAdapt"
   [8hbi6ucv]: https://waterriskfilter.panda.org/ "WRF-WWF"
@@ -200,6 +213,11 @@ Investigating spatial distribution, abundance and reproductive success of wolves
 *Environmental Sciences and Natural Resources Management*, University of Sassari.  
 Grade: 110/110 *Summa cum Laude*  
 Systems ecology, landscape ecology, regional geology, pedology, sedimentology, wildlife conservation and management, conservation genetics, environmental modeling, statistical inference, advanced statistical theory, environmental economics  
+
+**Bachelor of Science (BSc)**, Feb. 2008  
+*Environmental Sciences*, University of Perugia.   
+Grade: 107/110  
+Principles of biology, geology and ecology. The course of study covered a wide range of subjects to provide students with the solid background required to undertake ecological and environmental studies.
 
 <h2> Training courses </h2>
 
