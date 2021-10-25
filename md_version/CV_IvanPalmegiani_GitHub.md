@@ -12,12 +12,12 @@ Personal address and phone number available on request
 <br/><br/>
 <br/><br/>
 
-<center><h2> About Me </h2></center>
+<center><h2> Professional Profile </h2></center>
 My expertise results from the fusion of ecosystem thinking and technical skills.
 
 I hold expert knowledge and professional experience in several disciplines such as biodiversity and wildlife monitoring, landscape ecology, as well as water and soil management. I'm familiar with European Union directives, and well informed about international initiatives and partnerships aiming at the conservation, restoration, and sustainable management of natural resources.
 
-I can identify, collect and analyse quantitative data as well as satellite imagery to address a variety of complex environmental issues, and make sense of the numerical results to identify risks and opportunities inherent each case study.
+I can identify, collect and analyse quantitative data as well as satellite imagery to address pressing environmental issues involving land ecosystems, and make sense of the numerical results to identify risks and opportunities inherent each case study.
 
 <!-- <center><h3> Technical Skills </h3></center> -->
 <table align=center><tr><td>
@@ -35,7 +35,7 @@ I can identify, collect and analyse quantitative data as well as satellite image
     <td>Advanced</td>
   </tr>
   <tr>
-    <td>R for Statistical Computing</td>
+    <td>R Spatial, Stats and Charts</td>
     <td>Advanced</td>
   </tr>
   <tr>
@@ -101,19 +101,19 @@ I can identify, collect and analyse quantitative data as well as satellite image
 </td></tr></table>
 
 <center><h3> Languages </h3></center>
-English - IELTS certification level C1 • German - TELC certification level B1 • Italian - mother tongue • Spanish - fluent • Portuguese - fluent
+English - Fluent (IELTS C1) • Italian - Native • Spanish - Fluent • Portuguese - Fluent • German - Intermediate (TELC B1)
 
 <h2> Professional Experience </h2>
 
 **Research Fellow** at [PlanAdapt Climate Co-Adaptation Lab][sbgr7oig]  
-Fellowship, *since Apr. 2021*   
-Proposal development with focus on GIS and Earth Observation technologies for Nature-Based Solutions and sustainable agriculture.
+Fellowship, *Apr. 2021 - ongoing*   
+Proposal development with focus on GIS and Earth Observation technologies for the design of Nature-Based Solutions.  
 
 **External Geospatial Data Consultant** at [WWF Water Risk Filter][8hbi6ucv]  
 Contract, *Feb. 2021 - ongoing*  
-Working closely with the technical project manager, I review methodologies to analyze corporate water risk data, design data visualizations and global water risk maps for efficient data communication in stakeholder engagement. I'm in charge for the automation of data analysis and reporting workflows.
+Working closely with the technical project manager, I review methodologies for corporate water risks assessment and scenarios analysis, and design data visualizations and water risk maps for efficient data communication in stakeholder engagement. I'm in charge for the automation of data analysis and reporting workflows.
 
-Tech stack: R GIS packages, Rstudio, R-Plotly, MS Office, Conda, Git & GitHub.
+Tech stack: R Spatial, Tidyverse, R-Plotly, OfficeR, RStudio, MS Office, Conda, Git & GitHub.
 
 **External Geospatial Data Scientist** at [SmartCloudFarming GmbH][2dg5i84s]  
 Contract, *Mar. 2020 - Feb. 2021*  
