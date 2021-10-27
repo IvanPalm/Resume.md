@@ -109,13 +109,13 @@ English - Fluent (IELTS C1) • Italian - Native • Spanish - Fluent • Portug
 Fellowship, *Apr. 2021 - ongoing*   
 Proposal development with focus on GIS and Earth Observation technologies for the design of Nature-Based Solutions.  
 
-**External Geospatial Data Consultant** at [WWF Water Risk Filter][8hbi6ucv]  
+**Geospatial Data Consultant** at [WWF Water Risk Filter][8hbi6ucv]  
 Contract, *Feb. 2021 - ongoing*  
 Working closely with the technical project manager, I review methodologies for corporate water risks assessment and scenarios analysis, and design data visualizations and water risk maps for efficient data communication in stakeholder engagement. I'm in charge for the automation of data analysis and reporting workflows.
 
 Tech stack: R Spatial, Tidyverse, R-Plotly, OfficeR, RStudio, MS Office, Conda, Git & GitHub.
 
-**External Geospatial Data Scientist** at [SmartCloudFarming GmbH][2dg5i84s]  
+**Geospatial Data Scientist** at [SmartCloudFarming GmbH][2dg5i84s]  
 Contract, *Mar. 2020 - Feb. 2021*  
 Research and development in a production context: following the principles of agile development, I have coordinated a small team of data professionals and personally worked at the development of a minimum viable product (MVP) for the estimation of water content in agricultural soil.
 
@@ -130,13 +130,13 @@ Research and development in a production context: following the principles of ag
 Tech stack: Python Spatial Modules, Jupyter, QGIS, Google Earth Engine, Scikit Learn, 
   Python-Plotly, Streamlit, Conda, Git & GitHub, Docker, PostgreSQL-PostGIS, Google Cloud Platform, Google App Engine.
 
-**External Data Consultant** at [Earth Ratings UG][sf46gh40]  
+**Data Consultant** at [Earth Ratings UG][sf46gh40]  
 Contract, *May 2020 - Jun. 2020*  
 Explored CDP data and methodologies | Identified and sourced additional data sets on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) | Developed a web scraper program to source publicly available data in accordance with the respective terms of use | Converted raw contents to tabular formats and integration of open data sets from several sources | Exploratory analyses and visualization of the resulting data sets
 
 Tech stack: all technical work was performed in Python
 
-**External Data Entry Specialist** at [University of Primorska][bv7kewda]  
+**Data Management Consultant** at [University of Primorska][bv7kewda]  
 Contract, *Jan. 2020*    
 The role implied the revision of data storage procedures at the Conservation and Population Genetic research group. The tasks included cleansing of genetic data sets and migration from data sheets to database tables, development of functional solutions for data storage in relational databases, automating data querying, and advising the research team on wildlife data management.
 The work has been conduced using open-source software for data cleansing and manipulation, while proprietary database solutions (Microsoft Access) have been used for data storage.
