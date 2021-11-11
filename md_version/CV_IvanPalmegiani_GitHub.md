@@ -130,7 +130,7 @@ Research and development in a production context: following the principles of ag
 Tech stack: Python Spatial Modules, Jupyter, QGIS, Google Earth Engine, Scikit Learn, 
   Python-Plotly, Streamlit, Conda, Git & GitHub, Docker, PostgreSQL-PostGIS, Google Cloud Platform, Google App Engine.
 
-**Data Consultant** at [Earth Ratings UG][sf46gh40]  
+**Data Scientist** at [Earth Ratings UG][sf46gh40]  
 Contract, *May 2020 - Jun. 2020*  
 Explored CDP data and methodologies | Identified and sourced additional data sets on Corporate Environmental Footprint (CEF) and Social Responsibility (CSR) | Developed a web scraper program to source publicly available data in accordance with the respective terms of use | Converted raw contents to tabular formats and integration of open data sets from several sources | Exploratory analyses and visualization of the resulting data sets
 
@@ -139,7 +139,7 @@ Tech stack: all technical work was performed in Python
 **Data Management Consultant** at [University of Primorska][bv7kewda]  
 Contract, *Jan. 2020*    
 The role implied the revision of data storage procedures at the Conservation and Population Genetic research group. The tasks included cleansing of genetic data sets and migration from data sheets to database tables, development of functional solutions for data storage in relational databases, automating data querying, and advising the research team on wildlife data management.
-The work has been conduced using open-source software for data cleansing and manipulation, while proprietary database solutions (Microsoft Access) have been used for data storage.
+
 
 Tech stack: data munging in Python, user interfaces for data entry were generated with Microsoft Access
 
