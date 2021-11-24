@@ -1,2 +1,7 @@
-md_version
-docs
+*.md
+*.pdf
+*.txt
+
+# Except
+!md_version/CV_IvanPalmegiani_GitHub.md
+!md_version/CV_IvanPalmegiani_GitHub.pdf
