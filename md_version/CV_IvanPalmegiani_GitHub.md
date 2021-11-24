@@ -109,7 +109,7 @@ I can identify, collect and analyse quantitative data as well as satellite image
 
 <h2> Professional Experience </h2>
 
-**Geospatial Data Consultant** at [Världsnaturfonden AB][blie5jdn]  
+**Geospatial Data Consultant** at [WWF Sweden][blie5jdn]  
 
 Contract, *July. 2021 - ongoing*  
 
@@ -127,7 +127,7 @@ Proposal development with focus on GIS and Earth Observation technologies for th
 
 Contract, *Feb. 2021 - ongoing*  
 
-Reviewed methodologies for corporate water risks assessment and scenarios analysis in close cooperation with the technical project manager | Designed data visualizations and maps of global water risks for efficient data communication in stakeholder engagement | Established automated workflows for data analysis and for data reporting  
+Reviewed methodologies for corporate water risks assessment and scenarios analysis in close cooperation with the technical project manager | Designed data visualizations and maps of global water risks for efficient data communication in stakeholder engagement | Established automation workflows for data analysis and for data reporting  
 
 Tech stack: R Spatial, Tidyverse, R-Plotly, OfficeR, RStudio, MS Office, Conda, Git & GitHub
 
