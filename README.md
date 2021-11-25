@@ -1,1 +1,1 @@
-This repository stores Markdown files to compile my full CV and Resume, pdf versions are available. The pdf of the  CV is displayed on LinkedIn account.
+The repo host a webpage for my resume plus markdown scripts for full CV and resume in pdf format, whihc is available for download on the webpage
