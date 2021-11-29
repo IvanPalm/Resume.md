@@ -256,9 +256,9 @@ Tech stack: QGIS, R Stats, R Spatial, Rstudio
 
 *Aug. - Sept. 2021*  
 
-Generated contents for the Space4Water portal, title of the article: "The water cycle from space: the central role of satellite-informed models in corporate water management". *[Link to the article][bsotne5k]* 
+Generated contents for the Space4Water portal, title of the article: "The water cycle from space: the central role of satellite-informed models in corporate water management". *[Link to the article][space4water]* 
 
-[spacewater]: https://www.space4water.org/news/water-cycle-space-central-role-satellite-informed-models-corporate-water-management
+[space4water]: https://www.space4water.org/news/water-cycle-space-central-role-satellite-informed-models-corporate-water-management
 
 **OpenStreetMap**  
 
