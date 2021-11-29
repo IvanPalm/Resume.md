@@ -5,23 +5,25 @@
 <br/><br/>
 
 E-mail: <ivan.palmegiani@gmail.com>    
-[LinkedIn Profile][2d6409ca]  
-[GitHub][e3281462]   
+[LinkedIn Profile][linkedin]  
+[GitHub][github]   
 
 
-  [2d6409ca]: https://www.linkedin.com/in/ivan-palmegiani-13a4a15b/ "My_LinkedIn"
-  [e3281462]: https://github.com/IvanPalm "My_GitHub"
+  [linkedin]: https://www.linkedin.com/in/ivan-palmegiani-13a4a15b/ "My_LinkedIn"
+  [github]: https://github.com/IvanPalm "My_GitHub"
 
-<br/><br/>
-<br/><br/>
 
+<br/>
 <center><h2> Professional Profile </h2></center>
+<br/>
 
 My expertise results from the fusion of ecosystem thinking and technical skills.
   
 I hold expert knowledge and professional experience in biodiversity and wildlife monitoring, landscape ecology, as well as water and soil management. I'm familiar with European Union directives, and well informed about international initiatives and partnerships aiming at the conservation, restoration, and sustainable management of natural resources.
 
 I can identify, collect and analyse quantitative data as well as satellite imagery to address pressing environmental issues involving land ecosystems, and make sense of the numerical results to identify risks and opportunities inherent each case study.
+
+<br/>
 
 <table align=center><tr><td>
  <table align=left>
@@ -103,13 +105,17 @@ I can identify, collect and analyse quantitative data as well as satellite image
 </table> 
 </td></tr></table>
 
+<br/>
+
 <h3> Languages </h3>
 
 <center> English - Fluent • Italian - Native • Spanish - Fluent • Portuguese - Fluent • German - Intermediate </center>
 
+<br/>
 <h2> Professional Experience </h2>
+<br/>
 
-**Geospatial Data Consultant** at [WWF Sweden][blie5jdn]  
+**Geospatial Data Consultant** at [WWF Sweden][wwf_swe]  
 
 Contract, *July. 2021 - ongoing*  
 
@@ -117,13 +123,13 @@ Analysed data to estimate corporate water risks at site level | Generated data v
 
 Tech stack: R Spatial, Tidyverse, R-Plotly, OﬃceR, RStudio, MS Oﬃce, Conda, Git & GitHub
 
-**Research Fellow** at [PlanAdapt Climate Co-Adaptation Lab][sbgr7oig]  
+**Research Fellow** at [PlanAdapt Climate Co-Adaptation Lab][planadapt]  
 
 Fellowship, *Apr. 2021 - ongoing*   
 
-Proposal development with focus on GIS and Earth Observation technologies for the design of Nature-Based Solutions.  
+Proposal development with focus on GIS and Earth Observation technologies for the design of Nature-Based Solutions  
 
-**Geospatial Data Consultant** at [WWF Water Risk Filter][8hbi6ucv]  
+**Geospatial Data Consultant** at [WWF Water Risk Filter][wwf_wrf]  
 
 Contract, *Feb. 2021 - ongoing*  
 
@@ -131,7 +137,7 @@ Reviewed methodologies for corporate water risks assessment and scenarios analys
 
 Tech stack: R Spatial, Tidyverse, R-Plotly, OfficeR, RStudio, MS Office, Conda, Git & GitHub
 
-**Geospatial Data Scientist** at [SmartCloudFarming GmbH][2dg5i84s]  
+**Geospatial Data Scientist** at [SmartCloudFarming GmbH][scf]  
 
 Contract, *Mar. 2020 - Feb. 2021*  
 
@@ -148,7 +154,7 @@ Coordinated a small team of data professionals in a production context, i.e. res
 Tech stack: Python Spatial Modules, Jupyter, QGIS, Google Earth Engine (Python API), Scikit Learn, 
   Python-Plotly, Streamlit, Conda, Git & GitHub, Docker, PostgreSQL-PostGIS, Google Cloud Platform, Google App Engine
 
-**Data Scientist** at [Earth Ratings UG][sf46gh40]  
+**Data Scientist** at [Earth Ratings UG][eratings]  
 
 Contract, *May 2020 - Jun. 2020*  
 
@@ -156,7 +162,7 @@ Explored CDP data and methodologies | Identified additional data sources on Corp
 
 Tech stack: all technical work was performed in Python
 
-**Data Management Consultant** at [University of Primorska][bv7kewda]  
+**Data Management Consultant** at [University of Primorska][unipri]  
 
 Contract, *Jan. 2020*  
 
@@ -170,7 +176,7 @@ Tech stack: data wrangling in Python, forms for data entry were generated in Mic
 
 Data Science and Python programming courses | German language course | Conflict management and non-violent-communication (NVC) self-training | Personal development
 
-**Graduate Research Assistant** at [Leibniz Institute for Zoo and Wildlife Research][bb58fb82]  
+**Graduate Research Assistant** at [Leibniz Institute for Zoo and Wildlife Research][izw]  
 
 Full-time, *Apr. 2013 - Jun. 2018*  
 
@@ -183,7 +189,7 @@ Desk research activities:
 - Performed spatial and movement analyses of high-resolution GPS telemetry data
 - Modeled distribution of the species and use of space in relation to landscape features, land use, land cover, and natural vegetation phenology  
 - Modeled individual movement patterns and interactions between individuals
-- Managed GPS telemetry data in [Movebank][owhfeo7h]
+- Managed GPS telemetry data in [Movebank][movebank]
 - Designed and maintained PostgreSQL-PostGIS database
 - Formulated evolutionary hypothesis and performed statistical testing  
 - Presented scientific results to local stakeholders through talks and presentations
@@ -198,7 +204,7 @@ Field activities:
 - Engaged with local communities and stakeholders with the aim of mitigating human-wildlife conflict
 - Coordinated data collection in the field, supervised technicians and volunteers
 
-**Graduate Research Assistant** at [CIBIO - Research Center in Biodiversity and Genetic Resources][87111420]  
+**Graduate Research Assistant** at [CIBIO - Research Center in Biodiversity and Genetic Resources][cibio]  
 
 Full-time, *Feb. 2012 - Feb. 2013*  
 
@@ -215,7 +221,7 @@ Desk research activities:
 
 Tech stack: QGIS, R Stats, R Spatial, Rstudio
 
-**Graduate Research Assistant** at [Department of Zoology and Evolutionary Genetics, University of Sassari][09879b80]  
+**Graduate Research Assistant** at [Department of Zoology and Evolutionary Genetics, University of Sassari][uniss]  
 
 Full-time, *Nov. 2010 - Nov. 2011*    
 
@@ -233,16 +239,16 @@ Desk research activities:
 
 Tech stack: QGIS, R Stats, R Spatial, Rstudio
 
-  [blie5jdn]: https://www.wwf.se/english/wwf-in-sweden/ "WWF SWEDEN"
-  [sbgr7oig]: https://www.plan-adapt.org/climate-co-adaptation-lab/ "PlanAdapt"
-  [8hbi6ucv]: https://waterriskfilter.panda.org/ "WRF-WWF"
-  [2dg5i84s]: https://smartcloudfarming.com/ "SCF"
-  [sf46gh40]: https://www.earthratings.com/ "ERs"
-  [bv7kewda]: https://www.famnit.upr.si/en/ "UniPRIS"
-  [bb58fb82]: https://www.izw-berlin.de/en/home.html "IZW"
-  [87111420]: https://cibio.up.pt/ "CIBIO"
-  [09879b80]: https://en.uniss.it/ugov/person/2348 "UniSS"
-  [owhfeo7h]: https://www.movebank.org/cms/movebank-main "Movebank"
+  [wwf_swe]: https://www.wwf.se/english/wwf-in-sweden/ "WWF SWEDEN"
+  [planadapt]: https://www.plan-adapt.org/climate-co-adaptation-lab/ "PlanAdapt"
+  [wwf_wrf]: https://waterriskfilter.panda.org/ "WRF-WWF"
+  [scf]: https://smartcloudfarming.com/ "SCF"
+  [eratings]: https://www.earthratings.com/ "ERs"
+  [unipri]: https://www.famnit.upr.si/en/ "UniPRIS"
+  [izw]: https://www.izw-berlin.de/en/home.html "IZW"
+  [cibio]: https://cibio.up.pt/ "CIBIO"
+  [uniss]: https://en.uniss.it/ugov/person/2348 "UniSS"
+  [movebank]: https://www.movebank.org/cms/movebank-main "Movebank"
 
 <h3> Latest Volunteer Activities </h3>
 
@@ -252,7 +258,7 @@ Tech stack: QGIS, R Stats, R Spatial, Rstudio
 
 Generated contents for the Space4Water portal, title of the article: "The water cycle from space: the central role of satellite-informed models in corporate water management". *[Link to the article][bsotne5k]* 
 
-[bsotne5k]: https://www.space4water.org/news/water-cycle-space-central-role-satellite-informed-models-corporate-water-management
+[spacewater]: https://www.space4water.org/news/water-cycle-space-central-role-satellite-informed-models-corporate-water-management
 
 **OpenStreetMap**  
 
@@ -260,7 +266,9 @@ Generated contents for the Space4Water portal, title of the article: "The water 
 
 Added, completed and/or updated spatial features such as roads, intersections, forest patches, agricultural lands and respective metadata in Rieti province and immediate surroundings, in Central Italy, plus minor contributions to features over the city of Berlin, in Germany.
 
+<br/>
 <h2> Education </h2>
+<br/>
 
 **Master of Science (MSc)**, Jul. 2010  
 
@@ -275,7 +283,17 @@ Grade: 107/110
 
 Principles of biology, geology and ecology. The course of study covered a wide range of subjects to provide students with the solid background required to undertake ecological and environmental studies.
 
+<br/>
 <h2> Training courses </h2>
+<br/>
+
+**End-to-End Google Earth Engine**, Nov. 2021
+
+*Spatial Thoughts*, [Certificate of Completion][gee_course]  
+
+Data Import/Export, Calculating Indices, Extracting Time Series, Supervised Classification, Building UI Apps, Using Python API  
+
+[gee_course]: http://u.pc.cd/loyctalK
 
 **Danube Floodplain Management**, Oct. 2021  
 
@@ -283,49 +301,53 @@ Principles of biology, geology and ecology. The course of study covered a wide r
 
 Principles of floodplain management and its relevance to EU legislation | Knowledge on technical aspects such as modelling, ecosystem services valuation, stakeholder engagement | Principles of feasibility studies and cost-benefit analysis | Presentation of newly developed Web-GIS tools for evaluating floodplains and their restoration potential
 
-**Advanced QGIS** with [Official Certification][abj5ok2], Sept. 2021  
+**Advanced QGIS**, Sept. 2021  
 
-*Spatial Thoughts*  
+*Spatial Thoughts*, [Official QGIS Certification][qgis_cert]  
 
 Modeling and Automating GIS Workflows | Visualizing Time Series and 3D Data | Advanced Expressions
 
-[abj5ok2]: https://changelog.qgis.org/en/qgis/certificate/QGIS-2360/
+[qgis_cert]: http://u.pc.cd/MK0ctalK
 
 **ARSET - Species Distribution Modeling with Remote Sensing**, Aug. 2021  
 
-*Applied Remote Sensing Training Program, NASA*  
+*Applied Remote Sensing Training Program - NASA*, [Certificate of Completion][arset_sdm]  
 
 Overview of Species Distribution Models (SDMs) | Data Sources for Species Distribution and Remote Sensing Data for Landscape Characterization | Tools for conducting SDM for a variety of ecosystems such Wallace R-based platform for modeling of species niches and distributions
 
+[arest_sdm]: http://u.pc.cd/PazrtalK
+
 **ARSET - Using Google Earth Engine for Land Monitoring Applications**, Jun. 2021   
 
-*Applied Remote Sensing Training Program, NASA*  
+*Applied Remote Sensing Training Program - NASA*, [Certificate of Completion][arset_gee]  
 
 Navigate the GEE interface to explore remote sensing datasets relevant to land monitoring | Execute JavaScript commands to retrieve satellite data and process imagery for analysis | Complete a supervised land classification along with an accuracy assessment in GEE | Apply algorithms to derive a time series of environmental parameters and calculate differences between years to detect landscape changes | Illustrate the capabilities of cloud-based raster computing for land management applications
 
+[arset_gee]: http://u.pc.cd/7asctalK
+
 **ARSET - Satellite Observations and Tools for Fire Risk, Detection, and Analysis**, May 2021  
 
-*Applied Remote Sensing Training Program, NASA*  
+*Applied Remote Sensing Training Program - NASA*, [Certificate of Completion][arset_fire]  
 
 Terminology regarding type and components of fire (pre, during, post) | Climatic and biophysical conditions pre-, during-, and post-fire | The satellites and instruments used in conducting fire science | The applications of passive and active remote sensing for fires | How to visualize fire emissions and particulate matter | The use of tools for active fires, emissions, and burned areas | How to acquire data for conducting analysis in a given study area
 
-**Copernicus MOOC**, Sept. 2020 - Dec. 2020  
-
-*Copernicus programme of European Union and European Space Agency*  
-
-Overview on the programme | Copernicus data and services | Renewable Energy | Security and Emergency Management | Resource Management | Land Use and Management | Air quality, water pollution and ecosystem health monitoring | Integrating Copernicus data with other sources: Machine Learning, AI | Ideation | Prototyping | Developing | Collaboration  
+[arset_fire]: http://u.pc.cd/72UrtalK
 
 **Echoes in Space**, July 2020  
 
-*EO College, European Space Agency - Friedrich-Schiller-Universität Jena*  
+*EO College, European Space Agency - Friedrich-Schiller-Universität Jena*, [Certificate of Completion][esa_sar]  
 
-History of Radar technology and the discovery of electromagnetic waves | Image acquisition | Geometry of airborne and space borne Radar systems | Land applications of Radar remote sensing | Applications of radar remote sensing over Water | Application of Radar remote sensing for Hazard management
+History of Radar technology and the discovery of electromagnetic waves | Image acquisition | Geometry of airborne and space borne Radar systems | Land applications of Radar remote sensing | Applications of radar remote sensing over Water | Application of Radar remote sensing for Hazard management  
+
+[esa_sar]: http://u.pc.cd/u2NrtalK
 
 **Data Science Bootcamp**, Aug. 2019 - Nov. 2019   
 
-*Business Trends Academy*  
+*Business Trends Academy*, [Certificate of Completion][bta]  
 
 Data protection and ethical matters | Linear and nonlinear regression | A/B testing | Hypothesis testing | Data visualization in Tableau | Object oriented programming (OOP) | Python modules and functions | Pandas and NumPy | Multiprocessing and multithreading | RESTful API | Webscraping | Neural Networks and Machine Learning techniques | Keras and TensorFlow
+
+[bta]: http://u.pc.cd/gNfctalK
 
 **Movement Ecology Summer School**, Aug. 2015   
 
