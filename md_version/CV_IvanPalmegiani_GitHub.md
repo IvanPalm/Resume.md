@@ -61,7 +61,7 @@ I can identify, collect and analyse quantitative data as well as satellite image
   </tr>
   <tr>
     <td>Containerization in Docker</td>
-    <td>Beginner</td>
+    <td>Intermediate</td>
   </tr>
   </table> 
 </td><td>
@@ -115,9 +115,16 @@ I can identify, collect and analyse quantitative data as well as satellite image
 <h2> Professional Experience </h2>
 <br/>
 
+**Data Analytic Consultant** at [UNCCD][unccd]  
+
+Contract, *Jan. 2022 - May 2022*  
+Development of an analytical framework for the synthesis of data gathered within the CRIC 21 reporting process | Prototyping data visualizations for the CRIC synthesis documents | Cooperation with internal and external stakeholders at the development of a relational database for the effective storage and querying of reporting data     
+  
+Tech stack: Python, Jupyter, PostgreSQL-PostGIS, R Tidyverse, RStudio, Docker, Conda, Git & GitHub  
+  
 **Geospatial Data Consultant** at [WWF Sweden][wwf_swe]  
 
-Contract, *July. 2021 - ongoing*  
+Contract, *July. 2021 - Feb.2022*  
 
 Analysed data to estimate corporate water risks at site level | Generated data visualizations such as charts and maps | Produced reports and slide-shows presentations in accordance with WWF Water Risk Filter reporting process and standards     
 
@@ -239,6 +246,7 @@ Desk research activities:
 
 Tech stack: QGIS, R Stats, R Spatial, Rstudio
 
+  [unccd]: https://www.unccd.int/ "UNCCD"
   [wwf_swe]: https://www.wwf.se/english/wwf-in-sweden/ "WWF SWEDEN"
   [planadapt]: https://www.plan-adapt.org/climate-co-adaptation-lab/ "PlanAdapt"
   [wwf_wrf]: https://waterriskfilter.panda.org/ "WRF-WWF"
@@ -287,19 +295,38 @@ Principles of biology, geology and ecology. The course of study covered a wide r
 <h2> Training courses </h2>
 <br/>
 
+**Artificial Intelligence (AI) for Earth Monitoring**, Feb. 2022
+
+*EUMETSAT and European Centre for Medium-Range Weather Forecasts (ECMWF)*, [Certificate of Completion][a14eo_eumetsat]  
+
+Introduction to European Union's Copernicus Programme | Copernicus Data Collections | Types of AI, Machine Learning, and Deep Learning algorithms | Practical, Real-world Applications of AI for Earth Monitoring of Land, Ocean, Atmosphere, and Climate | Hands-on training using Python in Jupyter Notebooks on the WEkEO platform  
+  
+[a14eo_eumetsat]: http://u.pc.cd/1MvctalK    
+
 **End-to-End Google Earth Engine**, Nov. 2021
 
 *Spatial Thoughts*, [Certificate of Completion][gee_course]  
 
 Data Import/Export, Calculating Indices, Extracting Time Series, Supervised Classification, Building UI Apps, Using Python API  
+  
+[gee_course]: http://u.pc.cd/loyctalK  
 
-[gee_course]: http://u.pc.cd/loyctalK
+**Danube Floodplain Management**, Sept. 2021
 
-**Danube Floodplain Management**, Oct. 2021  
+*by Technical University of Munich within EU Interreg Project*, [Certificate of Completion][danube_flood]  
 
-*Technical University of Munich - EU Interreg Project*  
+Principles of floodplain management and its relevance to EU legislation | Knowledge on technical aspects such as modelling, ecosystem services valuation, stakeholder engagement | Principles of feasibility studies and cost-benefit analysis |
+Presentation of newly developed Web-GIS tools for evaluating floodplains and their restoration potential  
 
-Principles of floodplain management and its relevance to EU legislation | Knowledge on technical aspects such as modelling, ecosystem services valuation, stakeholder engagement | Principles of feasibility studies and cost-benefit analysis | Presentation of newly developed Web-GIS tools for evaluating floodplains and their restoration potential
+[danube_flood]: http://u.pc.cd/XOqitalK  
+
+**ARSET - Agricultural Crop Classification with Synthetic Aperture Radar and Optical Remote Sensing**, Oct. 2021  
+
+*Applied Remote Sensing Training Program - NASA*, [Certificate of Completion][arset_acc]  
+
+Passive and active remote sensing data and how they relate to agricultural parameters | Characteristics of passive and/or active sensors used in operational crop mapping and biophysical retrievals | Satellite data for conducting agricultural analysis | Pre-processing optical and radar imagery | Crop types classification using supervised and unsupervised techniques | Best practices for collecting field-based training data | Retrieval of crop biophysical variables  
+
+[arset_acc]: http://u.pc.cd/z1KrtalK
 
 **Advanced QGIS**, Sept. 2021  
 
@@ -315,7 +342,7 @@ Modeling and Automating GIS Workflows | Visualizing Time Series and 3D Data | Ad
 
 Overview of Species Distribution Models (SDMs) | Data Sources for Species Distribution and Remote Sensing Data for Landscape Characterization | Tools for conducting SDM for a variety of ecosystems such Wallace R-based platform for modeling of species niches and distributions
 
-[arest_sdm]: http://u.pc.cd/PazrtalK
+[arset_sdm]: http://u.pc.cd/PazrtalK
 
 **ARSET - Using Google Earth Engine for Land Monitoring Applications**, Jun. 2021   
 
