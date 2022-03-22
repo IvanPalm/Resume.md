@@ -126,7 +126,7 @@ Tech stack: Python, Jupyter, PostgreSQL-PostGIS, R Tidyverse, RStudio, Docker, C
 
 Contract, *Feb. 2021 - ongoing*  
 
-Reviewed methodologies for corporate water risks assessment and scenarios analysis in close cooperation with the technical project manager | Designed data visualizations and maps of global water risks for efficient data communication in stakeholder engagement | Established automation workflows for data analysis and for data reporting  
+Reviewed methodologies for corporate water risks assessment and scenarios analysis in close cooperation with the technical project manager | Designed data visualizations and maps of global water risks for efficient data communication in stakeholder engagement | Established automation workflows for data analysis and for data reporting | Developed a R package with over 70 exported functions necessary to generate Risk Assessment and Scenarios Analysis reports 
 
 Tech stack: R Spatial, Tidyverse, R-Plotly, OfficeR, RStudio, MS Office, Conda, Git & GitHub
 
