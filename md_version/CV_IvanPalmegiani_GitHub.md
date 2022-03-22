@@ -121,7 +121,15 @@ Contract, *Jan. 2022 - May 2022*
 Development of an analytical framework for the synthesis of data gathered within the CRIC 21 reporting process | Prototyping data visualizations for the CRIC synthesis documents | Cooperation with internal and external stakeholders at the development of a relational database for the effective storage and querying of reporting data     
   
 Tech stack: Python, Jupyter, PostgreSQL-PostGIS, R Tidyverse, RStudio, Docker, Conda, Git & GitHub  
-  
+
+**Geospatial Data Consultant** at [WWF Water Risk Filter][wwf_wrf]  
+
+Contract, *Feb. 2021 - ongoing*  
+
+Reviewed methodologies for corporate water risks assessment and scenarios analysis in close cooperation with the technical project manager | Designed data visualizations and maps of global water risks for efficient data communication in stakeholder engagement | Established automation workflows for data analysis and for data reporting  
+
+Tech stack: R Spatial, Tidyverse, R-Plotly, OfficeR, RStudio, MS Office, Conda, Git & GitHub
+
 **Geospatial Data Consultant** at [WWF Sweden][wwf_swe]  
 
 Contract, *July. 2021 - Feb.2022*  
@@ -135,14 +143,6 @@ Tech stack: R Spatial, Tidyverse, R-Plotly, OﬃceR, RStudio, MS Oﬃce, Conda, 
 Fellowship, *Apr. 2021 - ongoing*   
 
 Proposal development with focus on GIS and Earth Observation technologies for the design of Nature-Based Solutions  
-
-**Geospatial Data Consultant** at [WWF Water Risk Filter][wwf_wrf]  
-
-Contract, *Feb. 2021 - ongoing*  
-
-Reviewed methodologies for corporate water risks assessment and scenarios analysis in close cooperation with the technical project manager | Designed data visualizations and maps of global water risks for efficient data communication in stakeholder engagement | Established automation workflows for data analysis and for data reporting  
-
-Tech stack: R Spatial, Tidyverse, R-Plotly, OfficeR, RStudio, MS Office, Conda, Git & GitHub
 
 **Geospatial Data Scientist** at [SmartCloudFarming GmbH][scf]  
 
@@ -302,6 +302,14 @@ Principles of biology, geology and ecology. The course of study covered a wide r
 Introduction to European Union's Copernicus Programme | Copernicus Data Collections | Types of AI, Machine Learning, and Deep Learning algorithms | Practical, Real-world Applications of AI for Earth Monitoring of Land, Ocean, Atmosphere, and Climate | Hands-on training using Python in Jupyter Notebooks on the WEkEO platform  
   
 [a14eo_eumetsat]: http://u.pc.cd/1MvctalK    
+
+**ARSET Advanced Training - Using Earth Observations for Pre- and Post-Fire Monitoring**, Jan. 2022
+
+*Applied Remote Sensing Training Program - NASA*, [Certificate of Completion][arset_fire2]
+
+Identify land cover and climate variables related to wildfire risk | Access and display geospatial wildfire risk data layers | Create a burn severity map using satellite imagery | Calculate burned area using satellite imagery
+
+[arset_fire2]: http://u.pc.cd/YndctalK
 
 **End-to-End Google Earth Engine**, Nov. 2021
 
