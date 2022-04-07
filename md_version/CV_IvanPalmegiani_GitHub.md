@@ -4,22 +4,20 @@
 
 <br/><br/>
 
-E-mail: <ivan.palmegiani@gmail.com>    
-[LinkedIn Profile][linkedin]  
-[GitHub][github]   
-
+  E-mail: <ivan.palmegiani@gmail.com>  
+  [LinkedIn Profile][linkedin]  
+  [GitHub][github]  
 
   [linkedin]: https://www.linkedin.com/in/ivan-palmegiani-13a4a15b/ "My_LinkedIn"
   [github]: https://github.com/IvanPalm "My_GitHub"
-
 
 <br/>
 <center><h2> Professional Profile </h2></center>
 <br/>
 
-My expertise results from the fusion of ecosystem thinking and technical skills.
+My expertise results from the fusion of system thinking and technical skills.
   
-I hold expert knowledge and professional experience in biodiversity and wildlife monitoring, landscape ecology, as well as water and soil management. I'm familiar with European Union directives, and well informed about international initiatives and partnerships aiming at the conservation, restoration, and sustainable management of natural resources.
+I hold professional experience in several thematic areas including water risk management, landscape ecology, as well as soil monitoring and management. I'm familiar with European Union directives, and well informed about international initiatives and partnerships aiming at the conservation, restoration, and sustainable management of natural resources.
 
 I can identify, collect and analyse quantitative data as well as satellite imagery to address pressing environmental issues involving land ecosystems, and make sense of the numerical results to identify risks and opportunities inherent each case study.
 
