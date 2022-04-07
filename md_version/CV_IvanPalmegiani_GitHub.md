@@ -17,7 +17,7 @@
 
 My expertise results from the fusion of system thinking and technical skills.
   
-I hold professional experience in several thematic areas including water risk management, landscape ecology, as well as soil monitoring and management. I'm familiar with European Union directives, and well informed about international initiatives and partnerships aiming at the conservation, restoration, and sustainable management of natural resources.
+I hold professional experience in several thematic areas including water risk management, landscape ecology, as well as soil monitoring. I'm familiar with European Union directives, and well informed about international initiatives and partnerships aiming at the conservation, restoration, and sustainable management of natural resources.
 
 I can identify, collect and analyse quantitative data as well as satellite imagery to address pressing environmental issues involving land ecosystems, and make sense of the numerical results to identify risks and opportunities inherent each case study.
 
@@ -292,6 +292,12 @@ Principles of biology, geology and ecology. The course of study covered a wide r
 <br/>
 <h2> Training courses </h2>
 <br/>
+
+**Water Risk Assessment Blueprint**, Mar. 2022 - May 2022
+
+by *Jennifer Moeller-Gulland*
+
+Understand and assess water risk holistically | Understand the importance of water risk for businesses and investment operations | Scanning countries, project sites and investment portfolios for water risk | Stakeholder engagement | Water risk assessment for improved decision making, investment decisions and project implementation | Induce decision/policy makers into water stewardship action | Finding solutions to water risk | Multi-stakeholder platforms to address water risk
 
 **Artificial Intelligence (AI) for Earth Monitoring**, Feb. 2022
 
