@@ -30,15 +30,15 @@ I can identify, collect and analyse quantitative data as well as satellite image
     <th> </th>
   </tr>
   <tr>
-    <td>QGIS</td>
-    <td>Advanced</td>
-  </tr>
-  <tr>
     <td>Python for Geospatial Analysis</td>
     <td>Advanced</td>
   </tr>
   <tr>
     <td>R Spatial, Stats and Charts</td>
+    <td>Advanced</td>
+  </tr>
+    <tr>
+    <td>QGIS</td>
     <td>Advanced</td>
   </tr>
   <tr>
@@ -116,7 +116,7 @@ I can identify, collect and analyse quantitative data as well as satellite image
 **Data Analytic Consultant** at [UNCCD][unccd]  
 
 Contract, *Jan. 2022 - May 2022*  
-Development of an analytical framework for the synthesis of data gathered within the CRIC 21 reporting process | Prototyping data visualizations for the CRIC synthesis documents | Cooperation with internal and external stakeholders at the development of a relational database for the effective storage and querying of reporting data     
+Development of an analytical framework for the synthesis of data gathered within the CRIC 21 reporting process | Prototyping data visualizations for the CRIC synthesis documents | Cooperation with internal and external stakeholders at the development of a relational database for the effective storage and querying of reporting data  
   
 Tech stack: Python, Jupyter, PostgreSQL-PostGIS, R Tidyverse, RStudio, Docker, Conda, Git & GitHub  
 
@@ -124,7 +124,7 @@ Tech stack: Python, Jupyter, PostgreSQL-PostGIS, R Tidyverse, RStudio, Docker, C
 
 Contract, *Feb. 2021 - ongoing*  
 
-Reviewed methodologies for corporate water risks assessment and scenarios analysis in close cooperation with the technical project manager | Designed data visualizations and maps of global water risks for efficient data communication in stakeholder engagement | Established automation workflows for data analysis and for data reporting | Developed a R package with over 70 exported functions necessary to generate Risk Assessment and Scenarios Analysis reports 
+Reviewed methodologies for corporate water risks assessment and scenarios analysis in close cooperation with the technical project manager | Designed data visualizations and maps of global water risks for efficient data communication in stakeholder engagement | Established automation workflows for data analysis and for data reporting | Developed a R package with over 70 exported functions necessary to generate Risk Assessment and Scenarios Analysis reports  
 
 Tech stack: R Spatial, Tidyverse, R-Plotly, OfficeR, RStudio, MS Office, Conda, Git & GitHub
 
@@ -132,13 +132,13 @@ Tech stack: R Spatial, Tidyverse, R-Plotly, OfficeR, RStudio, MS Office, Conda, 
 
 Contract, *July. 2021 - Feb.2022*  
 
-Analysed data to estimate corporate water risks at site level | Generated data visualizations such as charts and maps | Produced reports and slide-shows presentations in accordance with WWF Water Risk Filter reporting process and standards     
+Analysed data to estimate corporate water risks at site level | Generated data visualizations such as charts and maps | Produced reports and slide-shows presentations in accordance with WWF Water Risk Filter reporting process and standards  
 
 Tech stack: R Spatial, Tidyverse, R-Plotly, OﬃceR, RStudio, MS Oﬃce, Conda, Git & GitHub
 
 **Research Fellow** at [PlanAdapt Climate Co-Adaptation Lab][planadapt]  
 
-Fellowship, *Apr. 2021 - ongoing*   
+Fellowship, *Apr. 2021 - ongoing*  
 
 Proposal development with focus on GIS and Earth Observation technologies for the design of Nature-Based Solutions  
 
@@ -146,18 +146,11 @@ Proposal development with focus on GIS and Earth Observation technologies for th
 
 Contract, *Mar. 2020 - Feb. 2021*  
 
-Coordinated a small team of data professionals in a production context, i.e. research and development. Developed a minimum viable product (MVP) for soil moisture monitoring from Earth Observation data    
+Coordinated a small team of data professionals in a production context, i.e. research and development. Developed a minimum viable product (MVP) for soil moisture monitoring from Earth Observation data  
 
-- Performed literature research to identify state-of-the-art methods for the estimation of soil water content and soil organic carbon from satellite imagery
-- Presented key findings in bibliographical reports
-- Identified suitable data sources to facilitate programmatic access to satellite imagery, and to ground data  
-- Developed data science pipelines to source and composite satellite imagery to train machine learning (ML) models, and prepared ground data to test and validate predictions
-- Co-developed and fine-tuned ML models to predict soil moisture content from satellite data. The accuracy of predictions is satisfactory (R squared > 0.95, RMSE < 0.05)
-- Generated interactive data visualizations and 3D maps to report model predictions to executives
-- Developed dashboards to display ground data and model predictions to investors, and to potential clients  
+Performed literature research to identify state-of-the-art methods for the estimation of soil water content and soil organic carbon from satellite imagery | Presented key findings in bibliographical reports | Identified suitable data sources to facilitate programmatic access to satellite imagery, and to ground data | Developed data science pipelines to source and composite satellite imagery to train machine learning (ML) models, and prepared ground data to test and validate predictions | Co-developed and fine-tuned ML models to predict soil moisture content from satellite data. The accuracy of predictions is satisfactory (R squared > 0.95, RMSE < 0.05) | Generated interactive data visualizations and 3D maps to report model predictions to executives | Developed dashboards to display ground data and model predictions to investors, and to potential clients  
 
-Tech stack: Python Spatial Modules, Jupyter, QGIS, Google Earth Engine (Python API), Scikit Learn, 
-  Python-Plotly, Streamlit, Conda, Git & GitHub, Docker, PostgreSQL-PostGIS, Google Cloud Platform, Google App Engine
+Tech stack: Python Spatial Modules, Jupyter, QGIS, Google Earth Engine (Python API), Scikit Learn, Python-Plotly, Streamlit, Conda, Git & GitHub, Docker, PostgreSQL-PostGIS, Google Cloud Platform, Google App Engine
 
 **Data Scientist** at [Earth Ratings UG][eratings]  
 
@@ -175,8 +168,7 @@ Revised data storage procedures at the Conservation and Population Genetic resea
 
 Tech stack: data wrangling in Python, forms for data entry were generated in Microsoft Access
 
-**Professional re-qualification**  
-
+**Professional re-qualification**
 *Oct. 2018 - Nov. 2019*  
 
 Data Science and Python programming courses | German language course | Conflict management and non-violent-communication (NVC) self-training | Personal development
@@ -185,29 +177,15 @@ Data Science and Python programming courses | German language course | Conflict 
 
 Full-time, *Apr. 2013 - Jun. 2018*  
 
-Investigated the behavioural ecology of the cheetah in central Namibia, and engaged with local stakeholders and communities for the mitigation of human-wildlife conflict   
+Investigated the behavioural ecology of the cheetah in central Namibia, and engaged with local stakeholders and communities for the mitigation of human-wildlife conflict  
 
 Desk research activities:
-- Developed data collection protocols
-- Managed field operations
-- Planned and supervised field campaigns for the live-capture of cheetahs
-- Performed spatial and movement analyses of high-resolution GPS telemetry data
-- Modeled distribution of the species and use of space in relation to landscape features, land use, land cover, and natural vegetation phenology  
-- Modeled individual movement patterns and interactions between individuals
-- Managed GPS telemetry data in [Movebank][movebank]
-- Designed and maintained PostgreSQL-PostGIS database
-- Formulated evolutionary hypothesis and performed statistical testing  
-- Presented scientific results to local stakeholders through talks and presentations
-- Organized scientific symposia
+Developed data collection protocols | Managed field operations | Planned and supervised field campaigns for the live-capture of cheetahs | Performed spatial and movement analyses of high-resolution GPS telemetry data | Modeled distribution of the species and use of space in relation to landscape features, land use, land cover, and natural vegetation phenology | Modeled individual movement patterns and interactions between individuals | Managed GPS telemetry data in [Movebank][movebank] | Designed and maintained PostgreSQL-PostGIS database | Formulated evolutionary hypothesis and performed statistical testing   | Presented scientific results to local stakeholders through talks and presentations | Organized scientific symposia  
 
 Tech stack: QGIS, R Stats, R Spatial, Rstudio, PostgreSQL-PostGIS
 
 Field activities:
-- Executed live-capture campaigns for biotagging cheetahs  
-- Assisted in the live-capture for biotagging leopards  
-- Collected presence-absence data via camera-trap surveys
-- Engaged with local communities and stakeholders with the aim of mitigating human-wildlife conflict
-- Coordinated data collection in the field, supervised technicians and volunteers
+Executed live-capture campaigns for biotagging cheetahs | Assisted in the live-capture for biotagging leopards | Collected presence-absence data via camera-trap surveys | Engaged with local communities and stakeholders with the aim of mitigating human-wildlife conflict | Coordinated data collection in the field, supervised technicians and volunteers
 
 **Graduate Research Assistant** at [CIBIO - Research Center in Biodiversity and Genetic Resources][cibio]  
 
@@ -216,31 +194,24 @@ Full-time, *Feb. 2012 - Feb. 2013*
 Investigated the spatial ecology of endangered wildlife species in the Iberian peninsula (Portugal and Spain)  
 
 Field activities:
-- Undertaken live-capture campaigns for biotagging wolves
-- Collected presence-absence data along line-transects and via camera-trap surveys
-- Engaged with rural communities in the attempt to mitigate human-wildlife conflict  
-- Joined field expeditions to Southern Portugal and Spain in support of *EU Life* project for the conservation of the Iberian Lynx (Reference: LIFE08 NAT/P/000227, Acronym: Habitat Lince Abutre)
+Undertaken live-capture campaigns for biotagging wolves | Collected presence-absence data along line-transects and via camera-trap surveys | Engaged with rural communities in the attempt to mitigate human-wildlife conflict | Joined field expeditions to Southern Portugal and Spain in support of *EU Life* project for the conservation of the Iberian Lynx (Reference: LIFE08 NAT/P/000227, Acronym: Habitat Lince Abutre)
 
 Desk research activities:
-- Modeled habitat selection and distribution of species in relation to land use and land cover 
+Modeled habitat selection and distribution of species in relation to land use and land cover  
 
 Tech stack: QGIS, R Stats, R Spatial, Rstudio
 
 **Graduate Research Assistant** at [Department of Zoology and Evolutionary Genetics, University of Sassari][uniss]  
 
-Full-time, *Nov. 2010 - Nov. 2011*    
+Full-time, *Nov. 2010 - Nov. 2011*  
 
 Investigated spatial distribution, abundance and reproductive success of wolves in Central and Northern Italy  
 
 Field activities:
-- Undertaken live-capture campaigns for biottaging wolves  
-- Estimated pack size and reproductive success via wolf-howling surveys
-- Collected presence-absence data along line-transects and via camera-trap surveys
-- Engaged with local communities in the attempt to mitigate human-wildlife conflict
+Undertaken live-capture campaigns for biottaging wolves | Estimated pack size and reproductive success via wolf-howling surveys | Collected presence-absence data along line-transects and via camera-trap surveys | Engaged with local communities in the attempt to mitigate human-wildlife conflict  
 
 Desk research activities:
-- Performed biocustical analysis of wolves vocalizations
-- Ensured proper storage and management of spatial data via GIS softwares
+Performed biocustical analysis of wolves vocalizations | Ensured proper storage and management of spatial data via GIS softwares
 
 Tech stack: QGIS, R Stats, R Spatial, Rstudio
 
@@ -278,13 +249,13 @@ Added, completed and/or updated spatial features such as roads, intersections, f
 
 **Master of Science (MSc)**, Jul. 2010  
 
-*Environmental Sciences and Natural Resources Management*, University of Sassari.  
+*Environmental Sciences and Natural Resources Management*, University of Sassari  
 Grade: 110/110 *Summa cum Laude*  
 
 Systems ecology, landscape ecology, regional geology, pedology, sedimentology, wildlife conservation and management, conservation genetics, environmental modeling, statistical inference, advanced statistical theory, environmental economics  
 
 **Bachelor of Science (BSc)**, Feb. 2008  
-*Environmental Sciences*, University of Perugia.   
+*Environmental Sciences*, University of Perugia  
 Grade: 107/110  
 
 Principles of biology, geology and ecology. The course of study covered a wide range of subjects to provide students with the solid background required to undertake ecological and environmental studies.
