@@ -103,7 +103,7 @@ I can identify, collect and analyse quantitative data as well as satellite image
 </table> 
 </td></tr>
 <tfoot><tr><td colspan="30" style="color:gry30;font-size:10.5px;">
-Advanced: can handle most tasks independently, good knowledge of avaialble tools and tricks. Can troubleshoot most problems with minimal recourse to documentaion and online resources. Intermediate: can handle a variety of relatively complicated tasks and situations with recourse to documentation and online resources</td></tr></tfoot>
+Advanced: can handle most tasks independently, good knowledge of available tools and tricks. Can troubleshoot most problems with minimal recourse to documentation and online resources. Intermediate: can handle a variety of relatively complicated tasks and situations with recourse to documentation and online resources</td></tr></tfoot>
 </table>
 
 <br/>
