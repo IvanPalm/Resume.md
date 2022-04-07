@@ -24,7 +24,7 @@ I can identify, collect and analyse quantitative data as well as satellite image
 <br/>
 
 <table align=center><tr><td>
- <table align=left>
+ <table align=left style="width:100%">
   <tr>
     <th>Technical Skills</th>
     <th> </th>
@@ -63,7 +63,7 @@ I can identify, collect and analyse quantitative data as well as satellite image
   </tr>
   </table> 
 </td><td>
- <table align=right>
+ <table align=right style="width:100%">
   <tr>
     <th>Organizational Skills</th>
     <th> </th>
@@ -101,7 +101,10 @@ I can identify, collect and analyse quantitative data as well as satellite image
     <td>Very good</td>
   </tr>
 </table> 
-</td></tr></table>
+</td></tr>
+<tfoot><tr><td colspan="30" style="color:gry30;font-size:10.5px;">
+Advanced: can handle most tasks independently, good knowledge of avaialble tools and tricks. Can troubleshoot most problems with minimal recourse to documentaion and online resources. Intermediate: can handle a variety of relatively complicated tasks and situations with recourse to documentation and online resources</td></tr></tfoot>
+</table>
 
 <br/>
 
