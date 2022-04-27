@@ -15,12 +15,14 @@
 <center><h2> Professional Profile </h2></center>
 <br/>
 
-My expertise results from the fusion of system thinking and technical skills.
+My expertise results from the fusion of ecosystem thinking and technical skills.  
   
-I hold professional experience in several thematic areas including water risk management, landscape ecology, as well as soil monitoring. I'm familiar with European Union directives, and well informed about international initiatives and partnerships aiming at the conservation, restoration, and sustainable management of natural resources.
-
-I can identify, collect and analyse quantitative data as well as satellite imagery to address pressing environmental issues involving land ecosystems, and make sense of the numerical results to identify risks and opportunities inherent each case study.
-
+I hold expert knowledge and professional experience in several disciplines such as water management, landscape and soil ecology, as well as biodiversity and wildlife monitoring.  
+  
+I can identify, collect and analyze quantitative data as well as satellite imagery to address pressing environmental issues involving land ecosystems, and make sense of the numerical results to identify risks and opportunities inherent each case study.  
+  
+Worth mentioning that I only support projects and work with clients which I find having a positive impact on environment and on society.  
+  
 <br/>
 
 <table align=center><tr><td>
