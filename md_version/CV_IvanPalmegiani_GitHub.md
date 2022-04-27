@@ -17,7 +17,7 @@
 
 My expertise results from the fusion of ecosystem thinking and technical skills.  
   
-I hold expert knowledge and professional experience in several disciplines such as water management, landscape and soil ecology, as well as biodiversity and wildlife monitoring.  
+I hold expert knowledge and professional experience in several thematic areas such as landscape and soil ecology, water risk management, as well as biodiversity and wildlife monitoring.  
   
 I can identify, collect and analyze quantitative data as well as satellite imagery to address pressing environmental issues involving land ecosystems, and make sense of the numerical results to identify risks and opportunities inherent each case study.  
   
