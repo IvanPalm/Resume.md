@@ -36,7 +36,7 @@ Worth mentioning that I only support projects and work with clients which I find
     <td>Advanced</td>
   </tr>
   <tr>
-    <td>R Spatial, Stats and Charts</td>
+    <td>R Spatial, Stats and Visualization</td>
     <td>Advanced</td>
   </tr>
     <tr>
@@ -114,7 +114,9 @@ Advanced: can handle most tasks independently, good knowledge of available tools
 
 <center> English - Fluent • Italian - Native • Spanish - Fluent • Portuguese - Fluent • German - Intermediate </center>
 
-<br/>
+<div style="page-break-after: always"></div>
+
+<!-- <br/> -->
 <h2> Professional Experience </h2>
 <br/>
 
@@ -388,6 +390,3 @@ Explanatory methods (PCA, PcoA, MDS, clustering) | Inferential methods (Randomiz
 
 Linear and nonlinear regression models | Non-parametric regression model
 | Principal components analysis | Factor analysis | Correspondence analysis | Cluster analysis | R coding  
-
-<h2> Hobbies and interests </h2>  
-Cooking • Indoor gardening • Outdoor sports and activities such as climbing, bouldering, hiking, biking, canoeing, camping • Tai Chi • DIY and Handicraft • Music and Arts • Urban agriculture
