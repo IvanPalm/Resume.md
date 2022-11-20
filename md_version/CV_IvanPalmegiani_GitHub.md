@@ -124,7 +124,7 @@ Advanced: can handle most tasks independently, good knowledge of available tools
 
 Full-time, *Jul. 2022 - present*  
 
-While working at the intersection between science and policies, I conduce research and advisory projects on sustainable land use, Nature-based Solutions (NbS), ecological restoration, sustainable agriculture, and on environmental finance.
+While working at the intersection between science and policy, I conduce research and advisory projects on sustainable land use, Nature-based Solutions (NbS), ecological restoration, sustainable agriculture, and on environmental finance.
 
 **Geospatial Data Consultant** at [WWF Water Risk Filter][wwf_wrf]  
 
