@@ -17,7 +17,7 @@
 
 My expertise results from the fusion of ecosystem thinking and technical skills.  
   
-I hold expert knowledge and professional experience in several thematic areas such as landscape and soil ecology, water risk management, as well as biodiversity and wildlife monitoring.  
+I hold expert knowledge and professional experience in several thematic areas such as landscape ecology, water risk management, as well as biodiversity and wildlife research.  
   
 I can identify, collect and analyze quantitative data as well as satellite imagery to address pressing environmental issues involving land ecosystems, and make sense of the numerical results to identify risks and opportunities inherent each case study.  
   
@@ -120,6 +120,20 @@ Advanced: can handle most tasks independently, good knowledge of available tools
 <h2> Professional Experience </h2>
 <br/>
 
+**Land Use Science Consultant** at [Climate Focus][climatefocus]  
+
+Full-time, *Jul. 2022 - present*  
+
+While working at the intersection between science and policies, I conduce research and advisory projects on sustainable land use, Nature-based Solutions (NbS), ecological restoration, sustainable agriculture, and on environmental finance.
+
+**Geospatial Data Consultant** at [WWF Water Risk Filter][wwf_wrf]  
+
+Contract, *Feb. 2021 - present*  
+
+Reviewed methodologies for corporate water risks assessment and scenarios analysis in close cooperation with the technical project manager | Designed data visualizations and maps of global water risks for efficient data communication in stakeholder engagement | Established automation workflows for data analysis and for data reporting | Developed a R package with over 70 exported functions necessary to generate Risk Assessment and Scenarios Analysis reports  
+
+Tech stack: R Spatial, Tidyverse, R-Plotly, OfficeR, RStudio, MS Office, Conda, Git & GitHub
+
 **Data Analytic Consultant** at [UNCCD][unccd]  
 
 Contract, *Jan. 2022 - May 2022*  
@@ -127,19 +141,11 @@ Development of an analytical framework for the synthesis of data gathered within
   
 Tech stack: Python, Jupyter, PostgreSQL-PostGIS, R Tidyverse, RStudio, Docker, Conda, Git & GitHub  
 
-**Geospatial Data Consultant** at [WWF Water Risk Filter][wwf_wrf]  
-
-Contract, *Feb. 2021 - ongoing*  
-
-Reviewed methodologies for corporate water risks assessment and scenarios analysis in close cooperation with the technical project manager | Designed data visualizations and maps of global water risks for efficient data communication in stakeholder engagement | Established automation workflows for data analysis and for data reporting | Developed a R package with over 70 exported functions necessary to generate Risk Assessment and Scenarios Analysis reports  
-
-Tech stack: R Spatial, Tidyverse, R-Plotly, OfficeR, RStudio, MS Office, Conda, Git & GitHub
-
 **Geospatial Data Consultant** at [WWF Sweden][wwf_swe]  
 
 Contract, *July. 2021 - Feb.2022*  
 
-Analysed data to estimate corporate water risks at site level | Generated data visualizations such as charts and maps | Produced reports and slide-shows presentations in accordance with WWF Water Risk Filter reporting process and standards  
+Analyzed data to estimate corporate water risks at site level | Generated data visualizations such as charts and maps | Produced reports and slide-shows presentations in accordance with WWF Water Risk Filter reporting process and standards  
 
 Tech stack: R Spatial, Tidyverse, R-Plotly, OﬃceR, RStudio, MS Oﬃce, Conda, Git & GitHub
 
@@ -184,7 +190,7 @@ Data Science and Python programming courses | German language course | Conflict 
 
 Full-time, *Apr. 2013 - Jun. 2018*  
 
-Investigated the behavioural ecology of the cheetah in central Namibia, and engaged with local stakeholders and communities for the mitigation of human-wildlife conflict  
+Investigated the behavioral ecology of the cheetah in central Namibia, and engaged with local stakeholders and communities for the mitigation of human-wildlife conflict  
 
 Desk research activities:
 Developed data collection protocols | Managed field operations | Planned and supervised field campaigns for the live-capture of cheetahs | Performed spatial and movement analyses of high-resolution GPS telemetry data | Modeled distribution of the species and use of space in relation to landscape features, land use, land cover, and natural vegetation phenology | Modeled individual movement patterns and interactions between individuals | Managed GPS telemetry data in [Movebank][movebank] | Designed and maintained PostgreSQL-PostGIS database | Formulated evolutionary hypothesis and performed statistical testing   | Presented scientific results to local stakeholders through talks and presentations | Organized scientific symposia  
@@ -222,6 +228,7 @@ Performed biocustical analysis of wolves vocalizations | Ensured proper storage 
 
 Tech stack: QGIS, R Stats, R Spatial, Rstudio
 
+  [climatefocus]: https://climatefocus.com/ "Climate Focus"
   [unccd]: https://www.unccd.int/ "UNCCD"
   [wwf_swe]: https://www.wwf.se/english/wwf-in-sweden/ "WWF SWEDEN"
   [planadapt]: https://www.plan-adapt.org/climate-co-adaptation-lab/ "PlanAdapt"
@@ -240,13 +247,13 @@ Tech stack: QGIS, R Stats, R Spatial, Rstudio
 
 *Aug. - Sept. 2021*  
 
-Generated contents for the Space4Water portal, title of the article: "The water cycle from space: the central role of satellite-informed models in corporate water management". *[Link to the article][space4water]* 
+Generated contents for the Space4Water portal, title of the article: "The water cycle from space: the central role of satellite-informed models in corporate water management". *[Link to the article][space4water]*
 
 [space4water]: https://www.space4water.org/news/water-cycle-space-central-role-satellite-informed-models-corporate-water-management
 
 **OpenStreetMap**  
 
-*June 2021 - ongoing*  
+*June 2021 - present*  
 
 Added, completed and/or updated spatial features such as roads, intersections, forest patches, agricultural lands and respective metadata in Rieti province and immediate surroundings, in Central Italy, plus minor contributions to features over the city of Berlin, in Germany.
 
@@ -271,6 +278,27 @@ Principles of biology, geology and ecology. The course of study covered a wide r
 <h2> Training courses </h2>
 <br/>
 
+**Applied Remote Sensing Training Program (ARSET)**
+
+*NASA*
+
+- Evaluating Ecosystem Services with Remote Sensing - [Certificate of Completion][arset_ess]
+- Using the UN Biodiversity Lab to Monitor the Pulse of the Planet - [Certificate of Completion][arset_biolab]
+- Using Earth Observations for Pre- and Post-Fire Monitoring - Advanced Training - [Certificate of Completion][arset_fire2]
+- Agricultural Crop Classification with Synthetic Aperture Radar and Optical Remote Sensing - [Certificate of Completion][arset_acc]
+- Species Distribution Modeling with Remote Sensing - [Certificate of Completion][arset_sdm]  
+- Using Google Earth Engine for Land Monitoring Applications - [Certificate of Completion][arset_gee]  
+- Satellite Observations and Tools for Fire Risk, Detection, and Analysis - [Certificate of Completion][arset_fire]
+
+[arset_ess]: http://u.pc.cd/sdpotalK
+[arset_biolab]: http://u.pc.cd/RLHctalK
+[arset_fire2]: http://u.pc.cd/MOn
+[arset_acc]: http://u.pc.cd/80BrtalK
+[arset_sdm]: http://u.pc.cd/JVBctalK
+[arset_gee]: http://u.pc.cd/KShctalK
+[arset_fire]: http://u.pc.cd/6zK7
+
+
 **Water Risk Assessment Blueprint**, Mar. 2022 - May 2022
 
 by *Jennifer Moeller-Gulland*
@@ -283,15 +311,7 @@ Understand and assess water risk holistically | Understand the importance of wat
 
 Introduction to European Union's Copernicus Programme | Copernicus Data Collections | Types of AI, Machine Learning, and Deep Learning algorithms | Practical, Real-world Applications of AI for Earth Monitoring of Land, Ocean, Atmosphere, and Climate | Hands-on training using Python in Jupyter Notebooks on the WEkEO platform  
   
-[a14eo_eumetsat]: http://u.pc.cd/1MvctalK    
-
-**ARSET Advanced Training - Using Earth Observations for Pre- and Post-Fire Monitoring**, Jan. 2022
-
-*Applied Remote Sensing Training Program - NASA*, [Certificate of Completion][arset_fire2]
-
-Identify land cover and climate variables related to wildfire risk | Access and display geospatial wildfire risk data layers | Create a burn severity map using satellite imagery | Calculate burned area using satellite imagery
-
-[arset_fire2]: http://u.pc.cd/YndctalK
+[a14eo_eumetsat]: http://u.pc.cd/CAf7    
 
 **End-to-End Google Earth Engine**, Nov. 2021
 
@@ -299,7 +319,7 @@ Identify land cover and climate variables related to wildfire risk | Access and 
 
 Data Import/Export, Calculating Indices, Extracting Time Series, Supervised Classification, Building UI Apps, Using Python API  
   
-[gee_course]: http://u.pc.cd/loyctalK  
+[gee_course]: http://u.pc.cd/VXI  
 
 **Danube Floodplain Management**, Sept. 2021
 
@@ -308,15 +328,7 @@ Data Import/Export, Calculating Indices, Extracting Time Series, Supervised Clas
 Principles of floodplain management and its relevance to EU legislation | Knowledge on technical aspects such as modelling, ecosystem services valuation, stakeholder engagement | Principles of feasibility studies and cost-benefit analysis |
 Presentation of newly developed Web-GIS tools for evaluating floodplains and their restoration potential  
 
-[danube_flood]: http://u.pc.cd/XOqitalK  
-
-**ARSET - Agricultural Crop Classification with Synthetic Aperture Radar and Optical Remote Sensing**, Oct. 2021  
-
-*Applied Remote Sensing Training Program - NASA*, [Certificate of Completion][arset_acc]  
-
-Passive and active remote sensing data and how they relate to agricultural parameters | Characteristics of passive and/or active sensors used in operational crop mapping and biophysical retrievals | Satellite data for conducting agricultural analysis | Pre-processing optical and radar imagery | Crop types classification using supervised and unsupervised techniques | Best practices for collecting field-based training data | Retrieval of crop biophysical variables  
-
-[arset_acc]: http://u.pc.cd/z1KrtalK
+[danube_flood]: http://u.pc.cd/ShfctalK  
 
 **Advanced QGIS**, Sept. 2021  
 
@@ -324,31 +336,7 @@ Passive and active remote sensing data and how they relate to agricultural param
 
 Modeling and Automating GIS Workflows | Visualizing Time Series and 3D Data | Advanced Expressions
 
-[qgis_cert]: http://u.pc.cd/MK0ctalK
-
-**ARSET - Species Distribution Modeling with Remote Sensing**, Aug. 2021  
-
-*Applied Remote Sensing Training Program - NASA*, [Certificate of Completion][arset_sdm]  
-
-Overview of Species Distribution Models (SDMs) | Data Sources for Species Distribution and Remote Sensing Data for Landscape Characterization | Tools for conducting SDM for a variety of ecosystems such Wallace R-based platform for modeling of species niches and distributions
-
-[arset_sdm]: http://u.pc.cd/PazrtalK
-
-**ARSET - Using Google Earth Engine for Land Monitoring Applications**, Jun. 2021   
-
-*Applied Remote Sensing Training Program - NASA*, [Certificate of Completion][arset_gee]  
-
-Navigate the GEE interface to explore remote sensing datasets relevant to land monitoring | Execute JavaScript commands to retrieve satellite data and process imagery for analysis | Complete a supervised land classification along with an accuracy assessment in GEE | Apply algorithms to derive a time series of environmental parameters and calculate differences between years to detect landscape changes | Illustrate the capabilities of cloud-based raster computing for land management applications
-
-[arset_gee]: http://u.pc.cd/7asctalK
-
-**ARSET - Satellite Observations and Tools for Fire Risk, Detection, and Analysis**, May 2021  
-
-*Applied Remote Sensing Training Program - NASA*, [Certificate of Completion][arset_fire]  
-
-Terminology regarding type and components of fire (pre, during, post) | Climatic and biophysical conditions pre-, during-, and post-fire | The satellites and instruments used in conducting fire science | The applications of passive and active remote sensing for fires | How to visualize fire emissions and particulate matter | The use of tools for active fires, emissions, and burned areas | How to acquire data for conducting analysis in a given study area
-
-[arset_fire]: http://u.pc.cd/72UrtalK
+[qgis_cert]: http://u.pc.cd/yXdrtalK
 
 **Echoes in Space**, July 2020  
 
@@ -356,7 +344,7 @@ Terminology regarding type and components of fire (pre, during, post) | Climatic
 
 History of Radar technology and the discovery of electromagnetic waves | Image acquisition | Geometry of airborne and space borne Radar systems | Land applications of Radar remote sensing | Applications of radar remote sensing over Water | Application of Radar remote sensing for Hazard management  
 
-[esa_sar]: http://u.pc.cd/u2NrtalK
+[esa_sar]: http://u.pc.cd/1vp7
 
 **Data Science Bootcamp**, Aug. 2019 - Nov. 2019   
 
@@ -364,7 +352,7 @@ History of Radar technology and the discovery of electromagnetic waves | Image a
 
 Data protection and ethical matters | Linear and nonlinear regression | A/B testing | Hypothesis testing | Data visualization in Tableau | Object oriented programming (OOP) | Python modules and functions | Pandas and NumPy | Multiprocessing and multithreading | RESTful API | Webscraping | Neural Networks and Machine Learning techniques | Keras and TensorFlow
 
-[bta]: http://u.pc.cd/gNfctalK
+[bta]: http://u.pc.cd/ljqrtalK
 
 **Movement Ecology Summer School**, Aug. 2015   
 
