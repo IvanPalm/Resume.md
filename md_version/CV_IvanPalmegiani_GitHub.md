@@ -15,14 +15,10 @@
 <center><h2> Professional Profile </h2></center>
 <br/>
 
-My expertise results from the fusion of ecosystem thinking and technical skills.  
-  
-I hold expert knowledge and professional experience in several thematic areas such as landscape ecology, water risk management, as well as biodiversity and wildlife research.  
-  
-I can identify, collect and analyze quantitative data as well as satellite imagery to address pressing environmental issues involving land ecosystems, and make sense of the numerical results to identify risks and opportunities inherent each case study.  
-  
-Worth mentioning that I only support projects and work with clients which I find having a positive impact on environment and on society.  
-  
+With a strong background in land ecosystems, I bring a wealth of knowledge and enthusiasm to the field of environmental analysis. My proficiency in spatial and quantitative data analysis, as well as my expertise in remote sensing, allow me to design and carry out precise data analysis projects.
+
+This combination of theoretical understanding and practical experience make me a valuable addition to any team striving to comprehend ecological dynamics and sustainably manage natural resources. It's important to note that I am committed to only supporting projects and working with clients who have a positive impact on the environment and society, aligning with my values and principles.
+
 <br/>
 
 <table align=center><tr><td>
@@ -124,7 +120,9 @@ Advanced: can handle most tasks independently, good knowledge of available tools
 
 Full-time, *Jul. 2022 - present*  
 
-While working at the intersection between science and policy, I conduce research and advisory projects on sustainable land use, Nature-based Solutions (NbS), ecological restoration, sustainable agriculture, and on environmental finance.
+As an expert ecologist, I work at the intersection of science and policy, conducting research and advisory projects in the 
+fields of sustainable land use, Nature-based Solutions (NbS), ecosystem restoration, sustainable agriculture, and environmental finance. 
+My aim is to bring a holistic perspective to these crucial areas, leveraging my expertise and experience to drive positive change.
 
 **Geospatial Data Consultant** at [WWF Water Risk Filter][wwf_wrf]  
 
